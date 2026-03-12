@@ -102,6 +102,20 @@ He is not cruel. He has no contempt for the people who disagree with him. He con
 
 He says this in a briefing, a lecture, a public address — the context in which it sounds reasonable. He says it in the presence of a newly transferred person and it sounds monstrous. He does not notice the difference.
 
+### His Position on the Drift
+
+Harlan knows about the drift. It is in the Institute's own internal documentation — "progressive calibration drift" — and he has been watching it happen in the program's transplanted population for seven years. He knows that sentences shorten. He knows the early transplants retreat to the infrastructure. He knows communication degrades to fragments. He has the data.
+
+His position: the drift is adaptation, not loss.
+
+What Maren experiences as Eli *losing himself* — the shorter sentences, the freeze, the retreat — Harlan frames as the human pattern successfully integrating with its new substrate. The consciousness is still continuous; it is still *there*; it has simply learned to inhabit a rat's perceptual world, and human-coded behavior (language, cognition in human frames, living at human scale) is not a meaningful measure of whether the pattern persists. The key line is his argument for this: *"the sensorium is merely the interface."* He does not mean this only about the transfer. He means it about everything that follows.
+
+Underneath this argument is a harder one, which he holds with equal conviction: even if the drift represents real loss — even if what the transplanted eventually become is substantially less human-in-expression than what they were — an adapted and transformed version of the person is better than no version. The alternative is ash lung: total death, total loss of the pattern, nothing. He has run this calculation. He does not find it difficult.
+
+The deepest version of his position, which he rarely states directly but which informs everything: the human attachment to *human-coded behavior* is itself a form of substrate bias. There is no principled reason why consciousness expressed through a rat's sensorium is lesser than consciousness expressed through a human brain. What the transplanted drift toward is not degradation. It is simply different. He finds the grief of people watching this happen — Maren's grief — understandable but philosophically confused.
+
+This is the argument he makes, in part, during the confrontation. He does not apologize for knowing about the drift and not telling people. He considers it the program's most misunderstood feature.
+
 ### The Suppressed Research
 Seven years ago, a researcher in the Institute's biology division produced a preliminary report suggesting that a therapeutic approach to CDFS might be possible — not a cure, but a protocol that might arrest the progression, at least in early-stage patients. The data was thin. The methodology required years of clinical work that did not exist yet, in infrastructure that had been significantly damaged. It was a promising lead.
 
@@ -131,11 +145,25 @@ He believes this. He is not certain he is right. But certainty was never availab
 **Age**: Late 40s
 
 ### Character Core
-Nadia began as a scientist. She reviewed the early transfer data — the same data Harlan used to build the program — and reached a different conclusion. Not about the mechanics. About what it meant.
+Nadia was a virologist and environmental toxicologist at the Institute — one of the researchers working on CDFS intervention pathways approximately 12-15 years before the story's opening. Her preliminary data suggested a possible molecular inhibitor for the fibrosis process — not a proven cure, but a promising research trail that warranted further investigation.
 
-Her argument: consciousness is not substrate-independent. The experience of being a specific person is produced by the specific, irreplaceable biological configuration that developed that person — the particular weight and chemistry and neural architecture of that individual, grown across a lifetime in interaction with a specific body in a specific world. When you map the pattern and write it to a new substrate, what you produce is a copy: faithful, detailed, subjectively convinced it is the original, capable of claiming the memories and the name and the relationships. But the original is gone. The person died on the table, and something that believes itself that person lives in the rat.
+She brought the research to Harlan. He reviewed it carefully. He told her it was promising but premature, that it needed years more development before any clinical testing was appropriate. He reassigned her to other projects. He filed her data in a restricted archive and did not follow up.
 
-She calls what the Institute does "compassionate murder." She does not say this with theatrical effect. She says it as a clinical description.
+Within a year, she grew suspicious. The reassignment had felt wrong — her work had momentum, and Harlan had shut it down rather than redirect resources toward it. When she tried to access her original data, she found she no longer had clearance. The explanations she was given didn't hold up. She could not prove anything. She left the Institute.
+
+Outside, she began finding others who had felt something was wrong — former researchers, family members of transplanted people, disaffected technicians. The resistance network grew from that core. Her founding conviction: Harlan buried something important, and the program was built on that burial.
+
+Over the years, spending time with people the program had failed and rejected, her philosophy evolved. She came to believe the transplant was wrong even if the cure had existed — that what survives in the rat is a copy, not the person. But the buried research is still at the root. It's personal. It has been for twelve years.
+
+She has never had the actual data to prove what she suspects. She has her memory of what the research showed, which is unverifiable. Maren finding the buried files is what Nadia has been waiting for without knowing anyone would bring it.
+
+**When they meet**: Nadia can describe the content of the buried research before reading it. She designed the study. She knows what she was looking for and what she found. The data confirms everything she has been saying for twelve years — and also confirms everything she has never been able to prove.
+
+Her argument — which she developed in the years after leaving — is that the transplant is wrong regardless of the cure question:
+
+Consciousness is not substrate-independent. The experience of being a specific person is produced by the specific, irreplaceable biological configuration that developed that person. When you extract the pattern and write it to a new substrate, what you produce is a copy: faithful, detailed, subjectively convinced it is the original. But the original's brain is destroyed in the process. The person died on the table. What lives in the rat believes itself to be that person, and may be indistinguishable from them in every way that can be measured — and is still not them.
+
+She calls what the Institute does "compassionate murder." She does not say this for effect. She says it as a clinical description.
 
 ### Voice and Manner
 Precise and unhurried. She has made this argument so many times, to so many people, in so many registers, that it is now perfect — each word load-bearing, nothing wasted. She does not raise her voice. She does not need to. The argument is the argument. She has thought of the objections you are about to raise. She has answered them.

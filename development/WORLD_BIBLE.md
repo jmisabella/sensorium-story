@@ -43,7 +43,7 @@ The city does not think about the outer districts. There is no policy. There is 
 ### What It Is
 The plague is called *ash lung* by ordinary people. The scientific designation is *Contaminant-Derived Fibrotic Syndrome* — CDFS — which names its cause and says nothing useful about what it does.
 
-It is a consequence of the wars. The chemical and biological weapons used in the last decades of the conflict introduced persistent agents into the soil, water table, and atmosphere. The immediate casualties were catastrophic. But some of what was released was slower — agents designed to degrade over years, whose byproducts bioaccumulate through the food chain, through the water, through the simple act of breathing air in a poisoned place. For two generations, the contamination built up. The third generation began to die from it.
+It is a consequence of the wars — specifically their final phase. The wars lasted roughly 150 years in total, but the worst chemical and biological weapons were deployed in the last major conflict, approximately 80-100 years before the story's present. The immediate casualties were catastrophic. But some of what was released was slower — persistent agents designed to degrade over decades, whose byproducts bioaccumulate through the food chain, through the water, through the simple act of breathing air in a poisoned place. Over generations, the contamination accumulated in human tissue. Ash lung began appearing as an epidemic condition approximately 30-50 years ago. The Institute was founded in direct response.
 
 The lungs scar. Slowly at first — a chronic cough, shortness of breath on exertion, a film of grey when someone coughs into their hand. Over months, the scarring progresses: lung capacity drops, the coughing produces blood, climbing stairs becomes difficult then impossible. The immune system, already compromised by the same bioaccumulation, fails to manage the scarring and begins to fail in other ways. Infections that would once have been minor become dangerous. The body attacks itself.
 
@@ -77,7 +77,15 @@ The Institute for Continued Human Consciousness — the Institute, in common usa
 
 The turn toward biological substrates came from a junior researcher who noted that the failure mode in artificial transfer was not the transfer itself but the *absence of appropriate sensory input*. A human mind, suddenly deprived of the sensory environment it evolved to interpret, would begin to fracture. What was needed was not a more sophisticated machine but a living nervous system — one already wired for survival, sensation, and response.
 
-Rats were chosen for their resilience, their neurological complexity relative to body size, their rapid reproduction, their ability to thrive in exactly the environmental conditions that were killing humans: damp, contaminated, urban.
+Rats were chosen because the scientists noticed them. In the most contaminated areas — the outer districts, the abandoned industrial zones — humans were dying faster than anywhere else. The rats were not. They were thriving. The question *why are the rats healthy?* became a formal research priority.
+
+The answer: CDFS is caused by persistent chemical compounds that bind to a specific surfactant protein variant found in human lung tissue, triggering progressive fibrosis. Rats have a slightly different molecular variant of this protein. The binding mechanism does not work the same way in rat lung tissue. Same contaminated air. Different biological response.
+
+This discovery — that rats were physiologically immune to the specific mechanism that was killing humans — is the same discovery that led to the transplant program. Harlan followed the rats to the solution. Their immunity and their suitability as substrate are a single thread.
+
+Central to the program's development was breeding a suitable rat strain. Wild rats live 1-3 years — inadequate for a transplanted human mind. Over 40 years, the Institute ran a dedicated breeding program: selective breeding over approximately 120-160 rat generations (rats reproduce every 3-4 months), combined with optimal controlled conditions. Each generation, the longest-lived individuals became the breeding stock. The result is program rats that live ~15-20 years. No advanced genetic engineering — the technology for that was lost in the data collapses. Patient selective breeding under existential pressure, the old-fashioned way.
+
+Program rats are bred and maintained by the Institute and assigned to approved candidates. They are not available outside the program.
 
 The first successful transfer was made eleven years ago. The mind transferred. The rat lived. Communication was established within days through the implanted readout device. The program has been operating at increasing scale for the last seven years.
 

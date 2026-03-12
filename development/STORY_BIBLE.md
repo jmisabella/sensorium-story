@@ -125,7 +125,8 @@ The title is not decorative. The word tracks the story's meaning:
 - [x] 5 critical structural decisions resolved
 - [x] World Bible
 - [x] Character Sheets (MC, Partner, Scientist, Rebel Leader)
-- [ ] Plot Outline (scene-by-scene)
+- [x] Plot Hole Review (development/PLOT_HOLES.md)
+- [x] Plot Outline (scene-by-scene)
 - [ ] Key Scene Sketches (7 priority scenes — draft BEFORE full prose):
   1. The "mid-sentence freeze" — Eli stops mid-conversation, orients toward something Maren cannot perceive, screen goes dark, footsteps, gone. Most devastating scene in the collection.
   2. First interaction with Eli-rat — recognition horror through the device. His voice on the screen for the first time.
