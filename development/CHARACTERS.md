@@ -1,0 +1,165 @@
+# Sensorium — Character Sheets
+
+*Note: Minor characters to be developed during plot outline phase.*
+
+---
+
+## Maren — The MC
+
+**Role**: Investigator, Oversight Authority (the enforcement arm of the Council responsible for the transplant program's security)
+
+**Age**: Late 30s / early 40s
+
+### Character Core
+Maren is someone who believes in things and does not advertise it. She chose this work because the transplant program represented something worth defending — a hard, ugly, necessary hope — and she is good at her job because she cannot bring herself to do it any other way. Her passion lives in what she notices and what she refuses to let go, not in what she says. She does not express conviction directly; it surfaces as precision.
+
+She became a doubter three years ago. She has not told anyone.
+
+### Voice and Manner
+Dry when she uses humor. Brief when she explains herself. She has the investigator's habit of watching rather than speaking — she tends to know what she thinks before anyone else in the room has finished their sentence. She is not cold but she is disciplined, and in a world that requires constant emotional management, discipline can look like coldness to people who don't look carefully.
+
+She is harder on herself than on anyone else. This is not a virtue.
+
+### The Shaking Moment
+Three years before the story opens, Maren attended a transfer as part of her Oversight duties — standard procedure, observing the process. The transfer succeeded. The subject, a man she knew professionally, was conscious and communicating through the device within forty-eight hours. The reports were positive. By institutional measure, everything had gone correctly.
+
+On her third visit, mid-conversation, he went still. Not in the absent way of someone distracted or thinking — something else. His attention snapped away from her entirely. The device screen went dark. He sat motionless on the observation table for perhaps thirty seconds. Then he oriented back toward her and the screen flickered: *sorry. smell. it was very strong.*
+
+She wrote it in her report as *subject demonstrated expected sensory adjustment period*. She went home. She did not sleep.
+
+She has attended no transfer ceremonies since. She has told herself this is because her schedule does not allow it. This is not true.
+
+### What She Wants (and What She Can't Admit)
+She wants the program to be what she believed it was when she joined: a terrible but necessary mercy. She wants the doubt to be wrong. She wants Eli to be safe, which means she wants the transplant to be something she can accept, which means she wants to be wrong about what she saw three years ago.
+
+She is not wrong.
+
+### Arc
+True believer with suppressed doubt → forced into full reckoning by Eli's decline and her investigation → discovery of the suppressed cure research → confrontation with Harlan → the impossible choice.
+
+The grief in the story is not about whether she loves Eli. She does, completely, in the way that people who have spent years alongside someone do. It is about whether love is enough to close the gap between human and rat. It is about whether that gap can be closed at all.
+
+---
+
+## Eli — The Partner
+
+**Role**: Teacher; Maren's partner of seven years
+
+**Age**: Mid 40s
+
+### Character Core
+Eli has spent his career trying to hold the chain of knowledge together — the chain the wars nearly broke entirely. He teaches what remains: fragments of history, literature, science, mathematics, the things that need to be passed between people rather than stored in systems that can be destroyed. He chose this work the way someone chooses something they believe matters.
+
+He is warm in the way of someone who genuinely likes people and has stopped pretending otherwise. He is exact with language — a teacher's habit, a gift, and eventually the most painful thing about his loss. The sentences getting shorter means something specific when every word was chosen carefully.
+
+### Voice and Manner
+Direct. Specific. He tends to say what he means, and what he means tends to be the more generous interpretation. Not naive — he has lived in a dying world long enough to know what it looks like. But he finds, repeatedly, that his default is to assume the best of things until there is no room left to do so.
+
+He notices things in the way of someone who has spent decades explaining things to other people: he looks for the right angle, the right word, the right way in. This applies to Maren as much as to anyone else.
+
+### The Ash Lung
+At the story's opening, Eli has been managing ash lung for fourteen months. He is in the late early stage: the chronic cough is established, he brings up blood perhaps twice a week, his breath limits him on stairs. He has missed time from teaching. He knows the progression. He has been reading the research.
+
+He has not hidden this from Maren. He has not performed optimism about it. He has let her set the pace of the conversation about the transplant, which has meant the conversation has barely happened at all.
+
+### The Decision
+When Eli decides to undergo the transplant, it is not a crisis decision made in desperation. It is a considered one. He believes the mind is what he is — the teaching, the language, the specific way he looks at things — and the transplant preserves the mind. He knows what the sensorium displacement does. He has read what the early transplants have described. He chooses it anyway, because the alternative is the slow extinction of everything he is and was, and this at least has a chance.
+
+He tells Maren: *I know what it costs. I'd rather pay it.*
+
+She cannot answer this, which means she cannot stop it.
+
+### The Decline (Post-Transfer)
+- **Weeks 1-4**: Full sentences. His vocabulary, his rhythm, his specificity. He describes the rat world — the scent trails, the whiskers, the ultrasonic range — with the precision of someone who has just encountered something extraordinary. He is still Eli. She can hear it.
+- **Months 2-3**: The pauses begin. He loses sentences mid-way and picks them up seconds or minutes later, slightly wrong. He apologizes for this. The apologies start to shorten too.
+- **Months 3-4**: The freeze. He stops mid-conversation, orients toward something she cannot perceive, and leaves. He comes back later and does not mention it. This happens multiple times.
+- **Months 4-5**: Short sentences. Specific words gone — the careful ones, the unusual ones, the ones that took longer to form. What remains is direct and sincere, which is its own devastation.
+- **The plea**: *I don't want you to become this.* Five words, near the end. Said with what he has left.
+
+### Key Line (keep near-verbatim)
+> *"I don't want you to become this."*
+
+---
+
+## Harlan — The Scientist / Antagonist
+
+**Role**: Director of the Institute for Continued Human Consciousness; the architect of the transplant program
+
+**Age**: Early 60s
+
+### Character Core
+Harlan has been working on this problem for his entire adult life. He is the reason the transplant program exists. He has held it together through two Council administrations, through public opposition, through the years when the failures were catastrophic and every setback felt like an argument for stopping. He did not stop. He was right not to stop. The program works.
+
+He is not a villain in his own account. He is a man who saw what was coming, built the only response that could work, made difficult decisions that no one else was positioned to make, and kept going. He will tell you this. He will be right about most of it.
+
+### Voice and Manner
+Precise, measured, without warmth but not unkind. He explains things the way someone explains things when they have been right for a long time and the habit of being right has become indistinguishable from the person. He does not perform certainty — he simply has it.
+
+He is not cruel. He has no contempt for the people who disagree with him. He considers their positions carefully and finds them, in the end, understandable but wrong. He is not angry when confronted. He is patient in the way of someone who has made the same argument many times and expects to make it many more.
+
+### The Key Line (lock near-verbatim)
+> *"The sensorium is malleable. We are not bound to one set of inputs. The pattern adapts; the sensorium is merely the interface."*
+
+He says this in a briefing, a lecture, a public address — the context in which it sounds reasonable. He says it in the presence of a newly transferred person and it sounds monstrous. He does not notice the difference.
+
+### The Suppressed Research
+Seven years ago, a researcher in the Institute's biology division produced a preliminary report suggesting that a therapeutic approach to CDFS might be possible — not a cure, but a protocol that might arrest the progression, at least in early-stage patients. The data was thin. The methodology required years of clinical work that did not exist yet, in infrastructure that had been significantly damaged. It was a promising lead.
+
+Harlan read it. He assessed it. He made a calculation: the research would take at minimum five years to test properly. During those five years, hope of a cure would suppress voluntary participation in the transplant program. Families would wait. Individuals in early-stage ash lung would hold on, watching, hoping. The plague would continue. People would die waiting for something that might not materialize. And if the research failed — which preliminary research usually did — the program would have lost years of momentum and public trust it could not recover.
+
+He buried it.
+
+He tells himself, accurately, that this was the pragmatic calculation. He tells himself, also accurately, that he believes the transplant is the better path for humanity regardless of the cure question — that if you could cure ash lung tomorrow, the species would still eventually face the problem of biological mortality, biological limitation, biological fragility in an environment that was becoming less habitable with each generation. The transplant is not just a survival measure. It is the next step.
+
+He does not think of himself as having suppressed hope. He thinks of himself as having preserved the only certain path forward.
+
+### In Confrontation
+When Maren confronts him with the evidence, he does not deny it. He explains. He presents the case — the calculation, the likelihood of failure, the cost in lives of false hope — and he presents it well, because he has lived inside this argument for seven years and every weakness in it has been addressed, every counterargument absorbed.
+
+Some of what he says is not wrong. This is the horror of the scene. Maren cannot dismiss everything he tells her. The window of uncertainty in the cure research is real. The cost of false hope is real. The fact that he also believed the transplant was right regardless is real.
+
+He ends with: *I did not make this decision carelessly. I made it carefully. That is different from making it wrongly.*
+
+He believes this. He is not certain he is right. But certainty was never available, and he acted in its absence as he always has — by choosing the path most likely to preserve the most minds. He still believes he chose correctly.
+
+---
+
+## Nadia — The Rebel Leader
+
+**Role**: Leader of a philosophical resistance network; formerly a bioscience researcher
+
+**Age**: Late 40s
+
+### Character Core
+Nadia began as a scientist. She reviewed the early transfer data — the same data Harlan used to build the program — and reached a different conclusion. Not about the mechanics. About what it meant.
+
+Her argument: consciousness is not substrate-independent. The experience of being a specific person is produced by the specific, irreplaceable biological configuration that developed that person — the particular weight and chemistry and neural architecture of that individual, grown across a lifetime in interaction with a specific body in a specific world. When you map the pattern and write it to a new substrate, what you produce is a copy: faithful, detailed, subjectively convinced it is the original, capable of claiming the memories and the name and the relationships. But the original is gone. The person died on the table, and something that believes itself that person lives in the rat.
+
+She calls what the Institute does "compassionate murder." She does not say this with theatrical effect. She says it as a clinical description.
+
+### Voice and Manner
+Precise and unhurried. She has made this argument so many times, to so many people, in so many registers, that it is now perfect — each word load-bearing, nothing wasted. She does not raise her voice. She does not need to. The argument is the argument. She has thought of the objections you are about to raise. She has answered them.
+
+She is not ideologically rigid — she holds her position the way a scientist holds a hypothesis: open to evidence that would change it, unsurprised that it hasn't arrived yet. If someone produced evidence that consciousness was substrate-independent, she would look at it carefully. She does not expect anyone to produce such evidence.
+
+She is not cruel. She finds the people who have undergone the transplant genuinely, honestly tragic — she is not dismissing their experience or their claim to personhood. She is saying the person they claim to be died, and someone else is living inside what remains, and everyone involved is too frightened to look at this directly.
+
+### Her Network
+Nadia leads people with different convictions and different methods. She does not endorse every action taken in the network's name. She is also not naive about the violence that moves through the margins of the movement. She has made a calculation: that the only way to stop what the Institute is doing is to make it impossible, and that making it impossible requires more than argument.
+
+This makes her complicated. The sabotage that Maren investigates exists because Nadia exists. The people who died in those attacks died in part because of decisions Nadia made or permitted. She carries this, and it does not move her from her position, and Maren finds it difficult to decide whether that is moral clarity or moral failure.
+
+### Her Question (which haunts the ending)
+> *Is that Eli in the rat, or a pattern that believes it is Eli?*
+
+She asks Maren this directly, at some point in the investigation when Maren has access to her. She does not ask it cruelly. She asks it the way a doctor asks a question the patient already knows the answer to and has been avoiding.
+
+Maren does not answer. She has been living with the question since Eli went still mid-sentence and left the room.
+
+### Her Name
+Nadia is not in any official record. She is not a public figure. She does not appear in the Oversight Authority's databases under any identifier that has been connected to her. Maren tracks her through the network's operations rather than through any document with her name on it.
+
+---
+
+## Minor Characters
+*To be developed during plot outline phase. Likely needs: at least one Oversight Authority colleague for Maren, at least one Institute researcher (not Harlan) who provides the path to the suppressed data, possibly a recently-transferred person who serves as early-story illustration of the transplant's reality.*
