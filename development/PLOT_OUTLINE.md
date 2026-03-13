@@ -36,6 +36,8 @@ This beat establishes:
 - The rats: present and unremarkable, not yet charged with meaning
 - The rain: never explained, never attributed, simply *present*
 
+**STRUCTURAL NOTE — OPENING SEQUENCE**: Beat 1 runs as a brief half-page opener. Immediately after — with no chapter break, no header, no date — the BEFORE sketch follows (sketch_before.md: an ordinary evening 2–3 years prior). The world frames the love: the reader arrives at the apartment having seen what she walks home through. Beat 2 (Home, present-tense) then begins the story's main timeline. Do NOT open with BEFORE alone — the Beat 1 paragraph is the frame that prevents the domestic scene from reading as a slow start.
+
 ---
 
 ### Beat 2 — Home
@@ -153,6 +155,8 @@ Maren pulls on the supply chain thread from the inciting incident. She follows i
 
 She presses the "researcher" reference again — hearing the phrase from a new source, this time with slightly more context: *she left the Institute. Twelve years ago. Harlan reassigned her.*
 
+**SOREN NOTE**: Soren appears briefly in this beat or adjacent to it — a shared scene in the Oversight offices or at a scene. Brief, professional, functional. He is doing the same investigation Maren is doing, efficiently and without her complications. The contrast is present but not stated.
+
 ---
 
 ### Beat 13 — Second Visit: Whiskers
@@ -188,6 +192,8 @@ The investigation leads her to a meeting point — a contact in the outer distri
 
 **Structural note**: By this beat, Maren has enough to close the case — enough to hand to Soren, enough to identify the network's leadership to the Oversight Authority. She chooses not to. She goes alone, tells no one, does not log the location. She has made the decision before she opens the door. This is important: when she meets Nadia, she is not there to gather evidence. She has already decided something, though she may not have named it yet to herself.
 
+**SOREN NOTE**: Second Act Two Soren appearance adjacent to this beat — he asks about a lead she hasn't shared, or notes a gap in her log. She gives him just enough. He lets it go. Neither of them says what they both understand. This plants the seed for Beat 22.5: the reader has seen him notice her divergence before the mirror scene names it.
+
 ---
 
 ### Beat 18 — THE FREEZE
@@ -213,12 +219,16 @@ The screen activates, eventually: *sorry. came back. something — I don't have 
 
 She writes: *subject demonstrated expected sensory response.* She is the only one who will read this report. She goes home. She doesn't sleep.
 
+**SENSORIUM #2 — REQUIRED IN THIS BEAT**: In the aftermath of the Freeze — in her internal processing, not in the report — the word surfaces. She reaches for a way to describe what she just watched, and finds Harlan's vocabulary waiting for her: the sensorium. She is using the clinical term of the man who buried the cure to name what just took Eli out of the room mid-sentence. She notices she is doing this. The word belongs to him and she cannot escape it. This is the second appearance of "sensorium" in the story — the first time it costs something.
+
 ---
 
 ### Beat 19 — Maren Meets Nadia
 The outer district meeting: an occupied building, a room with no addressable windows. Nadia, in person for the first time: precise, unhurried, not at all what Maren expected from a resistance leader. She makes her argument directly:
 
 *Is that Eli in the rat, or a pattern that believes it is Eli?*
+
+**ABANDONED CITY DETAIL — PLACE HERE**: In this meeting, Nadia or someone in her network mentions the expeditions to nearby cities — sent over the years to find other survivors, returning with the same report: empty streets, abandoned buildings, and rats. Everywhere, rats. Not afraid. Watching. One expedition member: *they watched me the whole time I was there.* Nadia's framing: the other cities made their "transition." The Institute considers this success. This detail colors the epilogue's ambiguity: the reader carries it forward to the two rats in the drainage channel.
 
 She does not ask it cruelly. She asks it the way a doctor asks a question the patient already knows the answer to.
 

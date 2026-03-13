@@ -127,9 +127,13 @@ The grief in this story only works if the love works. These are not separate ele
 
 The title is not decorative. The word tracks the story's meaning:
 
-- **Early**: Clinical. The scientist's word. Dismissive. *"The sensorium is merely the interface."* The MC hears it as cold and reductive.
-- **Middle**: She hears it again and it costs something. Her partner is losing his battle with his sensorium. The word now names her grief.
-- **Late**: The word has become an open wound. It means something irreversibly different from what it meant at the start.
+- **Early** (Beat 4 — Harlan's briefing): Clinical. The scientist's word. Dismissive. *"The sensorium is merely the interface."* The MC records it without reaction. It costs her nothing yet.
+- **Middle** (Beat 18 aftermath — THE FREEZE): She reaches for a word to describe what she just watched — Eli leaving mid-sentence, oriented toward something she cannot perceive — and finds Harlan's vocabulary waiting. She notices she is using his language. The word belongs to him and she cannot escape it. First time it costs something.
+- **Late** (Beat 26 — final chapter): The word surfaces again in her internal processing of the choice. It has become an open wound. It means something irreversibly different from what it meant in the briefing room.
+- **Epilogue**: Do NOT use the word. Let it remain human — a word that belongs to the story's grief, not the rats'.
+
+### "She did not sleep" — ration this refrain
+This phrase appears in sketches 01, 02, 04, and 06. In the full prose it must not appear more than **3 times** or it becomes a verbal tic rather than a structural echo. Reserve it for: First Contact (sketch_02), the Freeze (sketch_01), and the final chapter (Beat 26). All other instances of sleeplessness require different language.
 
 ---
 
