@@ -1,3 +1,5 @@
+We are developing the framework, story arc, and outline of a sci-fi novella `Sensorium`. This prompt file outlines planned work across multiple sessions for specifically developing scene sketches of 7 very important scenes. 
+
 # Session Prompts — Key Scene Sketches
 
 Each session below covers one scene sketch. Copy and paste the relevant session's prompt into a fresh Claude Code session.
