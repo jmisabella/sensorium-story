@@ -91,3 +91,39 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The north-end transfer center attack: the transfer candidate killed was in recovery prep, three hours from the procedure. This is the inciting incident at scale; future references should honor these specifics.
   - Eight destroyed early-stage intake files — this detail is available for later use if relevant.
   - The detained woman's inadmissible statement is not in any formal file that Maren can use — it's in her memory. If she returns to it, it should be from memory, not from documentation.
+
+---
+
+## Chapter 4 — THE LINE
+
+- **Harlan's first appearance**: Established as not a large man, but with the quality of "someone who had been right for a long time — a settled-ness, an absence of the small adjustments people made when they were still convincing themselves." He does not pace. He selects before answering (what looks like hesitation is selection). His voice throughout is precise, patient, not unkind. He is not performing conviction — he simply has it. Do not revise this characterization upward or downward in future appearances.
+
+- **The briefing room**: Lower Council offices, no renovation in Maren's eleven years of attending. Strip lighting, uneven. Chairs slightly too low, creating accidental attentiveness. Do not upgrade this space in future appearances.
+
+- **Soren at the briefing**: Present, at the table near the door. They acknowledge each other with a nod. He does not speak in this chapter. Correct — his role here is ambient, not active.
+
+- **The "instrument and the music" line**: Harlan uses this before the key line. It is the setup for the sensorium statement. Keep both in proximity in any future reference or paraphrase of this scene.
+
+- **STRUCTURAL LANDMARK — "Sensorium" appearance #1**:
+  > *"The sensorium is malleable. We are not bound to one set of inputs. The pattern adapts; the sensorium is merely the interface."*
+  Delivered in answer to Tavari (harbor district) asking whether the transplanted are still themselves. Context: clinical, reasonable, a defensible answer to a fair question. The reader has no reason to feel its weight yet.
+
+- **Maren's note-taking**: She writes the line verbatim, exact sequence, noting the pause before *merely* the way she notes a hesitation in a witness. She does not know whether she's writing it for the investigation or for another reason. She tells herself it costs her nothing. Do NOT have her return to this note-taking moment in a way that overexplains it. Let the memory of how she wrote it resurface in Act Two (Beat 18 aftermath) when the word costs something.
+
+- **Tavari's follow-up**: He asks about behavioral adjustments in the early transplants — shortened communication, withdrawal from common spaces. Harlan answers: adaptation, calibration, natural consolidation of preference. He does not deflect. His data is present and real. This sets up the later scene where Maren knows what the Institute's language for the drift is, and knows Harlan believes it.
+
+- **Eli — planted here, pre-Beat 7**: She thinks briefly about him on the bridge home. His doctor's word: *manageable, for now.* She begins thinking about Harlan's line in relation to Eli — and stops herself. This is the first time the word's context bleeds toward Eli in her thinking. Do not call this forward explicitly until Beat 18 aftermath. Let it remain a suppressed association.
+
+- **The bridge**: The drainage channel bridge, two streets east of the Council offices. Running fast today, color from outer district runoff. Established as a specific, named route she takes. Available for future use.
+
+- **Structural markers placed**:
+  - "Sensorium" appearance #1 ✓
+  - "She did not sleep" — absent ✓ (correct — reserved for Ch. 8, 13, 20)
+
+- **Voice/style**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. The briefing scene uses slightly more extended prose to accommodate Harlan's argument, but Maren's frame around it stays clipped.
+
+- **What future chapters must honor**:
+  - Harlan's first appearance is here; future appearances build from this baseline — he is always this measured, always this patient, never performs.
+  - The "instrument and the music" framing is Harlan's argument for substrate non-independence. When Maren confronts him in Act Three, she will have heard this argument before. Do not re-establish it from scratch.
+  - Tavari is now a named Council member (harbor district). If he appears again, honor this.
+  - The Eli-thought on the bridge is suppressed and unfinished — she stopped herself. Ch. 6 (Beat 7, The Conversation They Haven't Had) is where this comes to a head. Do not prematurely extend the bridge thought.
