@@ -759,3 +759,72 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The redirect is now in her log implicitly — she told him the archive query was a dead end. If the archive contents ever become a professional matter (Council inquiry, OA review), she has logged it as methodological dead end/nothing operational. She has not lied to him in writing, only in conversation.
   - The three-exit pattern is now complete (Ch. 9, Ch. 13, Ch. 17). The reader has the full shape of Soren's professional generosity without it being named. No further tracking needed.
   - Maren's reflection ends with her going back to work — forward motion. Ch. 18 (HARLAN) follows.
+
+---
+
+## Chapter 18 — HARLAN
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. The confrontation scene runs in slightly longer prose to accommodate Harlan's argument (consistent with Ch. 4's briefing), but Maren's framing stays clipped. The aftermath sections (corridor and lobby) return to spare register. Harlan's dialogue is colon-introduced, no quotation marks, consistent with all other characters. The Beat 24 (Dael) section is brief and controlled — the devastation is in the restraint.
+
+- **Structural landmarks handled**:
+  - "She did not sleep" — ABSENT ✓ (reserved for Ch. 20 only)
+  - "Sensorium" — appears in Harlan's dialogue ("The sensorium is merely the interface") as an echo of Ch. 4, attributed speech only, NOT as Maren's interiority. This is not the third structural appearance — it is Harlan's word in Harlan's mouth. Do not count this as appearance #3 (reserved for Ch. 20).
+  - *DAEL LANDMARK #3 placed* ✓ — see below
+  - *END OF BEAT 23 and BEAT 24 both delivered* ✓
+
+- **The chapter timeline**: The next morning after Ch. 17 (Soren). She has not logged the visit as an official inquiry. The Council summary deadline (end of week) was noted in Ch. 17; she has time. She goes alone, carrying the archive drive.
+
+- **Harlan's office — details established**:
+  - North-facing window with view of drainage channel and lower district
+  - Working office, not staged — papers in order, not stacked; chair positioned at a specific angle to the terminal indicating long habit; equipment used regularly
+  - A degree, framed, in a non-prominent place — not meant to impress
+  - This space is now canonical. If referenced, honor these specifics.
+
+- **His opening recognition**: "Something settled in his expression — not surprise. More like the recognition of a prediction completing itself." He was at his terminal, looked up. His opening line: "Ask me what you came to ask." This establishes that he was expecting this conversation, prepared for it.
+
+- **The confrontation structure — three movements**:
+  1. **The pragmatic calculation**: methodology was sound, development pathway was not; 5-8 years under compromised conditions; voluntary participation would have collapsed; people would die waiting for something with an 8-15% yield rate. He states this plainly as a calculation, not a defense.
+  2. **The ideological argument**: even if the research had led somewhere, it only extends the biological window — the underlying problem (debris field, contamination, diminishing knowledge, fragile substrate) remains. The transplant is the correct direction, not a contingency. This he has believed for 23 years. The calculation and the belief arrived at the same conclusion; he does not apologize for this.
+  3. **The drift defense**: "The sensorium is merely the interface" — echoing Ch. 4 exactly. She hears it. She recognizes it with the full weight of what she has been carrying (the freeze, "I don't have the word"). She does not say this. She looks at him and does not say it.
+
+- **His closing line — near-verbatim**: *"I did not make this decision carelessly. I made it carefully. That is different from making it wrongly."* — delivered without drama, meant. He is not certain he was right; his eyes hold something "that was not quite doubt but was the next closest thing to it." He says: "Certainty was never available. It never has been. I made the decision that was most likely to preserve the most minds." He still believes he chose correctly. But he is not entirely at peace with it.
+
+- **Maren's unspoken response**: She thinks about the freeze — Eli mid-sentence, going still, leaving through the corner slot. She does not say this. She looks at Harlan and does not say it. This is rendered explicitly: "She did not say this. She looked at Harlan and did not say it." This is the chapter's pivot — she has something he doesn't have, and she keeps it. What he argues about "adaptation" and "calibration" is measured against the 34 minutes she sat in an empty room.
+
+- **What she could not dismiss**: In the corridor and walking home, rendered explicitly: "Some of what he had said was not wrong." The window of uncertainty is real. The cost of false hope is real. He made a calculation under the same conditions of incomplete knowledge in which she is now required to decide. He might have been right. This cannot be dismissed.
+
+- **She leaves without telling him what she'll do**: No answer given. She picks up the drive. He watches. "What will you do with it" — she doesn't answer. She stands. She leaves. This is the scene's ending: neither resolved.
+
+- **DAEL LANDMARK #3 — verbatim record**:
+  - The terminal screen: *gap.* — one word, then nothing, then cleared
+  - "Gap" is the unresolved thread from his thermal infrastructure project — established in Ch. 11 as "there's a gap somewhere" in the east corridor he couldn't reach. His final transmission is the problem he could never solve from above; he has followed it underground.
+  - Dael's daughter encountered in the stairwell (unnamed, late forties, carrying a folded bag, face "that had been managing something for a while"). She uses "prefers" — *"he prefers it there"* — as the word she has been given and uses because no other is available. She does not say "prefers" as her own word; it was given to her.
+  - Her exact formulation: "He said he was fine and then he stopped responding to the terminal here." And: "They tell us that's normal at this stage. That the preference for the infrastructure is a calibration."
+  - "She said the word — prefers — in the way of someone who has been given it to use and is using it because there is no other word available, because the one who would have found a better word is not findable." This is the chapter's emotional center for the Dael section.
+
+- **Maren's closing gesture**: She puts her hand against the terminal's side once, briefly, before going upstairs. No explanation. The screen stays dark. This echoes her putting her hand near the terminal in Beat 25 (Eli's plea) — but precedes it. Do not repeat this specific gesture in Ch. 19 without deliberate intent.
+
+- **The word "gap"**: Chosen as Dael's final transmission because it is (1) his unresolved thermal project, (2) the word for what he is (a gap in communication, a gap in the building structure, a gap between who he was and what he is becoming), (3) consistent with the dry, precise quality of his character — he would name the problem even at the end. Do not have him transmit anything further in any future reference. His communication arc is complete.
+
+- **The word "prefers"**: Now carries the full weight of the program's language. Harlan uses "calibration" and "adaptation." The family has been given "preference." Maren knows what all of these words are for.
+
+- **Physical details confirmed**:
+  - Institute drainage channel bridge: running dark and fast, color from outer district runoff. Consistent with prior references.
+  - The lobby terminal: floor-level, screen angled toward rat's line of sight, corner behind the main entry. Consistent with Ch. 5, Ch. 11.
+  - Dael's daughter: do not name her; she is not a recurring character. Do not bring her back.
+
+- **Structural markers NOT placed**:
+  - "She did not sleep" — absent ✓ (reserved for Ch. 20)
+  - "Sensorium" as Maren's interiority — absent ✓ (reserved for Ch. 20)
+  - Soren — absent ✓ (his arc is complete)
+  - Eli — absent ✓ (his scene is Ch. 19)
+
+- **Deviations from plan**: None. Beats 23 and 24 delivered as specified. The key lines are near-verbatim as required. Harlan does not deny; he explains. Maren leaves without telling him what she'll do. Dael: one word, family says "he just... prefers it there now."
+
+- **What future chapters must honor**:
+  - "I did not make this decision carelessly. I made it carefully. That is different from making it wrongly." — canonical phrasing. If referenced in Ch. 20, honor it.
+  - Maren cannot dismiss everything Harlan said. Ch. 20 (The Choice) must honor this: when she weighs what to do with the archive, she is not simply reacting against a villain. She is holding two arguments she cannot fully dismiss.
+  - The Dael arc is complete. His communication is done. His family has the word "prefers." Do not add to this.
+  - The "gap" word: Dael's final transmission is now canonical. If referenced in Ch. 20 or anywhere, it is *gap.*
+  - Maren's hand on the terminal is a one-time gesture here. When she puts her hand near Eli's terminal in Ch. 19, the echo is available but should not be over-underlined.
+  - Ch. 19 (THE PLEA) follows directly.

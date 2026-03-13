@@ -721,8 +721,6 @@ Save the completed chapter to `chapters/chapter_17.md`. Then append your session
 
 Don't commit or do anything with Git, I'll do that myself. 
 
-NOTE: Regarding the "She said: " pattern: We have been using this pattern for conversations and speech in the prose WAY TOO MUCH and we need to STOP
-
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
 **Core files (read all):**
@@ -769,8 +767,6 @@ Save the completed chapter to `chapters/chapter_18.md`. Then append your session
 
 Don't commit or do anything with Git, I'll do that myself. 
 
-NOTE: Regarding the "She said: " pattern: We have been using this pattern for conversations and speech in the prose WAY TOO MUCH and we need to STOP
-
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
 **Core files (read all):**
@@ -811,8 +807,6 @@ Save the completed chapter to `chapters/chapter_19.md`. Then append your session
 ## CHAPTER 20 — THE CHOICE
 
 Don't commit or do anything with Git, I'll do that myself. 
-
-NOTE: Regarding the "She said: " pattern: We have been using this pattern for conversations and speech in the prose WAY TOO MUCH and we need to STOP
 
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
