@@ -1,0 +1,61 @@
+# Chapter 11 — DRIFT
+
+She was on her way out when she stopped at the terminal. Morning, coat not yet buttoned, the day ahead of her. The screen was dark. She tapped the sensor plate.
+
+A pause. Slightly longer than usual.
+
+*maren.*
+
+She said: good morning.
+
+*cold this week.* A pause. *the east corridor. there's a gap somewhere — since the heavy rain, three weeks back. I've been working the problem in sections.*
+
+She said: any progress?
+
+*the fourth-floor east stairwell is the likely source. there's a sealed panel — storage, someone's belongings. I can't get clearance to open it. I'm working around it for now.*
+
+She said: Eli asks after you.
+
+*how is he.*
+
+She said: well enough. He wants to know how the project is going.
+
+A pause.
+
+*I've documented thirty-four distinct thermal variations.* Another pause. *I'm not certain what I'm building yet.*
+
+She said: you'll figure it out.
+
+A pause. The longest one.
+
+*a monument, possibly.*
+
+She said: I'll tell him.
+
+The screen went dark.
+
+She stood at the terminal for a moment. In the autumn he had given her the logic of the whole building in one session — the east corridor, the south wall, the zones near the ventilation trunk, the particular warmth at the main utility corner. She had written down *thermal infrastructure* and understood about half of what he told her and had been interested anyway. Today he had given her thirty-four variations and a gap he couldn't reach and a monument he hadn't named yet.
+
+She went out.
+
+---
+
+The building on the eastern canal service road had its Institute modification records on file: one access panel, main stairwell, ground level. His family's apartment was on the fourth floor. They had been in this building eleven years. She found the panel behind the stairwell — a section of wall opened onto a narrow passage, perhaps forty centimeters wide, running alongside the structural frame — and crouched to get through.
+
+The terminal was at the far end. Screen dark. She activated the sensor.
+
+A long pause.
+
+*well.*
+
+She waited.
+
+*different.*
+
+The screen went dark. She stayed in the passage for several minutes. The air was still. She could hear the ventilation, the building's slow working. The terminal did not activate again.
+
+She wrote in her investigation log: *subject accessible. passage terminal, ground level, building 44 canal service road. proximity to eastern canal infrastructure approx. two hundred meters. eastern district operations cluster: within documented range.* She noted the time. She backed out of the passage and stood.
+
+At the top of the stairwell, a door opened and closed. She did not hear steps on the stairs coming down.
+
+She went out into the rain.

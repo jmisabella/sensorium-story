@@ -386,3 +386,55 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The rain-stop barometric tracking is established; if used in a later chapter as a callback it should honor "approximately forty minutes before."
   - The asymmetry closing (she had not known he was in the corridor) is now present. Do not call it forward explicitly but it is available as context for her processing of the gap.
   - His epistemological precision — the self-correction, "the map of the room is not the room" — is characteristically Eli and should be present while it lasts. When sentences shorten in Ch. 12 and beyond, this quality (the subordinate qualification, the care about the limits of claims) is among the first to go.
+
+---
+
+## Chapter 11 — DRIFT
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. Two distinct registers within the chapter: the lobby scene (slightly warmer, neighborly) and the eastern district scene (clipped, procedural, investigation-mode). Dael's device output remains lowercase, full sentences. The early transplant's output is lowercase, minimal — two words, each a full sentence.
+
+- **Structural landmarks handled**:
+  - *DAEL LANDMARK #2* placed. His output is measurably shorter than Ch. 5 — a few sentences against what were extended sessions on the thermal infrastructure. The thermal interest persists (east corridor gap, fourth-floor sealed panel, thirty-four documented variations) but rendered in brief exchanges rather than extended description. His humor arrives at the end, after the longest pause of the session: *a monument, possibly.* — dry, self-aware, recognizably Dael. The humor is present but the path to it is longer.
+  - "She did not sleep" — absent ✓ (reserved for Ch. 13 and Ch. 20)
+  - "Sensorium" — absent ✓ (reserved for Ch. 13 and Ch. 20)
+
+- **Dael's middle-state output — verbatim record**:
+  - *maren.*
+  - *cold this week. the east corridor. there's a gap somewhere — since the heavy rain, three weeks back. I've been working the problem in sections.*
+  - *the fourth-floor east stairwell is the likely source. there's a sealed panel — storage, someone's belongings. I can't get clearance to open it. I'm working around it for now.*
+  - *how is he.* (in response to "Eli asks after you")
+  - *I've documented thirty-four distinct thermal variations. I'm not certain what I'm building yet.*
+  - *a monument, possibly.*
+  - This is his high-water mark for Ch. 11. Future appearances must measure further degradation against this.
+
+- **Dael's thermal project — continuity**: The project has continued since Ch. 5 but output has contracted. Previously: full explanations of the thermal logic of the entire building. Now: the east corridor gap (unresolved, blocked by a sealed panel), thirty-four documented variations, an ongoing project without a named goal. The phrase "a monument, possibly" is his humor about the open-endedness. Do not resolve the east corridor gap mystery in future chapters — leave it as one of his unfinished things.
+
+- **Maren's closing observation (Dael scene)**: She stands at the terminal after it goes dark. She thinks back to the autumn session — the full building logic, thermal infrastructure, her notebook entry. "Today he had given her thirty-four variations and a gap he couldn't reach and a monument he hadn't named yet." This is the chapter's only direct comparison to the baseline. Do not call it forward explicitly; it is present as her private measure. This is NOT the same as Ch. 5's unguarded smile — per continuity log instruction, that was a one-time moment. No smile here.
+
+- **The smile — NOT repeated**: The Ch. 5 continuity note specifies "Do not repeat a similar beat in future Dael scenes." Maren does not smile in Ch. 11's Dael scene. Correct.
+
+- **Early transplant — details established**:
+  - Building: 44 canal service road, eastern district
+  - Family's apartment: fourth floor. Eleven years in the building.
+  - Access: panel behind the main stairwell, ground level. Passage approximately forty centimeters wide, runs alongside structural frame. She has to crouch to enter.
+  - Terminal: at the far end of the passage. Floor-level. Screen dark until activated.
+  - Output: *well.* — pause — *different.* — then nothing. Two words, each a complete sentence. Screen stayed dark.
+  - She waited several minutes. The terminal did not reactivate.
+  - These details are now canonical — if the building is referenced in a later chapter, honor them.
+
+- **The investigation note — verbatim**: *subject accessible. passage terminal, ground level, building 44 canal service road. proximity to eastern canal infrastructure approx. two hundred meters. eastern district operations cluster: within documented range.* She noted the time. This is functional language — not dramatic. The connection to resistance infrastructure is operational, not emotional.
+
+- **The stairwell closing**: At the top of the stairwell, a door opens and closes — family, upstairs. She does not hear steps coming down. This is the chapter's closing image (before she goes out into the rain). The juxtaposition is present but not underlined: family four floors up, him in the wall passage below, no steps. Do not call this forward explicitly.
+
+- **Maren's internal processing — what is NOT rendered**: She does not think about Eli during the early transplant scene. She files her note in investigation language. She does not name the connection. The reader carries it; she doesn't articulate it. This is correct per the beat specification: "she does not think directly about what this means for Eli. But she notices." The noticing is present in the structure (chapter title, two warnings placed side by side) and in what she does not say — not in stated interiority.
+
+- **Chapter structure**: Two scenes, clean break (section rule) between them. Scene one: morning, building lobby, Dael. Scene two: afternoon, eastern district, early transplant. Connecting tissue is minimal — the break and the implicit time passage. No stated transition.
+
+- **Deviations from plan**: None. Both beats delivered as specified. The early transplant's two-word output (*well.* / *different.*) used near-verbatim from PLOT_OUTLINE.md.
+
+- **What future chapters must honor**:
+  - Dael's output at Ch. 11 is the middle-state baseline: a few sentences, thermal interest persisting, humor late-arriving. Ch. 18 (Beat 24 — Dael final state) must measure further against this.
+  - The east corridor gap is unresolved. Leave it unresolved.
+  - Building 44 canal service road: the early transplant's registered address. If the eastern district operations thread advances in investigation work, this building is within the documented cluster.
+  - The early transplant's two words — *well.* and *different.* — are now placed. Do not add to or revise his communication in any future reference.
+  - The stairwell closing (family upstairs, no steps coming down) is available for retrospective resonance if Dael's final state beat requires comparison. Do not call it forward explicitly.
