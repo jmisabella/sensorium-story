@@ -546,3 +546,58 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The room is established: third floor, building-based, seam and drip, folding chair, corner slot. Future visits (there are none dramatized in the chapter map, but referenced scenes) must match this space.
   - Soren has now noticed a gap twice (Ch. 9: room four thread; Ch. 13: unlogged eastern district afternoon). He has let it go twice. Ch. 17 is where this arc lands — he asks directly and she gives enough. That scene must honor that this is the third measurement, not the first.
   - The sensorium appearance #2 is now placed. Its weight in Ch. 20 (appearance #3) depends on what was established here: the word belongs to Harlan, it is contaminated by his suppression, she cannot escape it. When it surfaces again in the final chapter, the reader will know it has been costing her since this night.
+
+---
+
+## Chapter 14 — NADIA
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. Nadia's dialogue is rendered in the same attributed-speech format as all other speakers: no quotation marks, colon-introduced. Nadia's register: precise, unhurried, no excess. Her sentences are load-bearing throughout; she does not raise her voice, never performs conviction. The chapter runs in two tones: investigation-approach mode (clipped, procedural, sparse environmental description) and the room itself (slower, more deliberate, the argument taking up space).
+
+- **Structural landmarks handled**:
+  - "She did not sleep" — ABSENT ✓ (reserved for Ch. 20)
+  - "Sensorium" — ABSENT ✓ (reserved for Ch. 20)
+  - No Dael appearance — correct ✓ (Dael final state is Ch. 18)
+  - No Soren appearance — correct ✓ (Soren mirror scene is Ch. 17)
+  - *ABANDONED CITY DETAIL placed* ✓ — see below
+
+- **STRUCTURAL LANDMARK — Abandoned city detail placed**: Nadia introduces it mid-argument, not as an opening gambit. Four-person expedition to the northern city, three years prior. The city structurally intact, no people. Rats everywhere — not as opportunistic occupants but as something "already oriented, already settled, not afraid." The specific phrase, attributed to one expedition member: *"they watched me the whole time I was there."* Nadia's framing: the Institute calls this "completion" — the transplant program reached those populations first; the silence is not loss but arrival. She says: *I want you to know what completion looks like, so that when Harlan uses that word, you have something to hold it against.* This detail is now canonical and intended to carry forward to the Epilogue's ambiguity. Do not repeat it in prose; let it sit in the reader.
+
+- **The building established**: Second outer ring, south face door, no bell or marking. Three stories. Upper floor lit, second dark, street-level lamp behind board-reinforced glass. West roof seam patched (newer, darker). Two flights of stairs with geological water-stain mapping on the landing wall. The room: no outer windows (two boarded, seams visible; one interior-facing on a narrow shaft). Two salvage lamps, adequate. A table and two chairs positioned at center. This is now canonical — if the building is revisited, honor these specifics.
+
+- **Nadia's first impression — now established**: Late forties, maybe past fifty — not the years but "a quality of having processed something over a long time and arrived somewhere on the other side." Hands still on the table. Practical dress, nothing self-signaling. The precision anticipated from the investigation; the quiet is not. She does not stand when Maren enters. She watches Maren cross the room. She begins with a fact, not a question: *you've been working toward this for a while.* Do not revise this first impression in subsequent references.
+
+- **Nadia's question — placed near-verbatim**: *Is that Eli in the rat, or a pattern that believes it is Eli?* Placed early in the scene, before the argument. Asked "the way a physician asks a question the patient already knows the answer to and has been managing not to hear." Not cruel. Clinical in the best sense. Maren does not answer. Her non-answer is rendered through the accumulation of everything she has been living with: the freeze, the report, the early transfer three years ago. The question is not revisited in this chapter; it simply sits in the room.
+
+- **Nadia's argument — the three elements delivered**:
+  1. **Substrate non-independence**: consciousness produced by the specific, irreplaceable biological configuration that developed it; the map is not the territory.
+  2. **The copy argument**: the copy is faithful, detailed, subjectively convinced — but the original's brain was destroyed; the person died on the table; what woke in the rat believes itself continuous and may be indistinguishable, but that belief does not establish continuity.
+  3. **"Compassionate murder"**: NOT used as a phrase in this chapter — the argument is made through its logic rather than through the label. The label is available for future chapters if needed, but it was more effective here to let the argument speak without naming itself.
+
+- **Maren's formal counter-position delivered**: Maren argues back — evidence not settled, degradation endpoint unknown, faithful copy still preferable to death. This is her program-defender position, offered honestly because she "could not argue well from a position she didn't hold." She does not convert. She arrives at *I don't know* — which Nadia receives as the most honest answer she's heard from someone in Maren's position. This is not a compliment; Maren registers it as an accurate description of where things are.
+
+- **The question's function in this chapter**: Maren cannot answer Nadia's question. She does not answer it. The chapter does NOT resolve it — that resolution attempt belongs to Ch. 20 (Beat 26), where Maren must be seen *trying* to answer Nadia's question and failing. Ch. 14 establishes the question as live and unanswerable. Do not have Maren answer it in any interim chapter.
+
+- **Nadia's closing instruction — verbatim**: *I'm not asking you to agree with me. I'm not asking for conversion. I'm asking you to keep looking at what you're already looking at.* This is her parting line. Maren says: *that I'm doing.* Do not vary this exchange if referenced.
+
+- **The session ending**: Without resolution, but not badly. Maren's assessment: "The argument was complete. It was not closed." She knows she will need to come back before she stands from the chair.
+
+- **The man who opens the door**: Unnamed, forties, build of someone who worked physically and still carries it. He looks at her face then her hands. He steps aside. He is not there when she leaves. Do not name him; he is not a recurring character.
+
+- **Non-arrest choice — placed**: In the final section, on the street in the rain. One clear sentence of interiority: *She was not going to turn Nadia in.* The preceding context establishes what she is choosing not to do — she has enough to close the case, hand the thread to Soren, write the report tonight. The following context establishes that she knows what this costs: people died in attacks the network enabled, and Nadia's decisions run through the margins of that. She does not explain herself. She notes it "as a fact, without commentary, without justification." The choice registers as a choice.
+
+- **Physical detail — new**: She stands in the rain without adjusting her collar — consistent with Ch. 13's closing (she walked home "without adjusting her collar"). A quiet echo. Not underlined; present.
+
+- **Structural landmarks NOT placed**:
+  - "She did not sleep" — absent ✓
+  - "Sensorium" — absent ✓
+  - Dael — absent ✓
+  - Soren — absent ✓
+
+- **Deviations from plan**: None. Beat 19 delivered in full. The abandoned city structural landmark placed as specified. The non-arrest choice rendered with the required interiority (one sentence, awareness without explanation). Nadia's question placed near-verbatim with the physician analogy intact.
+
+- **What future chapters must honor**:
+  - The abandoned city detail is now planted. When the Epilogue's two rats appear in the drainage channel, the reader is intended to carry this forward. Do not repeat the abandoned city detail in prose — its work is done.
+  - Nadia's question (*Is that Eli in the rat, or a pattern that believes it is Eli?*) is now placed in its canonical form. Ch. 20 (Beat 26) requires Maren to try to answer it and fail. That attempt must honor what was established here: the question has been with her since before she had the words for it, and having the exact words changed nothing about the not-answering.
+  - Nadia's argument is now on the table. When Maren confronts Harlan in Ch. 18, she will be holding both frameworks simultaneously — and neither will be dismissable. The confrontation scene must honor that Maren has heard Nadia's argument first.
+  - Maren knows she will return to Nadia. Beat 22 (Ch. 16) is that return — when she brings the archive data. The meeting in Ch. 14 ends with "she would need to come back," which is the setup for Ch. 16's second meeting.
+  - The non-arrest choice is now made. Soren's Ch. 17 mirror scene must honor that this is a decision already taken — not a decision Soren forces her to make, but a decision he confirms she has made.
