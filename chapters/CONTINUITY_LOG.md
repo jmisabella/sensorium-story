@@ -438,3 +438,51 @@ Each entry records decisions made in prose that are not derivable from planning 
   - Building 44 canal service road: the early transplant's registered address. If the eastern district operations thread advances in investigation work, this building is within the documented cluster.
   - The early transplant's two words — *well.* and *different.* — are now placed. Do not add to or revise his communication in any future reference.
   - The stairwell closing (family upstairs, no steps coming down) is available for retrospective resonance if Dael's final state beat requires comparison. Do not call it forward explicitly.
+
+---
+
+## Chapter 12 — THE PAUSES BEGIN
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. Eli's device output remains all lowercase, italicized. His output is still fully syntactically correct; what changes is the sentences going dark mid-way and returning with a simpler word. The losses are rendered as screen-dark pauses, not as garbled output. The session otherwise reads as warmer and more settled than prior visits — he has found his rhythms — which is what makes the losses land.
+
+- **Structural landmarks handled**:
+  - "She did not sleep" — ABSENT ✓ (reserved for Ch. 13 and Ch. 20). Sleeplessness rendered differently: "She was still in the chair when the sky began to lighten. She had not gone to bed." Do not use this exact formulation again.
+  - "Sensorium" — ABSENT ✓ (reserved for Ch. 13 and Ch. 20)
+  - No Dael appearance — correct ✓ (Dael final state is Ch. 18)
+  - No Soren appearance — correct ✓ (Soren Act Two appearance #2 is Ch. 13)
+  - **First lie placed**: "it's okay" — the chapter's structural pivot, named as such in the aftermath prose. Does not require future annotation; let it sit.
+
+- **The three mid-sentence losses — verbatim record**:
+  1. *"words used to arrive with what I can only call"* → [dark] → *"context. words used to arrive with context already assembled."* No apology. She hears the shape of the word he'd been building; she says nothing.
+  2. *"when the barometer drops a certain —"* → [dark] → *"more rain. it means more rain is coming. that's the plain version."* Apology: *"I'm sorry. I know that wasn't — I know I lost something there. I could feel where it was and then it wasn't there."*
+  3. *"something that has accumulated over a long time. I've been thinking about the right word for — for the way it's both fixed and specific to"* → [dark] → *"you. specific to you. particular."* Apology: *"sorry."* One word.
+
+- **The two apologies — degradation**:
+  - First apology (after loss 2): "I'm sorry. I know that wasn't — I know I lost something there. I could feel where it was and then it wasn't there." — Full, precise, with self-examination. He names the mechanism.
+  - Second apology (after loss 3): "sorry." — One word. No elaboration. The apology has been reduced the same way the sentences have been.
+  - Future sessions must honor this arc: by Ch. 15, the careful words should be largely gone. The apologies won't appear because he no longer catches the losses in the same way.
+
+- **"It's okay" — the lie**: Placed as the chapter's last line of dialogue. The aftermath unpacks its weight without over-explaining: she distinguishes between the ordinary withholdings of a shared life (which she has done) and a lie (which she has not done until now). "It's okay" — the meaning she gave it, and why it was false. The explanation is given once, without sentiment, and not returned to.
+
+- **The canal smell — new detail established**: He can track the eastern district runoff by its mineral composition in her skin/coat smell. Canal-origin smell is now a detail available for later use. Do not over-reference it.
+
+- **The building sound — new detail established**: He has been tracking a structural frequency produced by the building itself, correlated with barometric pressure changes (indicating incoming rain). This extends the rain-tracking barometric detail from Ch. 10. He said: "the building responds" and "more rain" (the plain version, vs. the other version he's still working on). The "other version" is not resolved here. Leave it.
+
+- **The settling-in register**: He is described as less disoriented than the early visits. She notices his presence as simply "where he would be." The disorientation of the first weeks has "flattened, or been absorbed." She doesn't know which. This register of almost-normalcy is what makes the losses devastating: this is not him at his worst. He is at something close to his stable state — and the sentences are already breaking.
+
+- **Her face — new detail established**: She has developed a habit of managing her face in the transition room. She cannot control her heartbeat (he can hear it). She can control her face. She does this without remarking on it. This detail is now established and available for Ch. 13's freeze chapter, where she will be alone in the room.
+
+- **Her describing the canal smell**: She talks to him about the canal runoff, the orange color after certain rains, something she has noticed for years without cataloging. This is the first session where she is the one doing the describing — the direction is reversed briefly. He asks questions. This moment of ordinary reciprocity is the chapter's counterweight; do not mark it as significant or call it forward explicitly.
+
+- **The rat at closing**: A rat crosses the base of the far building as she sits at the window. Purposeful, gone before she fully registers it. This is not Dael and should not be read as such — it is purely atmospheric. Do not annotate.
+
+- **The steps threshold habit**: She has stopped on the Institute steps after every visit — established here as a habit she has "done it after the first visit, and the second." Available as a recurring image if useful in later chapters.
+
+- **Deviations from plan**: None. Beat 16 delivered as specified. Three losses, two apologies (second shorter), first lie placed. Sleeplessness rendered in different language as instructed.
+
+- **What future chapters must honor**:
+  - The three losses establish a baseline for degradation. Ch. 13 (THE FREEZE) is the next beat; what happens there is not a continuation of the sentence-losses but a different and worse mechanism.
+  - The two apologies' arc: full precision → one word. When he no longer apologizes for the losses at all (Ch. 15 and beyond), the reader should feel this as a further notch.
+  - "It's okay" is now the lie. Do not have her lie to him again about this — the weight of this moment depends on its being the first and staying the first.
+  - Her face-management habit in the transition room is established. It is a form of care that is also futile (he can hear her heartbeat). Do not make this explicit.
+  - Loss 3's subject (a quality in her smell, both fixed and irreplaceable, "particular" as the reduced word) is now placed. If Eli's descriptions of her smell recur, honor that this attempt to complete the thought failed. The fuller word was never found.
