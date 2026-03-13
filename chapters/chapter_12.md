@@ -6,17 +6,17 @@ He was at the screen when she came in. She noticed this differently than she had
 
 *you smell like the canal today.*
 
-She said: I came past the main bridge.
+"I came past the main bridge," she said.
 
 *the runoff changes after the heavy rain. something in the eastern filtration. I've been tracking it by day.*
 
-She said: of course you have.
+"Of course you have," she said.
 
 A thinking pause — the kind she knew, the ordinary gathering kind. Then:
 
 *I want to tell you something I've been trying to find language for.*
 
-She said: tell me.
+"Tell me," she said.
 
 *it's a timing question. words used to arrive with what I can only call*
 
@@ -28,7 +28,7 @@ The screen activated.
 
 *context. words used to arrive with context already assembled. that's — yes.*
 
-She said: I understand.
+"I understand," she said.
 
 She did not say: that isn't what you were reaching for. She heard the shape of it before the screen went dark, felt it in the architecture of the sentence — a word with more load in it, something he'd been building toward for weeks probably, testing in his thinking, not yet ready to put down. *Context* was accurate. It was not the word.
 
@@ -38,7 +38,7 @@ He continued.
 
 He had been tracking the building's internal sound. He described it carefully — the way the ventilation in the north wall maintained a continuous low register that he'd learned to read beneath the rest, the way rain from above changed the available information by adding pressure, the way the structure itself produced something that shifted with the weather. He said he had been listening to a particular frequency for four days.
 
-She said: what does it mean when it changes?
+"What does it mean when it changes?" she asked.
 
 *I think it's differential pressure. through the walls. when the barometer drops a certain — the building responds. it means*
 
@@ -46,7 +46,7 @@ A pause. She watched the screen. The pause extended.
 
 *more rain. it means more rain is coming. that's the plain version.*
 
-She said: what's the other version?
+"What's the other version?" she asked.
 
 *that's the one I'm still working on.*
 
@@ -54,11 +54,11 @@ She said nothing. She had heard the sentence before it paused: *when the baromet
 
 *I'm sorry.* A pause. *I know that wasn't — I know I lost something there. I could feel where it was and then it wasn't there.*
 
-She said: don't apologize.
+"Don't apologize," she said.
 
 *I want to. it's important that I say so when I notice.*
 
-She said: all right.
+"All right," she said.
 
 She kept her face in the register she had developed for this room: present, steady, nothing loaded into it that he would have to manage from across the space. He could read her heartbeat. She could not control her heartbeat. She could control her face, and she did.
 
@@ -72,7 +72,7 @@ Then he said:
 
 *I want to tell you something I left out. when I described your smell in the first week.*
 
-She said: what did you leave out.
+"What did you leave out," she said.
 
 *there's a quality I didn't have language for. I still don't. it isn't location or weather or anything compound — those are easier, I have better instruments for those. this is something underneath. something that has accumulated over a long time. I've been thinking about the right word for — for the way it's both fixed and specific to*
 
@@ -82,7 +82,7 @@ The north wall ventilation. The rain, faint, changing. She waited.
 
 *you. specific to you. particular.* A pause. *sorry.*
 
-She said: it's okay.
+"It's okay," she said.
 
 ---
 

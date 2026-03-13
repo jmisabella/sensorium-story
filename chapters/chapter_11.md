@@ -6,31 +6,31 @@ A pause. Slightly longer than usual.
 
 *maren.*
 
-She said: good morning.
+"Good morning," she said.
 
 *cold this week.* A pause. *the east corridor. there's a gap somewhere — since the heavy rain, three weeks back. I've been working the problem in sections.*
 
-She said: any progress?
+"Any progress?" she asked.
 
 *the fourth-floor east stairwell is the likely source. there's a sealed panel — storage, someone's belongings. I can't get clearance to open it. I'm working around it for now.*
 
-She said: Eli asks after you.
+"Eli asks after you," she said.
 
 *how is he.*
 
-She said: well enough. He wants to know how the project is going.
+"Well enough," she said. "He wants to know how the project is going."
 
 A pause.
 
 *I've documented thirty-four distinct thermal variations.* Another pause. *I'm not certain what I'm building yet.*
 
-She said: you'll figure it out.
+"You'll figure it out," she said.
 
 A pause. The longest one.
 
 *a monument, possibly.*
 
-She said: I'll tell him.
+"I'll tell him," she said.
 
 The screen went dark.
 

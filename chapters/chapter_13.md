@@ -18,25 +18,25 @@ Soren came by at a quarter to five.
 
 He brought his own file — he'd been working the salvage service thread, the man identified in both attacks, the reregistered holding company. Clean, patient work. He set the file on the edge of her desk.
 
-She said: good progress on the service company.
+"Good progress on the service company," she said.
 
-He said: there's a second address registered to the holding company. Eastern district, canal-side. I wanted to ask — your log shows you were near there last week. The Wednesday afternoon block.
+"There's a second address registered to the holding company," he said. "Eastern district, canal-side. I wanted to ask — your log shows you were near there last week. The Wednesday afternoon block."
 
-She said: I was. I went back to the canal contact from August. She'd mentioned a secondary broker she hadn't named the first time.
+"I was," she said. "I went back to the canal contact from August. She'd mentioned a secondary broker she hadn't named the first time."
 
 He waited. He was good at waiting.
 
-She said: it didn't produce much. A name I already had. I didn't log it because I was going to combine it with the salvage thread when they connected. They haven't connected yet.
+"It didn't produce much," she said. "A name I already had. I didn't log it because I was going to combine it with the salvage thread when they connected. They haven't connected yet."
 
 He looked at her. Not long — the length of a confirmation, not an accusation. She held it.
 
-He said: I'll flag the canal address for this week.
+"I'll flag the canal address for this week," he said.
 
-She said: let me know what's there.
+"Let me know what's there," she said.
 
-He picked up the file. He said, heading toward the door: the report for the tenth is overdue. In case you hadn't noticed.
+He picked up the file. Heading toward the door, he said, "The report for the tenth is overdue. In case you hadn't noticed."
 
-She said: I noticed.
+"I noticed," she said.
 
 He left. She waited until she heard him at his own desk before she looked at her bag, where the notebook was, where the address was. She thought: he noticed. She thought: he let it go.
 
@@ -58,17 +58,17 @@ Eli was at the screen when she came in. She saw him before he could have seen he
 
 *you're later than yesterday.*
 
-She said: I was finishing something.
+"I was finishing something," she said.
 
 *was it finished?*
 
-She said: it will be.
+"It will be," she said.
 
 The screen held a pause — the thinking kind, the gathering kind. She knew the shapes of his pauses the way she knew the shapes of his sentences, which was to say she had been reading both long enough that the shapes were simply his.
 
 *I want to tell you something I've been trying to find language for.* A pause. *it's going to sound — I don't know how it's going to sound. I'll try.*
 
-She said: tell me.
+"Tell me," she said.
 
 *it takes longer now. and shorter. both.*
 

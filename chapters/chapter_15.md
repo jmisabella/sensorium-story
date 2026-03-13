@@ -6,11 +6,11 @@ The terminal activated.
 
 *there you are.*
 
-She sat down. She said: hello, Eli.
+She sat down. "Hello, Eli," she said.
 
 *hello.* A pause. *rain.*
 
-She had walked from the eastern district — an hour, maybe more, the rain starting midway through and not letting up. She said: yes.
+She had walked from the eastern district — an hour, maybe more, the rain starting midway through and not letting up. "Yes," she said.
 
 That was all. She remembered a session more than a year ago when she had walked through rain and he had described it for six lines — the mineral seep from the building's pipes, the stairwell dust, and then the rain itself, its specific weight and what it meant that she carried that much of it. *You have always had these names. I simply did not have the equipment to read them.* She had thought: that is exactly him. She had been right. She still was.
 
@@ -18,13 +18,13 @@ That was all. She remembered a session more than a year ago when she had walked 
 
 Not: has it been a difficult week, not: how are you holding the thing you've been holding. Just: *what are you working on.* The directness was always under the other parts. It was what remained.
 
-She said: the investigation. The resistance network.
+"The investigation," she said. "The resistance network."
 
-He said: *does it help to say it out loud.*
+He said, "*does it help to say it out loud.*"
 
-She said: yes.
+"Yes," she said.
 
-He said: *then say it.*
+He said, "*then say it.*"
 
 ---
 
@@ -40,7 +40,7 @@ When she stopped, there was the longer pause.
 
 *it's not solvable.*
 
-She said: I know.
+"I know," she said.
 
 *you're asking the right things.*
 
@@ -54,7 +54,7 @@ She waited.
 
 There had been a time when he would have found the frame — the reach into whatever the right language was, some distinction she hadn't known she needed that would give her a new way to stand inside the difficulty. He had done this for seven years. He could still feel the direction of what she needed; she could hear it in the questions he'd asked, the way he'd said *then say it* and meant it and held the space while she did. What came through was plainer than what he had been. But he had listened to everything. He had said the true things. He had given her what he had.
 
-She said: thank you.
+"Thank you," she said.
 
 A pause.
 
