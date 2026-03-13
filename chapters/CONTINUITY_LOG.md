@@ -61,3 +61,33 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The fennel detail is not referenced again unless there is a strong reason.
   - The full presence moment remains unremarked upon — any future echo should stay implicit.
   - Dael's interest in the ventilation/sound-travel seeds his eventual drift toward the building's infrastructure. Future Dael beats should honor this direction.
+
+---
+
+## Chapter 3 — WORK
+
+- **Setting established**: The Oversight Authority offices, third floor. Adequate and nothing more — institutional lighting with something wrong in the wiring, recycled air, equipment that functions but not elegantly. She has been coming to this building for eleven years. Do not upgrade the space in future chapters.
+
+- **Soren introduced**: Four years as Maren's working partner. Brings her a cup without asking — four years of this, never asked. His manner: direct, moves at the surface of the work, doesn't descend where there's nothing operational. He says "so we close down the fringe and the core keeps organizing" and then moves on without sitting in it. That's who he is. Not cold — efficient, uncomplicated in his relationship to the work. The contrast with Maren is present but not stated.
+
+- **Investigation facts established**:
+  - Three facilities hit in one month: the processing archive (records), an unnamed second facility (equipment), the north-end transfer center (personnel — two maintenance technicians killed, one transfer candidate killed, pre-procedure)
+  - Different operational signatures across the three: the first two clean and precise; the third less disciplined, more violent — either escalation within the network or a separate faction drawing on the same resources
+  - Eight early-stage candidate intake files destroyed at the archive — not yet transferred to redundant storage, effectively lost. All eight were early-stage, still deciding. Maren identifies this as tactical, not symbolic.
+  - The OA working theory: distributed cells, centralized coordination. Probably correct, probably incomplete.
+
+- **Maren's competence established**: She reads the three incidents' operational signatures as distinct — sees "all three are possible at once" before Soren frames it as a binary. She asks about the pattern in the destroyed records (which Soren hadn't specifically examined). She ends the chapter noting that someone at the center of the resistance is thinking carefully — framed as professional respect for a capable adversary, with the implication that she needs to be equally careful.
+
+- **The doubt layer (first appearance at work)**: A detained witness's statement — inadmissible, not pursued — contains the substrate non-independence argument: *"The process extracts the pattern and disposes of the body. What remains in the rat is not the person. It believes it is."* Maren reads it twice, agrees with Soren that there's nothing operational in it, closes the file. The doubt does not surface as doubt — it surfaces as a second read and a closed file. Do not name this in retrospect. Let it sit.
+
+- **The Soren-as-mirror dynamic**: Present but not stated. His efficiency and comfort at the surface of the work is noted approvingly by Maren — "it was the right way to run an investigation" — without naming the distance between his mode and hers. Future Soren scenes (especially Beat 22.5) should build from this baseline: the reader will have seen his efficiency here and understand what it means when she has moved far enough from it that he notices.
+
+- **Structural markers NOT placed here**: "She did not sleep" — absent, correct. "Sensorium" — absent, correct.
+
+- **Voice/style**: Same register as prior chapters — short declaratives, functional precision. The OA space is described through what it lacks and what it does anyway. Maren's interiority is sparse; her intelligence surfaces through what she asks and notices.
+
+- **What future chapters must honor**:
+  - Soren's baseline manner: direct, surface-efficient, not troubled by the work. Future appearances should measure against this.
+  - The north-end transfer center attack: the transfer candidate killed was in recovery prep, three hours from the procedure. This is the inciting incident at scale; future references should honor these specifics.
+  - Eight destroyed early-stage intake files — this detail is available for later use if relevant.
+  - The detained woman's inadmissible statement is not in any formal file that Maren can use — it's in her memory. If she returns to it, it should be from memory, not from documentation.
