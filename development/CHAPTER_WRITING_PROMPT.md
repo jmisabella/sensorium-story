@@ -351,6 +351,8 @@ Save the completed chapter to `chapters/chapter_08.md`. Then append your session
 
 ## CHAPTER 9 — THREADS
 
+Don't commit or do anything with Git, I'll do that myself. 
+
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
 **Core files (read all):**
@@ -379,11 +381,13 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 - He is running the same investigation Maren is running, efficiently and without her complications.
 - The contrast is present but not stated. He is who she was.
 
-Save the completed chapter to `chapters/chapter_09.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of 
+Save the completed chapter to `chapters/chapter_09.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md. 
 
 ---
 
 ## CHAPTER 10 — WHISKERS
+
+Don't commit or do anything with Git, I'll do that myself. 
 
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
@@ -417,6 +421,8 @@ Save the completed chapter to `chapters/chapter_10.md`. Then append your session
 ---
 
 ## CHAPTER 11 — DRIFT
+
+Don't commit or do anything with Git, I'll do that myself. 
 
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
@@ -456,6 +462,8 @@ Save the completed chapter to `chapters/chapter_11.md`. Then append your session
 
 ## CHAPTER 12 — THE PAUSES BEGIN
 
+Don't commit or do anything with Git, I'll do that myself. 
+
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
 **Core files (read all):**
@@ -489,6 +497,8 @@ Save the completed chapter to `chapters/chapter_12.md`. Then append your session
 ---
 
 ## CHAPTER 13 — THE FREEZE
+
+Don't commit or do anything with Git, I'll do that myself. 
 
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
@@ -545,6 +555,8 @@ Save the completed chapter to `chapters/chapter_13.md`. Then append your session
 
 ## CHAPTER 14 — NADIA
 
+Don't commit or do anything with Git, I'll do that myself. 
+
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
 **Core files (read all):**
@@ -585,6 +597,8 @@ Save the completed chapter to `chapters/chapter_14.md`. Then append your session
 
 ## CHAPTER 15 — SHORT SENTENCES
 
+Don't commit or do anything with Git, I'll do that myself. 
+
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
 **Core files (read all):**
@@ -618,6 +632,8 @@ Save the completed chapter to `chapters/chapter_15.md`. Then append your session
 ---
 
 ## CHAPTER 16 — THE ARCHIVE
+
+Don't commit or do anything with Git, I'll do that myself. 
 
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
@@ -664,6 +680,8 @@ Save the completed chapter to `chapters/chapter_16.md`. Then append your session
 
 ## CHAPTER 17 — SOREN
 
+Don't commit or do anything with Git, I'll do that myself. 
+
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
 **Core files (read all):**
@@ -700,6 +718,8 @@ Save the completed chapter to `chapters/chapter_17.md`. Then append your session
 ---
 
 ## CHAPTER 18 — HARLAN
+
+Don't commit or do anything with Git, I'll do that myself. 
 
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
@@ -745,6 +765,8 @@ Save the completed chapter to `chapters/chapter_18.md`. Then append your session
 
 ## CHAPTER 19 — THE PLEA
 
+Don't commit or do anything with Git, I'll do that myself. 
+
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
 **Core files (read all):**
@@ -783,6 +805,8 @@ Save the completed chapter to `chapters/chapter_19.md`. Then append your session
 ---
 
 ## CHAPTER 20 — THE CHOICE
+
+Don't commit or do anything with Git, I'll do that myself. 
 
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 
@@ -830,6 +854,8 @@ Save the completed chapter to `chapters/chapter_20.md`. Then append your session
 ---
 
 ## EPILOGUE
+
+Don't commit or do anything with Git, I'll do that myself. 
 
 We are writing the full prose draft of a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following files before we begin:
 

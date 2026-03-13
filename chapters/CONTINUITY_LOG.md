@@ -295,3 +295,46 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The "I'd been wondering whether I'd know" construction — she heard him in it immediately. When sentences shorten later, the loss of exactly this quality (the subordinate clause, the self-examination, the precision) is what she will be reading for.
   - The smell description (mineral pipes, north stairwell, third-floor landing, rain) is now canonical. If Eli describes her smell again in a later session, honor these specifics.
   - The tea-going-cold image is now established as a closing image for this chapter. Do not repeat it exactly in later chapters.
+
+---
+
+## Chapter 9 — THREADS
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. Investigation sections in the clipped procedural register of Ch. 3 and Ch. 5. The Soren scene runs in the neutral professional register: no interiority from either of them during the exchange itself; her reflection on what his manner means comes after he leaves. The outer district contact scene allows slightly more environmental description to establish the outer ring register (lateral rain, no streetlights, covered yard). The chapter is procedural throughout; emotional undercurrent appears only in what Maren notices and decides not to say.
+
+- **The procurement network's three properties established**:
+  1. **Patience** — materials moved weeks or months before reaching the target supply chain; delay was deliberate, not scarcity
+  2. **Separability** — each intermediary handled one category, one leg; designed so pressure on any node would not unlock the rest
+  3. **Unembedded recruitment** — intermediaries not in any resistance database, not ideologically flagged; someone calculated how much belief to put in any single person's hands
+  These three properties are now established as Maren's read on the network's structure. Future chapters can reference "the center still empty" as her phrase for the still-unnamed person at the coordination point.
+
+- **Room four thread (from Ch. 7)**: Addressed briefly and held back. Maren has the facility report — the emergency override activated from inside, the candidate who knew the team was coming. She cross-referenced the candidate's name (clean record, mid-forties, third district, ash lung 14 months). She decides not to share this thread with Soren yet, gives herself a slightly dishonest reason for the withholding ("didn't know where it led yet"). The prose registers that her reason is not entirely true. This thread is live and unresolved. **Future chapters must pick it up** — it implies inside access to the pre-procedure wing's schedule, pointing toward a network contact embedded in the Institute or program administration.
+
+- **SOREN ACT TWO APPEARANCE #1 placed**: Mid-afternoon in the corner OA office. He arrives with a file, sits without preamble. What he has found:
+  - A face: the third person from the inciting facility attack, identified through surveillance capture cross-referenced against canal district transport registry photos
+  - This person was also present at the second attack (north quarter equipment facility) — same operational signature in both
+  - He drives for a salvage service registered to a holding company that changed names twice in three years
+  He has made clean operational progress she hasn't. Her reaction is registered as "she recognized it the way you recognized a city you had lived in and left" — the efficient, uncomplicated mode she used to inhabit. Do not call this line forward explicitly; let it sit as the chapter's measure of her distance from who she was.
+
+- **The diagram exchange**: She hands him her supply chain diagram. He studies it thoroughly, hands it back. He does not copy it to his own files — established as four years' working rhythm. She notices this as a form of trust, does not name it. This dynamic (her threads / his threads / they bring them forward when ready) is now established for the partnership. Future Soren scenes should honor it.
+
+- **"The researcher" extended**: Previous context (Ch. 5, from Peret): "the researcher figured it out. Not the cells. The philosophy under it." New context (Ch. 9, from the outer district contact): *She was at the Institute. Research staff. Harlan moved her off her work twelve years ago. She left after that.* Now in Maren's notebook verbatim: *She left the Institute. Twelve years ago. Harlan reassigned her.* The word "reassigned" registers specifically — Maren connects it to Harlan's manner of managing a question at the briefing, moving it without addressing it. She now knows: female, former Institute researcher, dismissed by Harlan ~12 years ago, work buried. She does not have a name.
+
+- **The outer district contact**: Unnamed. Mid-fifties. Runs a salvage sorting operation in the outer-ring district, behind a former machinist workshop. She appeared in the supply chain twice, a year apart. She expected to be found eventually and was not afraid of being found. She gave Maren: logistics chain details, two additional contact names (not specified in prose), confirmation of the timing pattern. She gave the researcher context without being asked — it emerged from her own carrying of it. She is not ideologically embedded; she supported the network because she believed in what it was for, not because she was recruited. Do not name her; she is not a recurring character and was established without a name.
+
+- **The phrase "I knew what kind of work got moved"**: Chapter's final line. This is Maren's intelligence working — connecting Harlan's management style (the word "reassigned") to the specific research suppression she doesn't yet know about but is beginning to understand the shape of. Do not explain this connection in retrospect. Let it stand as her conclusion.
+
+- **Structural markers NOT placed**:
+  - "She did not sleep" — absent ✓ (reserved for Ch. 8 already placed, Ch. 13, Ch. 20)
+  - "Sensorium" — absent ✓ (reserved for Ch. 4 already placed, Ch. 13, Ch. 20)
+
+- **Physical/environmental details**:
+  - Corner OA office: three work surfaces, standing desk habit, single rain-streaked window. Continuous with Ch. 3's institutional register.
+  - Outer district: two kilometers past last functional streetlight, covered yard, machinist workshop. Rain lateral and uninterrupted. Water finding a gap in the roof — slow irregular percussion, hollow container. This specific environmental detail (the dripping) is now established for this scene. Do not reuse it.
+
+- **What future chapters must honor**:
+  - The room four thread (emergency override, the candidate who knew) is still live. Ch. 13 (Beat 17 — reaching the network's edge) is the most natural place to advance it; it implies inside-network access to Institute scheduling.
+  - The three properties of the network (patient, separable, unembedded) are Maren's read. When she reaches the network's center, she will measure what she finds against this assessment.
+  - Soren's identified face (the man in both attacks, driving for the reregistered salvage service) is now part of the official investigation thread. Future Soren scenes should acknowledge this progress.
+  - Maren's reflection — "she recognized it the way you recognized a city you had lived in and left" — describes her relationship to efficient, uncomplicated investigative work. This is the chapter's quiet mirror beat. Beat 22.5 (Ch. 17) is the explicit mirror scene; this is its preparation.
+  - The outer district contact confirmed: she does not have the researcher's name. No one she has talked to does. Future sources who give the name would be unusual and should be treated as significant.
