@@ -256,3 +256,42 @@ Each entry records decisions made in prose that are not derivable from planning 
   - "Recovery commenced" in the notification establishes the Act Two timeline's starting point — the recovery period before the communication device is calibrated. Ch. 8 (First Contact) follows from this.
   - The fragment Eli asked her to keep has not been described. If it appears in Act Two (possible: she finds it on the table, brings it to a visit), its content should be consistent with his teaching and the themes of the story — incomplete, half-lost, worth preserving.
   - Act One is complete. Ch. 8 opens Act Two with the act break.
+
+---
+
+## Chapter 8 — FIRST CONTACT
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. Eli's device output in all lowercase, italicized, matching the sketch register. His output is fully punctuated and syntactically careful — the teacher's precision intact — not truncated. This is his high-water mark; future chapters must measure his degradation against it.
+
+- **STRUCTURAL LANDMARK — "She did not sleep" #1**: Final line of the chapter: *She did not sleep.* Three words. Simple past, declarative. Placed after the tea-going-cold image. Do not vary this phrasing in either of its two remaining appearances (Ch. 13, Ch. 20). The sleeplessness before this point (the previous night, after Ch. 7) is NOT named with this phrase — it is carried entirely through the fact that she "left before the building's lights came up."
+
+- **The first message — recognition phrase**: *you're here. I could hear you in the corridor. I'd been wondering whether I'd know.* — the phrase she recognizes as him is the construction "I'd been wondering whether I'd know": the self-examination, the precision in his own uncertainty, the teacher's habit of being exact about process. She recognizes it before she processes it. "Something moved through her. She did not name it." — this is the relief and horror inside the relief. Neither word appears; neither should.
+
+- **The key line**: *you have always had them. I simply did not have the equipment to read them.* — placed in the context of describing her smell (the building, the mineral water pipes, the north stairwell, rain, unnamed things beneath). This is the chapter's emotional center.
+
+- **The smell description established**: He describes her smell as layered: (1) the building / mineral quality of water in pipes / dust composition of north stairwell / way the third-floor landing holds air differently; (2) rain, a great deal of it; (3) things beneath that for which he has no names. These specifics are now established — if referenced later, honor this exact layering.
+
+- **Whiskers description**: He describes each vibrissa as reading air displacement, heat, and "the acoustic geometry" of her body in the room — her shape in the space before he turns toward it. His framing: "as if your sense of your own body extended outward into the room around you." He explicitly marks this as inaccurate but nearest he has. This description is the chapter's body horror — not gross, but disorienting precisely because it is precise.
+
+- **The gap opening**: Rendered through Maren's internal processing: "she had reached the edge of what she could follow. She was sitting in a room being read in ways she had never known were being read, and the one doing the reading was someone she knew completely, and she could not go where he was." This is the gap opening for the first time — not grief yet, something earlier. The word "gap" is not used.
+
+- **Eli's presence across the room**: He is visible to her — she can see him. His stillness is described as active, not passive: "a continuous reading of the room, that made the stillness active. Not waiting. Present." This is the counterweight to The Freeze, where he will be oriented away and gone. Here he is oriented toward her, entirely, and still the gap opens. Future sessions must honor this contrast.
+
+- **The heartbeat line**: *I can hear your heartbeat. it's faster than you keep it at rest. I know what your heartbeat sounds like at rest. seven years. I know the difference between what it sounds like now and what it usually sounds like.* Followed by: *you don't need to explain.* — this is the chapter's closing exchange before the session ends. He reads her faster heart rate, does not demand explanation, gives her the exit. This is an act of love. Do not diminish it in retrospect.
+
+- **The cremation**: Retroactively revealed in the aftermath section — she attended a brief administrative process (not the cremation itself, which was already complete per Thursday's notification) early Friday morning, before the recovery room. Small room in the Institute's lower floor, no windows. Twenty minutes. She filled out a form. Rendered in past perfect, not dramatized. Do not return to this in a way that overcooks it.
+
+- **Scale of room**: He describes it as "very large" — her shoes as one quarter of his visual field from across the room. She looks at the room (approximately three meters across) after he says this. The comedy is not played; it lands through the gap between what she sees and what he sees. Future chapters referencing scale should honor this: the rat-scale perception of ordinary rooms is a recurring source of disorientation.
+
+- **Structure of the session**: The session ends when a nurse taps on the corridor glass — "a practiced courtesy." This is the Institute's protocol. Do not revise this detail in future sessions; it establishes the professional management of visits.
+
+- **Physical details NOT placed here**: Her hands (open/closed), the table-clearing gesture — she is at the Institute, not the apartment. These are not present in this chapter. Correct.
+
+- **Aftermath structure**: Recovery room → cremation paperwork (retroactive reveal) → walked home → work in the afternoon → evening by the window → tea goes cold → "She did not sleep." The work is present (she filed two reports, ate at her desk) but not dramatized — her professional life runs parallel to everything else, as it has in prior chapters.
+
+- **What future chapters must honor**:
+  - The key line ("you have always had them. I simply did not have the equipment to read them.") is now placed. If echoed or referenced, do so sparingly and with purpose.
+  - His device output in Ch. 8 is full sentences, full vocabulary, full Eli. The degradation arc begins in Ch. 10 (whiskers session) with pauses, and Ch. 12 with mid-sentence losses. Future sessions should measure against this high-water mark.
+  - The "I'd been wondering whether I'd know" construction — she heard him in it immediately. When sentences shorten later, the loss of exactly this quality (the subordinate clause, the self-examination, the precision) is what she will be reading for.
+  - The smell description (mineral pipes, north stairwell, third-floor landing, rain) is now canonical. If Eli describes her smell again in a later session, honor these specifics.
+  - The tea-going-cold image is now established as a closing image for this chapter. Do not repeat it exactly in later chapters.
