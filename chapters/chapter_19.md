@@ -34,7 +34,7 @@ I don't know yet, she said.
 
 *you're carrying it.*
 
-She said: yes.
+Yes, she said.
 
 He was still. The rain moved along the addition's roof seam and found the joint and the catch pan received it. She thought about the word *gap*, alone on the terminal in the lobby that morning — the screen holding it, and then clearing. She looked at the floor-level terminal.
 

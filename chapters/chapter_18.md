@@ -50,9 +50,9 @@ She had looked.
 
 During those five to eight years, he continued, voluntary participation in the transplant program would have contracted substantially. Families would hold people out of the program to see what the research produced. Individuals in early progression would wait. Would watch. Would hold on to what a preliminary finding offered, in the way that people hold on to things when the alternative is what ash lung is. He looked at the drainage channel through the glass. Ash lung is not patient. It does not accommodate a research timeline. I calculated the probable mortality. People who would have been transferred, who could have been transferred, who instead died waiting for something that had not yet been proven and had a documented probability of not materializing.
 
-She said: might not have.
+Might not have, she said.
 
-He said: preliminary research has a well-documented yield. Between eight and fifteen percent of promising early-stage work produces clinically viable results, under ideal conditions. These were not ideal conditions. He said it the way you state a rate. I weighed the certainty of continued deaths against the contingency of a treatment that might not materialize. The archive decision followed from that calculation.
+Preliminary research has a well-documented yield, he said. Between eight and fifteen percent of promising early-stage work produces clinically viable results, under ideal conditions. These were not ideal conditions. He said it the way you state a rate. I weighed the certainty of continued deaths against the contingency of a treatment that might not materialize. The archive decision followed from that calculation.
 
 She looked at him. She had been in rooms like this before — the organized defense, the argument that held its seams. She was trained to find where it didn't hold. She sat with the shape of what he had said and looked for the place.
 

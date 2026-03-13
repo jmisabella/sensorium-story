@@ -98,23 +98,23 @@ She did not reach for it yet.
 
 ---
 
-Nadia said: I want to tell you what's in it first.
+I want to tell you what's in it first, Nadia said.
 
 Maren said nothing.
 
-Nadia said: the principal inhibitor pathway targets the protein-binding cascade at the second stage of CDFS progression. The binding mechanism in human lung tissue — the surfactant variant — is where the fibrosis initiates. The inhibitor approach doesn't address the symptoms. It addresses the cascade itself. If you interrupt it early enough, the scarring doesn't progress.
+The principal inhibitor pathway targets the protein-binding cascade at the second stage of CDFS progression, Nadia said. The binding mechanism in human lung tissue — the surfactant variant — is where the fibrosis initiates. The inhibitor approach doesn't address the symptoms. It addresses the cascade itself. If you interrupt it early enough, the scarring doesn't progress.
 
 Maren was still.
 
-Nadia said: the early-stage patient population was thirteen individuals. All within the first eight months of onset. The sample was too small for clinical conclusions, but the methodology was designed for scalability. The next stage would have required a controlled environment, sixty participants minimum, and approximately four years of monitored data collection.
+The early-stage patient population was thirteen individuals, Nadia said. All within the first eight months of onset. The sample was too small for clinical conclusions, but the methodology was designed for scalability. The next stage would have required a controlled environment, sixty participants minimum, and approximately four years of monitored data collection.
 
 She stopped.
 
-She said: the protein binding target is a variant we called CDFS-7 internally. Not the common designation. We named it ourselves — it wasn't in the literature yet.
+The protein binding target is a variant we called CDFS-7 internally, she said. Not the common designation. We named it ourselves — it wasn't in the literature yet.
 
-She said: that's what's in the file.
+That's what's in the file.
 
-Maren said: read it.
+Read it, Maren said.
 
 ---
 
@@ -124,7 +124,7 @@ It was not a long file. She read it slowly anyway. Maren watched her face, which
 
 When she finished, she set the device back on the table.
 
-She said: everything I remember is there.
+Everything I remember is there, she said.
 
 ---
 
@@ -136,31 +136,31 @@ She looked at the file. Twelve years old. The methodology clean, the early resul
 
 She could read the single line at the bottom of the file.
 
-Nadia said: he didn't misread it. He's too careful to misread it. He knew what it was.
+He didn't misread it, Nadia said. He's too careful to misread it. He knew what it was.
 
-Maren said: yes.
+Yes, Maren said.
 
-Nadia said: twelve years.
+Twelve years, Nadia said.
 
 She didn't say it as an accusation. She said it as a measurement. Twelve years was what it was — a count of winters, a period during which a cohort of ash lung patients had progressed through the middle stage and into the late and into the terminal, a period during which the transplant program had reached scale, a period during which she had been building a network around a conviction she had not been able to prove.
 
 The data was on the table between them now.
 
-Maren said: it may not have led anywhere.
+It may not have led anywhere, Maren said.
 
 Nadia looked at her.
 
-Maren said: I'm not defending it. I'm saying the data is preliminary. The pathway was real. Whether it worked —
+I'm not defending it, Maren said. I'm saying the data is preliminary. The pathway was real. Whether it worked —
 
 She stopped. She had said what she was going to say. The window of uncertainty was real; she had read the file and the uncertainty was real and it was part of what she was holding.
 
-Nadia said: I know. I designed the study. I know exactly how preliminary it was. She paused. I also know what I found, and what I planned to find next, and what I would have needed to find it, and whether those things were possible in a city with this infrastructure.
+I know, Nadia said. I designed the study. I know exactly how preliminary it was. She paused. I also know what I found, and what I planned to find next, and what I would have needed to find it, and whether those things were possible in a city with this infrastructure.
 
-She said: I cannot prove it would have worked. I have never been able to prove that. That was always the problem.
+I cannot prove it would have worked, she said. I have never been able to prove that. That was always the problem.
 
 A pause.
 
-She said: but it was buried. That I can prove now.
+But it was buried, she said. That I can prove now.
 
 ---
 
@@ -178,13 +178,13 @@ The rain worked its way through the building's walls — she could hear it in th
 
 ---
 
-Finally Nadia said: what are you going to do with it.
+What are you going to do with it, Nadia finally said.
 
-Maren said: I don't know yet.
+I don't know yet, Maren said.
 
 Nadia looked at her for a moment. Something in her expression shifted — not softening exactly, but a recognition of a kind.
 
-She said: I've been there.
+I've been there, she said.
 
 Maren picked up the device from the table. She stood.
 
