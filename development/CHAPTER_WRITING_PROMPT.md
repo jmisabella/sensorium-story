@@ -260,7 +260,7 @@ Somewhere in this scene — briefly, without announcement — Maren registers so
 
 **Craft note:** This is not a scene about two people failing to connect. It is a scene about two people whose connection is strong enough to hold the weight of what neither is saying. The not-touching is not distance — it is each of them trying not to transfer what they're carrying to the other. The love is present in the restraint.
 
-Save the completed chapter to `chapters/chapter_06.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_06.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -306,7 +306,7 @@ This chapter carries three beats and ends Act One. It should feel like the point
 
 **END OF ACT ONE.**
 
-Save the completed chapter to `chapters/chapter_07.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_07.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -345,7 +345,7 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 
 **Tone note:** Not yet grief — something earlier and more disorienting. The gap hasn't opened yet. It's opening now, for the first time. He is fully present here; this is the counterweight to The Freeze in Chapter 13. The contrast is the arc.
 
-Save the completed chapter to `chapters/chapter_08.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_08.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -379,7 +379,7 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 - He is running the same investigation Maren is running, efficiently and without her complications.
 - The contrast is present but not stated. He is who she was.
 
-Save the completed chapter to `chapters/chapter_09.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_09.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of 
 
 ---
 
@@ -412,7 +412,7 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 
 **The body horror arrives through his precision:** He finds the right words. The words are accurate. That is the horror. Do not soften the rat sensory details — his characteristic exactness in describing them is the point.
 
-Save the completed chapter to `chapters/chapter_10.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_10.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -450,7 +450,7 @@ This chapter places two warnings side by side — one from the building, one fro
 - This is not dramatized as horror. It is presented as a fact, which is worse.
 - She files a note in her investigation log about his proximity to resistance infrastructure. She does not think directly about what this means for Eli. But she notices.
 
-Save the completed chapter to `chapters/chapter_11.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_11.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -484,7 +484,7 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 
 **Note on "She did not sleep":** This chapter's sleeplessness (if she doesn't sleep) requires *different language* from the refrain. The exact phrase is reserved for Chapters 8, 13, and 20 only.
 
-Save the completed chapter to `chapters/chapter_12.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_12.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -539,7 +539,7 @@ This is the most important chapter in the story. Handle it accordingly.
 **STRUCTURAL LANDMARK — "Sensorium" appearance #2 (REQUIRED):**
 In the aftermath — in her internal processing, not in the report — the word surfaces. She reaches for a way to describe what she just watched, and finds Harlan's vocabulary waiting: *the sensorium*. She is using the clinical term of the man who buried the cure to name what just took Eli out of the room mid-sentence. She notices she is doing this. The word belongs to him and she cannot escape it. **This is the first time "sensorium" costs something.**
 
-Save the completed chapter to `chapters/chapter_13.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_13.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -579,7 +579,7 @@ Nadia or someone in her network mentions the expeditions to nearby cities — re
 **Non-arrest note (required):**
 She leaves knowing she will not turn Nadia in. She knows this is a professional act with consequences. She knows people died in attacks Nadia's network enabled. She does not explain herself to the reader — but she must be seen *knowing* what she is choosing not to do. One sentence of this awareness in her interiority is enough. The choice must register as a choice, not a gap.
 
-Save the completed chapter to `chapters/chapter_14.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_14.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -613,7 +613,7 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 
 This chapter is a study in what remains. It must honor what is still there — he is still himself, irreducibly — while letting the reader feel the subtraction. Let the specific quality of what's gone (his careful vocabulary, the unusual words, the ones that took longer to form) be present in its absence.
 
-Save the completed chapter to `chapters/chapter_15.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_15.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -658,7 +658,7 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 
 **END OF ACT TWO.**
 
-Save the completed chapter to `chapters/chapter_16.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_16.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -695,7 +695,7 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 
 **The mirror pays off here:** He is not her antagonist. He is her past. And she has walked away from it. This is the scene that confirms it, quietly, between two professionals who will never discuss it.
 
-Save the completed chapter to `chapters/chapter_17.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_17.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -739,7 +739,7 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 - They say: *"he seems okay. He just... prefers it there now."*
 - **DAEL LANDMARK #3.** She knows what "prefers" means. She has known for a long time.
 
-Save the completed chapter to `chapters/chapter_18.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_18.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -778,7 +778,7 @@ We are writing the full prose draft of a dark sci-fi horror novella called **Sen
 
 **Note:** His language in this chapter should reflect where he is now — shorter, stripped of the careful vocabulary — but the precision of what he has chosen to say with what's left is what makes the line devastating.
 
-Save the completed chapter to `chapters/chapter_19.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_19.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -825,7 +825,7 @@ Outside, in the street, a rat crosses a drainage channel without breaking stride
 
 **END OF ACT THREE.**
 
-Save the completed chapter to `chapters/chapter_20.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed chapter to `chapters/chapter_20.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
 
 ---
 
@@ -872,4 +872,5 @@ No chapter number. In the manuscript, this follows Chapter 20 after a line break
 
 *The reader decides.*
 
-Save the completed Epilogue to `chapters/epilogue.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of this file.
+Save the completed Epilogue to `chapters/epilogue.md`. Then append your session's entry to `chapters/CONTINUITY_LOG.md` using the format defined at the top of the file development/CHAPTER_WRITING_PROMPT.md.
+

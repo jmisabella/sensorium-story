@@ -167,3 +167,44 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The "the researcher figured it out" phrase is now in Maren's notebook. Ch. 9 (Beat 12) extends it with Institute/twelve years/Harlan's reassignment. Do not jump ahead of that context.
   - Peret: if he reappears, honor the established dynamic — he is not a committed resistance member, he is a logistics node who talks when the calculation is right.
   - Maren's reflex of interpreting the rat's pause as human-meaningful is planted here without resolution. Do not resolve it here; let it echo forward.
+
+---
+
+## Chapter 6 — THE WEIGHT
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. Eli's voice in this chapter is measured, careful, selecting words with intention. The conversation itself is rendered largely in dialogue with minimal interiority interruption — his argument comes through in full, her counter-arguments in brief deflections. Her real argument is rendered as interior prose (what she can feel but cannot say), not as dialogue. The love is carried entirely through action and restraint: the dishes done in the established order, his handing things without looking to confirm she's there.
+
+- **Structural landmarks handled**:
+  - *Health suspicion seed* (required for this chapter): placed on the third-floor landing before she enters the apartment. A tightening, a slight narrowing of breath coming up the last flight, gone before she fully registers it. She counts two seconds without intending to, then it clears. "Eight months of this. The way certain things simply were." She does not name it. He does not see it happen. He does not ask. Placed before the conversation, before the door — it belongs to the approach, not the scene itself. The reader will feel it in retrospect.
+  - "She did not sleep" — ABSENT (correct; reserved for Ch. 8, 13, 20). Sleeplessness rendered differently: "She lay awake for a long time. So did he. Neither of them said so."
+  - "Sensorium" — ABSENT (correct; Ch. 4 was appearance #1, next is Ch. 13 aftermath). The word "adjustment" (from her report three years ago) appears in her internal processing instead — this is deliberate. The bridge to "sensorium" is not made here; it is made at Beat 18.
+  - Cough: present once — he turns from the table briefly, hand on the back of his chair. Unremarked by either. "They had had fourteen months to make these adjustments."
+
+- **Key lines and argument structure**:
+  - Eli's argument lands in four beats: (1) "The mind is what I am" — working conclusion, examined; (2) "The rest is substrate" — he uses "substrate" not "instrument"; this avoids exactly repeating Harlan's "instrument and music" framing, though the rhyme is felt; (3) "I've read what the early transplants say" — he has done the research; (4) "The alternative is this, only slower." This is his full case.
+  - Maren's three deflections: capacity constraints / waiting list; methodology still being refined / uncertainty; "the program. The timing." Each is structurally real and structurally beside the point. He names this: "I know there's something you're not saying."
+  - Her recognition of his framing: "She recognized something in this framing. It came from somewhere she had written down." — brief, not expanded. The reader who has read Ch. 4 will feel the echo to Harlan's "instrument and music." Maren notices without naming the source. The connection is not made explicit here; it is made at Beat 18.
+  - Her real argument rendered as interior prose (can feel it, can't say it): about the man three years ago, the word "adjustment," the report, not sleeping. The mechanism of her silence: to say it requires believing it, and to believe it requires believing it about Eli.
+  - His final framing: "I know what it costs. I'm not going in without knowing." The line from CHARACTERS.md — *"I know what it costs. I'd rather pay it."* — is saved for Beat 9 (Eli's Decision). Here it is the earlier version of that argument, less conclusive: "it's a chance at something that continues."
+  - Her response: "I hear you." He does not take this as agreement.
+
+- **The not-touching in bed**: Rendered as "a considered distance" — each carrying the same weight from the other side, neither wanting to transfer what they're holding onto the other. Not distance. Consideration. This is made explicit in the prose.
+
+- **Physical details confirmed/added**:
+  - Lamp on his side, her side in lower light: confirmed.
+  - Table cleared, bag in the space: confirmed.
+  - Her hands in her lap, open: confirmed (not remarked upon by Maren — just stated as physical fact).
+  - His hands on the table: the particular slight curve, oldest ink stain under his left thumb, there since before she knew him.
+  - The dishes done together in established order — she puts away what he hands her, in places she learned in the first year. He hands things without looking to confirm she's there.
+  - Rain: steadied to something even, unhurried outside; runs down the glass in tracks at the chapter's end.
+
+- **The student fragment**: He describes a pre-war archive fragment — a hand-recorded poem in a language being lost, scholars who knew the vocabulary dying. Maren: "Dying." Eli: "Dying." He says it without grief, the way he says anything true. This is a brief, functional exchange — does not reach the quality of the Ch. 1 student sentence, nor is it meant to; it is quotidian Eli. Future sessions should not treat this as a significant "reading aloud" moment — it is conversation, not the gesture of sharing what catches him.
+
+- **Deviations from plan**: None. Beat 7 delivered as specified. Eli's decision is not made here — he presents his argument; she does not stop him; neither resolves it. The appointment has not yet been made (that is Beat 9). The transplant conversation is opened, not closed.
+
+- **What future chapters must honor**:
+  - The health seed on the stairs is the first physical moment of Maren's suspected illness — it must not appear again in exactly this form. When it recurs (Ch. 7 onward into Act Two), it should be rendered differently each time, accumulating without repetition.
+  - Eli's framing — "the mind is what I am" — is his foundational argument. When he makes the decision formally in Beat 9, he is returning to this, not arriving at it for the first time.
+  - The real argument she cannot say (the man three years ago, "adjustment") is active in this chapter but unspoken. It remains unspoken through Beat 9. It is first fully articulated — to herself, in her own thinking — after the Freeze (Beat 18 aftermath).
+  - The not-touching in bed is explicitly marked as consideration, not distance. If this physical arrangement recurs, honor the distinction.
+  - The ink stain under his left thumb: established here. Available for later use.
