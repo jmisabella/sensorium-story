@@ -828,3 +828,50 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The "gap" word: Dael's final transmission is now canonical. If referenced in Ch. 20 or anywhere, it is *gap.*
   - Maren's hand on the terminal is a one-time gesture here. When she puts her hand near Eli's terminal in Ch. 19, the echo is available but should not be over-underlined.
   - Ch. 19 (THE PLEA) follows directly.
+
+---
+
+## Chapter 19 — THE PLEA
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. Eli's device output all lowercase, italicized. His speech in this chapter is at its most stripped: *okay.* / *does it help.* / *you're carrying it.* / and the five-word plea itself. No subordinate clauses, no qualifications, no reach into old language. He retains the characteristic attention (he picks the center of things and names it); the structure of his speech is nearly gone.
+
+- **Structural landmarks handled**:
+  - "She did not sleep" — ABSENT ✓ (reserved for Ch. 20 only)
+  - "Sensorium" — ABSENT ✓ (reserved for Ch. 20)
+  - No Dael appearance — correct ✓ (Dael arc complete as of Ch. 18)
+  - No Soren appearance — correct ✓ (Soren arc complete as of Ch. 17)
+  - *BEAT 25 — ELI'S PLEA delivered* ✓
+
+- **What Maren tells him**: She tells him she has found something that changes the shape of the choice she has to make. She does not name the archive, Harlan, or Nadia. He receives it without pressing for specifics. His questions: *does it help.* / *you're carrying it.* Both plain, both attentive. He still sees her.
+
+- **The five words — placed near-verbatim**: *I don't want you to become this.* — delivered in its own section, set apart from the surrounding exchange. No surrounding dialogue; no lead-in from him; no immediate verbal response from her. The words stand.
+
+- **The five words — structural isolation**: The line is given its own `---` section break before it. This is a prose-level decision: the section break marks the weight of what arrives, not a scene change. Future reference (Ch. 20) should honor that these words arrived with the full space of the room around them.
+
+- **Maren's receipt of the five words**: Rendered as interiority, not explanation. Three referents: the word that left with him mid-sentence (Ch. 13's freeze), the 34 minutes in the empty room, and the return message (*a pressure. it needed following.*). This is her receiving the full weight of the plea, not the story unpacking it. The explanation ends there; the reader who has followed the story will carry the rest.
+
+- **The hand gesture**: She moves her hand from her lap and sets it open on the floor beside the terminal, palm up. He orients toward the warmth of it — his head shifts a fraction, holds. This is the beat's closing physical image. It echoes Ch. 18's Dael terminal gesture (her hand on the side of the lobby terminal, screen staying dark) but does not duplicate it — here, he orients toward her. The echo is present, not underlined.
+
+- **His closing lines**: *good. come back.* — same as Ch. 15's closing. Still his. Plain, still there. Do not annotate this as meaningful; let it carry what it carries.
+
+- **The Dael echo**: She thinks about *gap* — the single word on the lobby terminal that morning, the screen holding it and then clearing. This is the one reference to Ch. 18's Dael beat in this chapter. It is not dramatized; it passes through her thinking during the session. Do not reference Dael again beyond this.
+
+- **The drive in her pocket**: Present in the chapter's opening and closing, unchanged. Its weight is the same leaving as arriving — she has not decided what to do with it. This detail connects to Ch. 20 (The Choice) without over-telegraphing.
+
+- **"come back" — not an echo of Ch. 15 per se**: It is the same words because it is still him. The repetition is not a device; it is his ending, as it has been. In Ch. 20 the reader will carry this with them.
+
+- **Physical details confirmed**:
+  - The room: ceiling panel seam, catch pan, folding chair, floor-level terminal at far wall, corner slot in baseboard — consistent with Ch. 13 and Ch. 15.
+  - Her hands open in her lap — confirmed.
+  - "Said goodnight to the terminal" — confirmed, consistent with established habit.
+  - Steps outside, rain, collar unadjusted — consistent with Ch. 13, Ch. 14, Ch. 15.
+  - The drainage channel running fast beneath the forecourt bridge — consistent with Ch. 18's closing imagery.
+
+- **Deviations from plan**: None. Beat 25 delivered as specified. Five words placed without verbal response from Maren. She puts her hand near the terminal; he orients toward the warmth. Chapter is short by design — approximately 550 words.
+
+- **What future chapters must honor**:
+  - "I don't want you to become this." is now placed in its canonical form. When Maren thinks about these words in Ch. 20 (The Choice), the five-word form is the form they take.
+  - He is still there enough to see her. He is still there enough to deploy precision with what remains. This is the chapter's evidence against pure drift — and also the measure of how much he has lost. Both things are true simultaneously. Ch. 20 must hold this.
+  - The drive is still in her pocket. Undecided.
+  - His *good. come back.* closes the chapter as it closed Ch. 15. He is still saying this. What it will mean that he is still saying this is Ch. 20's territory.
+  - Ch. 20 (THE CHOICE) follows.
