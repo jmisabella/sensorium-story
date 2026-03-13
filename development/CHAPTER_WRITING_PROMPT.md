@@ -8,10 +8,6 @@ Completed chapters are saved to `chapters/` at the project root. Create this dir
 
 **"Sensorium" word — GLOBAL RULE**: Appears exactly 3 times in prose: Chapter 4 (Harlan's briefing — clinical, costs nothing), Chapter 13 aftermath (costs something), Chapter 20 (costs everything). Never in the Epilogue.
 
-## RISK WARNING
-
-The one real risk with this story: the investigation plot and the grief plot run in parallel and need to converge at the right moment (Maren finds the archive just as Eli's decline is hitting its worst). If one thread moves faster than the other, the structure breaks.
-
 ---
 
 ## CONTINUITY LOG

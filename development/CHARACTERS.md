@@ -94,6 +94,8 @@ What he loves about her: her precision, which he reads as the shape of her passi
 
 His characteristic expression of love: giving her language for what she's holding. When she doesn't have words for something — when she has come home carrying something unprocessed from work, or from the world, or from herself — he finds the words and sets them down without ceremony. He does not ask her to thank him for this. He does not point at the act.
 
+**The "reading aloud" habit**: He reads student work or marked passages aloud into the room — not to her, just because he shares things when they catch him. Established in Ch. 1 with the student's sentence: *"the machines inherited the sky and we were left with the names we used to have for it."* This sentence sets the standard every subsequent instance will be measured against. Future sessions writing Eli reading aloud must honor this: what he reads should have that quality — precise, resonant, not on-the-nose. Do not use weaker material for this gesture.
+
 Physical detail: when she comes home, he moves things off the table. Books, papers, whatever he's been working on — he clears a space without being asked, without announcing it. She puts her bag down in the space. He has done this for seven years. She has never commented on it. Neither has he.
 
 ### The Decline (Post-Transfer)
