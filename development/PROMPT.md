@@ -72,6 +72,46 @@ Save the completed sketch to `development/sketches/sketch_02_first_contact.md`.
 
 ---
 
+## SKETCH SESSION 2.5 — BEFORE
+
+We are developing a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following development files before we begin:
+
+1. `development/STORY_BIBLE.md`
+2. `development/WORLD_BIBLE.md`
+3. `development/CHARACTERS.md`
+4. `development/PLOT_HOLES.md`
+5. `development/PLOT_OUTLINE.md`
+
+Also read any previously completed sketches in `development/sketches/` to calibrate voice and register — especially `sketch_01_freeze.md` and `sketch_02_first_contact.md`, which establish the voice and show what will be lost. This sketch must give the reader something to lose.
+
+**Draft Scene Sketch #2.5: BEFORE (no Beat number — this is a pre-story scene, set ~2–3 years before the opening, or early in Eli's ash lung before it became a daily reality).**
+
+This scene has one job: make the reader love Maren and Eli together. It is the structural foundation of the entire novel. Without it, The Freeze is a scene about loss. With it, The Freeze is a scene about *this* loss — this specific, earned, irreplaceable thing between these two people.
+
+**This is the most important scene you will draft.** Nothing else in the story works as hard as this scene, and it shows almost nothing happening.
+
+Relevant details:
+- Set before the ash lung was a daily presence. Before the transplant was a real conversation. An ordinary evening.
+- Nothing dramatic happens. That is the point. Two people being exactly themselves with each other.
+- Eli has cleared the table when she came in. He always does. She puts her bag in the space.
+- He reads a line aloud from something he's been marking — not because it's relevant to her, just because he shares things when they catch him. She doesn't look up from her report. She hears it. He doesn't ask what she thinks.
+- He finds the word for something she's carrying — something she came in with, unprocessed. He offers it without ceremony, without pointing at the act. She takes it without thanking him for it.
+- Somewhere in the scene: she is briefly, fully present with him. Not managed. Just there. He does not remark on it.
+- Her hands are open in her lap. She is not aware of this.
+- This scene does not know what is coming. There is no foreshadowing. No weight. Just: this is what they are.
+- POV is Maren's — but she is not analyzing the love. She is simply in it. The love is visible through the exactness of her attention.
+- Length: SHORT. Under 600 words, possibly much less. The restraint is structural. A long scene would try too hard. This scene works by being ordinary.
+
+What to avoid:
+- Do not have them declare or discuss their love
+- Do not manufacture warmth — it must be found in specificity, not sentiment
+- Do not foreshadow the ash lung or the transplant
+- Do not editorialize the tenderness — show it, leave it alone
+
+Save the completed sketch to `development/sketches/sketch_before.md`.
+
+---
+
 ## SKETCH SESSION 3 — HARLAN'S SENSORIUM SPEECH
 
 We are developing a dark sci-fi horror novella called **Sensorium**. All planning is complete. Please read the following development files before we begin:

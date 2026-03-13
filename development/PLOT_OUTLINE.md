@@ -14,6 +14,13 @@
 
 ---
 
+---
+
+> **CRITICAL STRUCTURAL NOTE — THE LOVE STORY**
+> The grief in this story only works if the love works first. The reader must believe in Maren and Eli as specifically, deeply in love before they are asked to watch that love change shape irreversibly. The investigation and the transplant program are the story's architecture. The love is its foundation. Do not allow the investigation plot or the world-building to crowd out the "before" — the ordinary, alive, specific love that makes everything that follows devastating rather than merely sad. See also: CHARACTERS.md ("Maren and Eli — What Their Love Looks Like") and STORY_BIBLE.md ("The Love Story as Structural Pillar").
+
+---
+
 ## Act One — Establishment
 
 **Goal**: Establish the world and the people; force the irreversible change.
@@ -34,11 +41,19 @@ This beat establishes:
 ### Beat 2 — Home
 Maren arrives home. Eli has made dinner. The apartment is small, functional, warm in the way of a place that has been inhabited carefully for years. The cough is established in a moment, not a speech — he turns away from the stove briefly; she doesn't comment; he doesn't apologize. This is their adjustment. They've had fourteen months to make it.
 
+**This beat must do more than establish — it must make the reader love what will be lost.** The following are required in the prose, not as a checklist but as the texture of the scene:
+
+- He has made something she mentioned wanting — weeks ago, once, briefly, without emphasis. She notices. She says nothing. This is their economy: nothing is performed.
+- He reads a line aloud from something on the counter — something he's been marking, a passage from a book a student brought in, something that caught him. Not because it is relevant to her. Because he shares things when they catch him. She is writing her report. She doesn't look up. She hears it. He doesn't ask her what she thinks.
+- One moment — small, unremarkable from the outside — where she is briefly, fully present with him. Not managed. Just there. He does not remark on it.
+- When she comes in, he has cleared the table. He always does this. She sets her bag in the space.
+
 This beat establishes:
 - Eli's voice: direct, specific, warm. He lives in language — how he speaks is who he is.
-- The relationship: seven years, understood between them without performance
+- The relationship: seven years, understood between them without performance — but the reader must *feel* the seven years, not just be told about them
 - Ash lung as present condition, not crisis — the crisis has been absorbed
 - Dael's name comes up casually — he had a good day on the device; Eli mentions it
+- The reader leaves this beat thinking: *I want them to keep this.*
 
 ---
 
@@ -67,6 +82,8 @@ Maren encounters Dael in the building lobby — he uses the communication termin
 
 This beat functions as the story's early warning system, delivered quietly: Dael is what Eli will become. At this point, it reads as a functional, if strange, new arrangement. In retrospect it will read differently.
 
+**Craft note**: Write Dael as a person first. He has a specific cadence, a specific humor, something that is recognizably him. The foreshadowing only works if the reader doesn't feel it working — if they simply meet a person, and like him, and later remember that they liked him. Do not write him as a device. Write him as someone Maren actually has a small, real exchange with.
+
 ---
 
 ### Beat 6 — First Investigation Contact
@@ -78,6 +95,10 @@ Maren follows a thread from the latest attack — a logistics pattern, a supplie
 Eli and Maren. He's had a medical assessment; the progression is clearer now. He raises the transplant — not for the first time, but differently this time. He is not emotional. He has been thinking. He says: *the mind is what I am. The transplant preserves the mind. I've read what the early transplants say.*
 
 She cannot say what is actually wrong, which is that she watched someone go still mid-sentence three years ago and has never processed what she saw. Instead she argues: the program, the timing, the uncertainty. He listens carefully. He does not agree. Neither resolves it. They go to sleep in the same bed, not touching, both awake.
+
+**Health suspicion seed (required in this beat)**: Somewhere in this scene — briefly, without announcement — Maren registers something she does not say. A cough she suppresses before it starts, or a breath she notices on the stairs coming home. She has been doing this for eight months. She does not say it to him, which is the same category of not-saying as everything else in this scene. He may notice. He does not ask. The reader should feel, in retrospect, that this moment was always here.
+
+**Craft note**: This is not a scene about two people failing to connect. It is a scene about two people whose connection is strong enough to hold the weight of what neither is saying. The reader should feel that they know each other too well to perform hope for each other. The not-touching is not distance — it is each of them trying not to transfer what they're carrying to the other. The love is present in the restraint.
 
 ---
 
@@ -103,6 +124,8 @@ She cannot stop it. The appointment is made.
 Maren does not attend the ceremony. She has not attended one in three years — schedule, she tells herself. She works. Late afternoon, her device signals: the procedure is complete. The body has been cremated. The rat has woken.
 
 She reads the message twice. She puts the device in her pocket. She finishes the report she was writing. Outside the window, it is raining.
+
+**Craft note**: In the prose, two or three sentences — brief, not dramatized — should carry this: she was not at the ceremony, and she knows he would have expected her not to be. Not because he doesn't want her there. Because seven years have taught him the shape of what she can and cannot do, and he did not ask her to be different. That he already knew this about her — that he made room for exactly who she is, even at this — is its own form of love. And its own form of grief.
 
 *End of Act One.*
 
@@ -142,6 +165,8 @@ He is still Eli. He still notices what she needs and says it. The tenderness is 
 ### Beat 14 — Dael (Middle State)
 Maren checks the lobby terminal. Dael's output: shorter than last time. Not dramatically — a few sentences instead of paragraphs. He asks after Eli. She passes it on.
 
+**Craft note**: Again, write Dael as a person — someone she knows, however slightly, and the shortening is felt because the person was established. His humor is still there, but it takes longer to arrive. The foreshadowing works through specificity, not announcement.
+
 ---
 
 ### Beat 15 — The Early Transplant
@@ -160,6 +185,8 @@ She says: *it's okay.* This is the first lie she's told him in seven years.
 
 ### Beat 17 — Maren Reaches the Network's Edge
 The investigation leads her to a meeting point — a contact in the outer districts who has sympathies but is not fully embedded. He confirms what she's already suspected: the resistance has a philosophical core, not just a violent fringe. He gives her a location. He says: *she'll decide if she wants to talk to you.*
+
+**Structural note**: By this beat, Maren has enough to close the case — enough to hand to Soren, enough to identify the network's leadership to the Oversight Authority. She chooses not to. She goes alone, tells no one, does not log the location. She has made the decision before she opens the door. This is important: when she meets Nadia, she is not there to gather evidence. She has already decided something, though she may not have named it yet to herself.
 
 ---
 
@@ -199,6 +226,8 @@ Maren does not answer. She has been living with the question since the freeze.
 
 Nadia explains her argument (substrate non-independence; consciousness as produced by specific biological configuration; the copy argument). Maren disagrees formally — she is a program defender, professionally and by prior conviction — but she cannot dismiss everything Nadia says. The session ends without resolution, but Maren knows she will need to come back.
 
+**Non-arrest note**: She leaves the meeting knowing she will not turn Nadia in. She knows this is a professional act with consequences if discovered. She knows people died in attacks that Nadia's network enabled. She does not explain herself to the reader — but she must be seen *knowing* what she is choosing not to do. One sentence of this awareness, in her interiority, is enough. The choice must register as a choice, not as a gap in the plotting.
+
 ---
 
 ### Beat 20 — Fourth Visit: Short Sentences
@@ -237,6 +266,21 @@ Neither says anything for a while.
 ## Act Three — Resolution
 
 **Goal**: Force the reckoning. Drive toward the impossible choice.
+
+---
+
+### Beat 22.5 — Soren
+Between the archive discovery and the Harlan confrontation, Soren catches up to her.
+
+He has noticed. He is competent — he has been running the investigation alongside her for months, and she has diverged in ways a careful partner registers. He does not accuse. He asks a question she cannot fully answer. Something operational — a gap in her log, a lead she didn't share, a location he knows she visited without noting it. She gives him just enough. A partial truth, a redirect, something that lets him choose to let it go.
+
+He lets it go.
+
+Neither of them says what they both understand.
+
+This scene should be short. Its only job is to make visible the distance she has traveled from who she was — and Soren is the measure of it. He is the person she was three years ago: someone who does the job efficiently, without the grief. She looks at him and sees the version of herself that did not go to that early transfer and come home unable to sleep. She has left that version behind. This is the scene where it is confirmed, quietly, between two professionals who will never discuss it.
+
+The mirror dynamic pays off here: he is not her antagonist. He is her past. And she has walked away from it.
 
 ---
 
@@ -295,6 +339,10 @@ She thinks about Harlan. She cannot dismiss him entirely.
 She thinks about the freeze. She cannot dismiss that either.
 
 She thinks about: *I don't want you to become this.*
+
+She thinks about Nadia's question — *is that Eli in the rat, or a pattern that believes it is Eli?* — and she tries, here, to answer it. She has been avoiding it since the first time Nadia asked it. Now she tries. She thinks about the screen activating on the first morning, and the phrase she recognized immediately, and how completely she heard him in it. She thinks about the freeze: the way his body oriented, the footsteps, the gap in the baseboard. She thinks about *I don't have the word* — him, trying to reach her from something she cannot follow him into. She tries to answer Nadia's question. She cannot. The question is not answerable from where she is standing. It may not be answerable from anywhere.
+
+**Health note (required)**: She is also — somewhere in this scene, without announcement — aware of her own body. The cough she has been ignoring. The suspicion she has not tested. The cure research in her hands is data about a pathway that might have saved Eli, and might, if it leads somewhere, save others, and might — if she is what she suspects she might be — change the shape of what she has to decide about herself. She does not name this directly. It is simply present, the way it has been present for eight months.
 
 She is sitting by the window. It is raining, the way it always rains here. Outside, in the street, a rat crosses a drainage channel without breaking stride — small, purposeful, moving through the dark with a certainty that requires no visible source.
 

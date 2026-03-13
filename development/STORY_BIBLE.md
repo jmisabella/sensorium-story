@@ -107,6 +107,22 @@ Two rats. Pure sensory and behavioral description — what they do, how they mov
 
 ---
 
+---
+
+## The Love Story as Structural Pillar
+
+The grief in this story only works if the love works. These are not separate elements — the grief is built on the love. If the reader has not believed in Maren and Eli as specifically, deeply, particularly in love, the entire structure of the novel weakens at its foundation.
+
+**The risk**: The planning invests heavily in grief architecture — The Freeze, the degradation arc, the impossible choice. These are correct and necessary. But they require the reader to already love what is being lost. That means the love must be *demonstrated*, not asserted — shown in a moment that exists before the crisis, that has nothing to do with ash lung or the transplant or the investigation. A scene where the reader simply sees who these two people are to each other, and wants them to keep what they have.
+
+**The requirement**: At minimum one scene before the transplant must show them as a living unit — unforced, specific, not organised around the weight of what's coming. This scene is as structurally essential as The Freeze. Without it, The Freeze is a scene about loss. With it, The Freeze is a scene about *this* loss — the loss of this exact, irreplaceable thing between these two specific people.
+
+**What their love is not**: It is not performed. It is not announced. It does not look like romance. It looks like seven years of two specific people choosing each other in ordinary ways: the table cleared when she comes home; the word found for what she's carrying; the passage read aloud to no one in particular; her hands open in her lap when she is with him. The reader must feel this earned and particular and irreplaceable before they are asked to watch it change.
+
+**Guidance for every shared scene**: Do not manufacture warmth. Do not have them say things the people they are would not say. Their love lives in what is *done* and *not said* — in precision, restraint, and exact attention. See CHARACTERS.md ("Maren and Eli — What Their Love Looks Like") for full craft guidance.
+
+---
+
 ## The Thematic Arc of the Word "Sensorium"
 
 The title is not decorative. The word tracks the story's meaning:
@@ -127,9 +143,10 @@ The title is not decorative. The word tracks the story's meaning:
 - [x] Character Sheets (MC, Partner, Scientist, Rebel Leader)
 - [x] Plot Hole Review (development/PLOT_HOLES.md)
 - [x] Plot Outline (scene-by-scene)
-- [ ] Key Scene Sketches (7 priority scenes — draft BEFORE full prose):
-  1. The "mid-sentence freeze" — Eli stops mid-conversation, orients toward something Maren cannot perceive, screen goes dark, footsteps, gone. Most devastating scene in the collection.
-  2. First interaction with Eli-rat — recognition horror through the device. His voice on the screen for the first time.
+- [ ] Key Scene Sketches (8 priority scenes — draft BEFORE full prose):
+  0. **Before** — pre-story, an ordinary evening. Maren and Eli as a living unit. Makes the reader love what will be lost. `development/sketches/sketch_before.md` ✓
+  1. The "mid-sentence freeze" — Eli stops mid-conversation, orients toward something Maren cannot perceive, screen goes dark, footsteps, gone. Most devastating scene in the collection. `development/sketches/sketch_01_freeze.md` ✓
+  2. First interaction with Eli-rat — recognition horror through the device. His voice on the screen for the first time. `development/sketches/sketch_02_first_contact.md` ✓
   3. Harlan's sensorium speech — cold, clinical, delivered in a lecture or briefing. *"The sensorium is merely the interface."*
   4. Discovery of the suppressed cure research — Maren finds the trail Harlan buried.
   5. The confrontation with Harlan — he explains, calmly, and some of what he says is not wrong.
@@ -148,3 +165,7 @@ The title is not decorative. The word tracks the story's meaning:
 - Body horror (vibrissae, coprophagy, grooming, pheromone flood) earns the genre label without dominating the grief story
 - The epilogue's two rats produce different interpretations in different readers
 - Sensorium is tonally distinct from both companion novellas: grief, not conformity, not dread
+- A reader who does not know what is coming feels, during the "Before" sketch or Beat 2, that they want Maren and Eli to keep what they have
+- Maren's suspected health status is seeded early enough that Beat 26's full weight is felt — the data she holds is also data about herself
+- Beat 26 shows Maren attempting to answer Nadia's question ("is that Eli, or a pattern?") and failing — the unresolvability is earned, not assumed
+- The Soren scene reads as two professionals, not a confrontation — the distance between who Maren was and who she is now is measured, not dramatized

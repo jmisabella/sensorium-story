@@ -34,10 +34,28 @@ She wants the program to be what she believed it was when she joined: a terrible
 
 She is not wrong.
 
+### Her Health
+Maren has not been tested for ash lung. She has told herself this is because she doesn't have time, because everyone has a cough here, because the early-stage symptoms are indistinguishable from the ordinary conditions of living in this city. None of this is the reason.
+
+The reason is the same reason she stopped attending transfer ceremonies three years ago: she has been not-looking at things that, if she looked at them directly, she could no longer manage. She suspects. She has suspected for approximately eight months — a persistent cough she has not mentioned to anyone, breathlessness on the stairs that she has attributed to other things. She has not sought a diagnosis. She does not know for certain.
+
+This suspicion is present in everything she does in the story's second and third acts. When she finds the archive data, it is not only Eli's future she is reading. When Eli says *I don't want you to become this*, he may know — or suspect — what she doesn't say. By Beat 26, the choice about what to do with the cure research is also, undeniably, a choice about her own body and her own time.
+
+She does not know whether the research would have worked. She does not know whether she has ash lung. The not-knowing is itself part of the impossible weight.
+
+### How She Loves Eli
+What she loves about him that no one else would see: the way he finds the word for things. He is a teacher — he has always been able to find the right angle, the right way in — but what he does with her is different. When she is carrying something she has no language for, he finds it for her. He does this gently, without pointing at the act. He offers the word the way you offer someone a coat — as if it were simply there, as if he hadn't gone looking. This is the most intimate thing she knows.
+
+Her love does not look like love in the way people expect love to look. She does not perform it. She does the exact right thing, and she does it without announcement. She remembers what he mentioned wanting — weeks ago, briefly, once — and does it. She adjusts around what he doesn't say without asking him to say it. She notices before he knows she's noticed. Her care is in the exactness of her attention, and he is the only person she has ever loved enough to be that exact for.
+
+Physical detail: around him, her hands rest differently. Open, unguarded, in her lap or on the table. She is not aware of this.
+
 ### Arc
 True believer with suppressed doubt → forced into full reckoning by Eli's decline and her investigation → discovery of the suppressed cure research → confrontation with Harlan → the impossible choice.
 
 The grief in the story is not about whether she loves Eli. She does, completely, in the way that people who have spent years alongside someone do. It is about whether love is enough to close the gap between human and rat. It is about whether that gap can be closed at all.
+
+By the final chapter, the arc has produced an impossible convergence: she has found the suppressed research (which may mean she doesn't have to do what Eli did); she suspects she may already be on the clock; she cannot dismiss Harlan's argument; she cannot dismiss the freeze; she cannot dismiss Nadia's question — *is that Eli in the rat, or a pattern that believes it is Eli?* — and she cannot answer it. She must be seen in Beat 26 actually trying to answer Nadia's question and failing. The unresolvability is the point. But she must be seen trying, not just feeling.
 
 ---
 
@@ -68,6 +86,15 @@ When Eli decides to undergo the transplant, it is not a crisis decision made in 
 He tells Maren: *I know what it costs. I'd rather pay it.*
 
 She cannot answer this, which means she cannot stop it.
+
+### How He Loves Maren
+He reads her the way he reads students — which is to say, he finds the right angle, the right way in. This is not a technique with her. It is the shape of how he loves. He has been watching for what she's carrying, what she hasn't said, and finding the way to reach it without forcing — for seven years.
+
+What he loves about her: her precision, which he reads as the shape of her passion. Her discipline, which he reads correctly as contained conviction rather than coldness. He has always seen through the containment to the fire underneath. She knows that he sees it. This is not a small thing. Most people take her restraint at face value. He never has.
+
+His characteristic expression of love: giving her language for what she's holding. When she doesn't have words for something — when she has come home carrying something unprocessed from work, or from the world, or from herself — he finds the words and sets them down without ceremony. He does not ask her to thank him for this. He does not point at the act.
+
+Physical detail: when she comes home, he moves things off the table. Books, papers, whatever he's been working on — he clears a space without being asked, without announcing it. She puts her bag down in the space. He has done this for seven years. She has never commented on it. Neither has he.
 
 ### The Decline (Post-Transfer)
 - **Weeks 1-4**: Full sentences. His vocabulary, his rhythm, his specificity. He describes the rat world — the scent trails, the whiskers, the ultrasonic range — with the precision of someone who has just encountered something extraordinary. He is still Eli. She can hear it.
@@ -135,6 +162,25 @@ Some of what he says is not wrong. This is the horror of the scene. Maren cannot
 He ends with: *I did not make this decision carelessly. I made it carefully. That is different from making it wrongly.*
 
 He believes this. He is not certain he is right. But certainty was never available, and he acted in its absence as he always has — by choosing the path most likely to preserve the most minds. He still believes he chose correctly.
+
+---
+
+---
+
+## Maren and Eli — What Their Love Looks Like
+*Craft guidance for prose. This section exists to protect the love story through every session of drafting.*
+
+**What it does not look like**: declarations, grand gestures, performed tenderness, announced feeling. Neither of them operates this way.
+
+**What it looks like**: the specific shorthand of seven years. Conversations that use half the words. Him finding the right thing to say before she knows she needed it. Her doing exactly the right thing without being asked. The table cleared when she comes home. Her hands open in her lap.
+
+**The core dynamic**: He gives her language. She gives him attention. Both of these are forms of love that look like nothing from the outside and feel like everything from the inside.
+
+**The structural requirement**: The reader must see this love *working* — alive, specific, ordinary — in at least one scene before they are asked to watch it fail. A scene that has nothing to do with ash lung, the transplant, or the investigation. A scene where nothing happens except two people being exactly themselves with each other, and the reader feels: *I want them to keep this.*
+
+Without that scene, The Freeze is a scene about loss. With it, The Freeze is a scene about *this* loss.
+
+**What to avoid in every scene they share**: Do not manufacture warmth. Do not have them say things to each other that the people they are would not say. Their love is in the precision and the restraint. Let the reader feel it through what is *done* and *not said*, not through what is announced.
 
 ---
 
