@@ -338,3 +338,51 @@ Each entry records decisions made in prose that are not derivable from planning 
   - Soren's identified face (the man in both attacks, driving for the reregistered salvage service) is now part of the official investigation thread. Future Soren scenes should acknowledge this progress.
   - Maren's reflection — "she recognized it the way you recognized a city you had lived in and left" — describes her relationship to efficient, uncomplicated investigative work. This is the chapter's quiet mirror beat. Beat 22.5 (Ch. 17) is the explicit mirror scene; this is its preparation.
   - The outer district contact confirmed: she does not have the researcher's name. No one she has talked to does. Future sources who give the name would be unusual and should be treated as significant.
+
+---
+
+## Chapter 10 — WHISKERS
+
+- **Voice/style decisions**: Continuous with prior chapters. Eli's device output remains all lowercase, italicized, fully punctuated — teacher's precision fully intact. This is still his high-water mark; no degradation yet. The pauses within the session are thinking pauses, not mid-sentence losses — the latter are Ch. 12's designated territory. The chapter is contained to a single visit; the investigation runs underneath but is not dramatized (one exchange: "how is the work" / "ongoing").
+
+- **Structural landmarks handled**:
+  - "She did not sleep" — absent ✓ (reserved for Ch. 13 and Ch. 20)
+  - "Sensorium" — absent ✓ (reserved for Ch. 13 and Ch. 20)
+  - No Dael appearance — correct ✓ (Dael middle state is Ch. 11)
+  - No Soren appearance — correct ✓ (Soren Act Two appearance #2 is Ch. 13)
+
+- **Whiskers description extended** (building on Ch. 8 without contradiction):
+  - Ch. 8 established: reads air, displacement of breathing, heat signature, "acoustic geometry" of her body in the room before he turns toward it.
+  - Ch. 10 adds: 24 vibrissae (distinct number now established), each reading a different frequency of displacement; can track her from the ward entrance by her floor weight distribution; mapped the room for an hour before she arrived; identified the ceiling height by air circulation pattern; identified the hollow chair legs by the way they ring. These details are now canonical — do not revise them.
+
+- **New sensory details established**:
+  - He can track Maren from the ward entrance by her weight distribution and step pattern — learned in the first week
+  - He can hear her from two rooms away; this morning in the corridor he heard her on stairs in the building across the canal
+  - He can hear her heartbeat from across the room
+  - He was in the open ward once (yesterday); it overwhelmed — too much sound, too much information. He mapped it from the doorway and withdrew. "Concentrated" is his preferred word over "overwhelming."
+  - Barometric rain-stop sensing: he has been tracking for six days, right 3 times out of 4. He can tell approximately 40 minutes before the rain stops. This detail is now established — if referenced in later chapters, honor these specifics.
+  - The east wall ventilation grate is loose; it creates a detectible pressure difference across the room.
+
+- **The key line placed** (near-verbatim from PLOT_OUTLINE.md):
+  > *"the world is bigger than I thought. and smaller at the same time. those aren't contradictions. what I mean is: my perceptual range has expanded considerably. I can hear you from two rooms away... I can hear your heartbeat, I think. from here. now. it's fast. you don't need to worry."*
+  Delivered across multiple outputs, building to the heartbeat. The "you don't need to worry" is placed last — he reads her heart rate and gives her the exit, exactly as "you do not need to explain" functioned in Ch. 8.
+
+- **The gap rendered**: Through content, not announcement. She can see him; he can feel her. The gap is exact: she can describe what she sees; he can describe what she cannot perceive about herself. "She sat with what she could not follow him into. Not what it meant. Not yet. Just the fact of it." The word "gap" is not used.
+
+- **His self-correction moment**: He says "I know you completely" and immediately corrects: "I need to be careful about that. what I mean is: I know the signals..." followed by "the map of the room is not the room." This is Eli's epistemological precision — the teacher's refusal to claim more than he knows. Future chapters must honor this self-correcting quality while it persists; it will be among the first things lost to the degradation arc.
+
+- **The tenderness**: "I thought you should know that" (said after reassuring her that the reading is the same across the new equipment). He still notices what she needs and says it before she knows she needs it. "You don't need to worry." "Are you sleeping." These are undimmed. She lies about sleeping — "yes" (true: she is sleeping; not true: she is sleeping well). She does not explain the distinction. He accepts it.
+
+- **The ending**: She learns, walking out, that he was in the corridor that morning — he heard her on stairs across the canal — and she had not known he was there. The asymmetry is the chapter's closing note. Not dramatized; simply: "She had not known he was there." Do not return to this detail explicitly; let it sit.
+
+- **Physical setting**: The Institute's transition room — same space as Ch. 8. Same terminal, same wall bracket, same afternoon light. She brought a chair this time (not on the floor as in Ch. 8). The nurse taps the corridor glass to end the session, consistent with Ch. 8's "practiced courtesy."
+
+- **The rain-stop tracking detail**: Placed at the end of the session, offered by him as possibly useful information. Her response: "I like knowing you're tracking it." His: "I thought you might." This is their register — the not-performed, the specific attention. Do not revisit this detail for sentiment; let it remain present as one of the chapter's quiet moments.
+
+- **What future chapters must honor**:
+  - His device output in Ch. 10 remains at the same register as Ch. 8 — full sentences, full vocabulary, full precision. Ch. 12 (THE PAUSES BEGIN) is the first chapter where degradation appears in the output itself.
+  - The 24 vibrissae detail is now established as canonical.
+  - He can hear her heartbeat from across the room — established in Ch. 8, confirmed and extended in Ch. 10.
+  - The rain-stop barometric tracking is established; if used in a later chapter as a callback it should honor "approximately forty minutes before."
+  - The asymmetry closing (she had not known he was in the corridor) is now present. Do not call it forward explicitly but it is available as context for her processing of the gap.
+  - His epistemological precision — the self-correction, "the map of the room is not the room" — is characteristically Eli and should be present while it lasts. When sentences shorten in Ch. 12 and beyond, this quality (the subordinate qualification, the care about the limits of claims) is among the first to go.
