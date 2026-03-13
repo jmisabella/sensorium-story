@@ -875,3 +875,53 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The drive is still in her pocket. Undecided.
   - His *good. come back.* closes the chapter as it closed Ch. 15. He is still saying this. What it will mean that he is still saying this is Ch. 20's territory.
   - Ch. 20 (THE CHOICE) follows.
+
+---
+
+## Chapter 20 — THE CHOICE
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. The chapter runs in seven marked sections (section breaks throughout). The prose slows in the Nadia's-question section — the most deliberate movement in the chapter — and returns to spare register for the closing. No dialogue; no device output. The chapter is entirely Maren's interiority and sensory observation. Approximately 1,400 words.
+
+- **STRUCTURAL LANDMARK — "She did not sleep" #3**: Final three words of the chapter, final three words of Act Three: *She did not sleep.* — simple past, declarative, identical phrasing to Ch. 8 and Ch. 13. All three appearances are now placed. ✓
+
+- **STRUCTURAL LANDMARK — "Sensorium" appearance #3**: Placed in the sixth section, as her interiority reaching for a word to hold everything she has been carrying. The word arrives as arrival, not as choice — the same mechanic as Ch. 13 (it appeared unbidden), but heavier now. Its content is rendered explicitly: it has the freeze in it, the footsteps, the corner slot, "I don't have the word," the thirty-four minutes. The word no longer fits in the clinical space it occupied in the briefing room. She has been wrong about what things cost. That is the section's closing line. All three "sensorium" appearances now placed. ✓
+
+- **Act Three ended**: *END OF ACT THREE* ✓ — the chapter closes on the suspended choice, per plan.
+
+- **The attempt to answer Nadia's question**: Rendered in a dedicated section (fourth). Maren looks directly at the question for the first time. She moves through: (1) the first morning — recognition of his voice before she processed it, certainty; (2) the freeze — the sequence canonical from Ch. 13, honored exactly (orientation, screen dark, small fast footsteps, corner slot, "I don't have the word. a pressure. it needed following."); (3) his claim from Ch. 15 — *I'm here. that part I'm sure of.* — rendered as the distinction between presence and identity, which is the most honest thing he could say. She tries to hold all three. She cannot resolve them. The question does not give. She accepts the not-resolving as the shape of the thing, not a failure. Nadia's question is now answered as the plan required: attempted and failed. The unresolvability is earned, not assumed.
+
+- **Health note placed without announcement**: Second section, rendered as direct interior accounting she has been avoiding. She has a cough since last spring. Breathless on stairs. Has not been tested. Connects explicitly to the same category of not-looking as the transfer ceremonies three years ago. The data on the drive is data about a pathway that might change what she has to decide about herself. This is rendered once and not returned to; the reader carries it.
+
+- **What the data means for Eli — rendered first**: The cure only works pre-transplant. This is not new information; it is confirmed as still true. The word "prefers" is allowed one final appearance, drawn from Dael's family's usage (Ch. 18) — she closes that part of the thinking. The irreversibility is stated plainly and not dramatized. Consistent with Ch. 16's placement of this fact.
+
+- **Harlan's argument honored**: She cannot dismiss him. The window of uncertainty is real. The cost of false hope is real. His key line (*I did not make this decision carelessly...*) appears near-verbatim in her memory, correctly attributed. She counter-holds what she has that he did not: thirty-four minutes in an empty room, the corner slot, the footsteps. She did not say this to him. She did not say it here either — she simply holds it against his calculation, without editorial.
+
+- **Eli's five words present**: *I don't want you to become this.* — not in the device-output format (he is not present in this chapter), but in memory, rendered in italics consistent with all prior device output quotations. His understanding of what he meant is delivered as interiority: not the body, not the cold — the word that left with him, the pressure, the following. He was still there enough to see her. The chapter holds both truths simultaneously.
+
+- **The rat in the street**: Small, purposeful, not pausing, moving through the dark without visible source of certainty. She watches it until it is gone. Section break after. This is the chapter's hinge — between the attempt and the arrival.
+
+- **"She was leaning toward no"**: Named in the seventh section, not before. The framing: she has owed herself the full weight before arriving. She does not know if she is right. She has stopped expecting to know. The research might lead somewhere — this is kept as "present," part of the weight, not a reason, not a resolution. The not-deciding-to-decide quality from the sketch is honored: it feels like something that already happened in an earlier moment she didn't notice.
+
+- **Closing image**: The light changing outside — not dawn, the rain thinning to a different register. The drainage channel still running. She has not closed the drive. Her hands are open in her lap. This physical detail (hands open in her lap) has appeared throughout the story in scenes where she is with Eli or thinking of him, always without her noticing. Here it appears one final time, in his absence, in her vigil. No annotation.
+
+- **No quotation marks; no external dialogue; no device output**: Correct. The chapter is entirely interiority and observation. The only "voices" are her memory of others' words.
+
+- **"I'm here. that part I'm sure of." honored**: Placed in the Nadia's-question section as the third element in her attempt to answer — not presence, not identity, presence. The distinction is honored as canonical from Ch. 15 without being over-explained.
+
+- **Physical details confirmed**:
+  - The drive moved from her coat pocket to the table — she takes it out when she comes in and does not touch it for two hours. Then opens it. Then lets it sit on the table while she thinks.
+  - No lamp turned on — she sits in the dark with only the window's grey light.
+  - Her hands open in her lap (closing image).
+  - The drainage channel below the window — consistent with Beat 26 plan.
+  - The rat crossing the channel — as specified in the beat instructions; she watches it until it is gone.
+  - The light changing (not full dawn) — as specified.
+
+- **Deviations from plan**: None. Beat 26 delivered in full. All required elements placed: health note, Nadia's question attempted and failed, "she did not sleep" #3, "sensorium" #3, rat in the street, leaning toward no, light changes, still there. Sketch 06 honored and expanded.
+
+- **Structural arc complete**: "She did not sleep" appears three times in the novella: Ch. 8 (First Contact), Ch. 13 (The Freeze), Ch. 20 (The Choice). "Sensorium" appears three times: Ch. 4 (clinical, costs nothing), Ch. 13 (costs something), Ch. 20 (costs everything). Both arcs are now complete and closed.
+
+- **What future chapters must honor**:
+  - This is the final prose chapter of the novella. The Epilogue follows.
+  - The Epilogue must NOT use the word "sensorium" — the arcs are complete; the word remains human.
+  - Maren's hands open in her lap — this image should not appear in the Epilogue. The Epilogue has no human interiority.
+  - The Epilogue follows directly. No chapter number. Two rats. Pure sensation and behavior. No names, no interior, no confirmation.
