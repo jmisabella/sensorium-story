@@ -127,3 +127,43 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The "instrument and the music" framing is Harlan's argument for substrate non-independence. When Maren confronts him in Act Three, she will have heard this argument before. Do not re-establish it from scratch.
   - Tavari is now a named Council member (harbor district). If he appears again, honor this.
   - The Eli-thought on the bridge is suppressed and unfinished — she stopped herself. Ch. 6 (Beat 7, The Conversation They Haven't Had) is where this comes to a head. Do not prematurely extend the bridge thought.
+
+---
+
+## Chapter 5 — SIGNALS
+
+- **Dael's voice established (DAEL LANDMARK #1)**: Dael speaks in lowercase, in full sentences, with a dry and specific humor. His character is: former machinist, eleven years on the maintenance grid, spent post-exit time fixing things people brought him (undercharged, per Eli), had strong opinions about the bread recipe. He has a wife and grown daughter in the south district. The reader is meant to simply like him. Do not revise his warmth or humor in future appearances — this baseline is what makes the degradation devastating.
+
+- **Dael's key interest established**: He is developing a thermal map of the building — learning which corridors run warm, why, tracing the building's infrastructure. He uses "Dael's Guide to Thermal Infrastructure" terminology with dry self-awareness. This interest is entirely natural for a machinist learning a new body's capabilities, and is also the seed of his eventual drift toward the building's infrastructure. Do NOT flag this as ominous in any future chapter until the drift is well underway.
+
+- **Dael's communication style**: Lowercase output. Full sentences at this stage. His humor survives: the Jens comparison (Jens never crouches), the "other advantages" line, the offer to compare notes with Eli on thermal management. This is the high-water mark. Each future appearance should measure against it.
+
+- **The terminal**: Floor-level gray box, screen angled for a rat's line of sight. Installed by the city two years ago; Maren's building received it late. It's in the corner behind the main entry. Established as a specific, recurring location. Do not move or upgrade it.
+
+- **"She smiled — briefly, without meaning to"**: Maren smiles at Dael's humor. This is a deliberate choice: it means he has reached her, and the reader will remember this later. Do not call it forward explicitly. Do not repeat a similar beat in future Dael scenes — leave this as the single moment of unguarded warmth in their exchanges.
+
+- **Eli passed the message**: She tells Dael Eli has been tired (true but incomplete). She will pass along the thermal management offer. Neither of them says more. This is the extent of their relationship — neighborly, bounded, genuine. Do not deepen it artificially in future chapters.
+
+- **Maren's check on herself (the pause)**: After Dael's screen holds, she catches herself interpreting the pause as unfinished — "not waiting, she told herself." She names this as a human reflex she's been making without examining. This is planted here; it has no payoff yet. It foreshadows her difficulties reading Eli-rat in later chapters. Do not explicitly connect these; let the parallel be felt.
+
+- **Peret introduced**: A minor character, approximately fifty, who operates a distribution node (unit twelve, canal service road) for moving salvaged materials. Registered to a holding company that has changed names three times in four years. Not afraid of Maren. Not embedded in the resistance — he moves things, hears things, is doing calculations about what it costs him to talk. He is not ideologically committed. Available for return if useful; not required.
+
+- **Structural details for the supply chain**: Timing relays and stripped/reconditioned couplings are the components traced. Two salvage brokers (one registered, one not). A distribution node on the canal service road that never appeared in any OA file. This trail establishes coordination between cells previously thought unlinked. Ch. 9 (Beat 12) should build from these specifics, not re-establish them.
+
+- **"The researcher" first appearance**: Lowercase phrase, written by Maren in her notebook as a phrase not yet a name. Peret's full framing: "the researcher figured it out. Not the cells. The philosophy under it." Additional context: the resistance believes the researcher found something the Institute buried and built the whole movement around it. This phrase has been circulating for eight to nine months and is now coming up more frequently. Do NOT give any additional context beyond what Peret provides — Maren doesn't know more than this yet.
+
+- **Maren's closing notebook entry**: *the researcher.* then below it: *Institute. Former. Left under circumstances Harlan would describe carefully.* This is her intelligence working — connecting the resistance's reverence for "the researcher" to Harlan's particular manner of managing information. She doesn't know who this is; she knows what kind of person it probably is. Ch. 9 (Beat 12) should honor this: she picks up the thread again with *she left the Institute. Twelve years ago. Harlan reassigned her.*
+
+- **The rat at the canal**: A rat moves along the far bank at the waterline — fast, purposeful, gone before she fully registers it. She is standing at the canal railing when this happens. The rat is unremarkable. Do not annotate it.
+
+- **Rain**: Present throughout the investigation portion — "not heavily, just present, the kind that came in layers and never quite resolved." The canal is running with color from outer district runoff. Continuous with the world established in prior chapters.
+
+- **Structural markers placed**: None ("she did not sleep" and "sensorium" absent — correct for this chapter).
+
+- **Voice/style**: Continuous with prior chapters. The Dael section is slightly warmer — her brief smile is unusual; her interiority during his message is longer than usual and catalogs who he is to her. The investigation section returns to the clipped procedural register. Both feel like Maren in different modes.
+
+- **What future chapters must honor**:
+  - Dael's thermal infrastructure interest seeds his eventual drift. When he stops appearing in the lobby and eventually drifts to the building's infrastructure, this scene is the root of it.
+  - The "the researcher figured it out" phrase is now in Maren's notebook. Ch. 9 (Beat 12) extends it with Institute/twelve years/Harlan's reassignment. Do not jump ahead of that context.
+  - Peret: if he reappears, honor the established dynamic — he is not a committed resistance member, he is a logistics node who talks when the calculation is right.
+  - Maren's reflex of interpreting the rat's pause as human-meaningful is planted here without resolution. Do not resolve it here; let it echo forward.
