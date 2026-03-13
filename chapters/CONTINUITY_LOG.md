@@ -925,3 +925,32 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The Epilogue must NOT use the word "sensorium" — the arcs are complete; the word remains human.
   - Maren's hands open in her lap — this image should not appear in the Epilogue. The Epilogue has no human interiority.
   - The Epilogue follows directly. No chapter number. Two rats. Pure sensation and behavior. No names, no interior, no confirmation.
+
+---
+
+## Epilogue
+
+- **Structure**: No chapter number. Header "Epilogue" only. Two scenes effectively: the channel and the rain-orientation moment. Eight section breaks used to pace the prose; the upward orientation at rain's arrival is given the most space.
+
+- **Voice/style decisions**: No human interiority. No character identification. No "she" or "he" or any pronoun with an antecedent. All prose stays at the level of sensation, behavior, and environmental fact. The observational mode is entirely physical — what the rats register, what the channel smells like, what the body knows.
+
+- **"Sensorium" — ABSENT ✓**: The word does not appear. Both structural arcs ("she did not sleep" and "sensorium") are now complete and closed as of Ch. 20. The Epilogue carries neither.
+
+- **Ambiguity mechanics — how it was built**:
+  - "Not by agreement, not by following, but by accumulated use" — can read as animal territory OR as two minds who have learned to move together over years. Neither is foreclosed.
+  - "One paused; the other is there" — the waiting without signal. Can read as pack behavior OR as the specific kind of waiting that comes from knowing someone.
+  - The upward orientation lasting "longer than instinct would strictly require" — the key line. The posture holds beyond what a weather-check requires. This is the moment where the reader's interpretation determines everything: pure animal fascination, or something that has no name but used to.
+  - "reading the arrival the way you read something you have been waiting for without knowing you were waiting" — the only moment where human-coded language is applied to rat behavior. It is not interiority; it is description. The reader decides what to do with it.
+  - "It smells like distance" — the emotional center of the orientation. Purely accurate as rat cognition (rain does carry molecular signatures from far away). Also available as the last association Maren ever had with standing in the rain: she never adjusted her collar.
+
+- **The rain** — consistent throughout the novella as the atmosphere that was never explained, never attributed. Here it arrives as sensation from below rather than from above. It is the same rain it has always been. The channel receives it without comment.
+
+- **Structural closure of the chapter map**: The drainage channel below Maren's apartment window was the closing image of Ch. 17 and the scene of the rat-crossing in Ch. 20. The Epilogue descends into the channel system itself — the reader moves from above-ground observer to underground subject. This is not stated. It is the geometry of the ending.
+
+- **"Without rest"**: The final image before the sound diminishes — "the infrastructure that has been moving water for two hundred years continues without rest." The two hundred years is the full span of this world's post-war existence. The infrastructure persists beyond any individual story. This is the exhale, but the lungs don't fully clear.
+
+- **The closing image**: "the rain arriving steadily through the grates above and finding, as rain always found, the lowest place." The lowest place is where they have gone. This is literal (drainage channel) and whatever else the reader makes of it. The prose does not annotate.
+
+- **Deviations from plan**: None. All specifications met: pure sensation and behavior, no character identification, no interior, under 1,000 words (~640 words), "sensorium" absent, ambiguity complete, the upward orientation at rain's arrival placed as the scene's emotional center.
+
+- **The novella is now complete in draft form.**
