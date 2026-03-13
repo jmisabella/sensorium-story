@@ -486,3 +486,63 @@ Each entry records decisions made in prose that are not derivable from planning 
   - "It's okay" is now the lie. Do not have her lie to him again about this — the weight of this moment depends on its being the first and staying the first.
   - Her face-management habit in the transition room is established. It is a form of care that is also futile (he can hear her heartbeat). Do not make this explicit.
   - Loss 3's subject (a quality in her smell, both fixed and irreplaceable, "particular" as the reduced word) is now placed. If Eli's descriptions of her smell recur, honor that this attempt to complete the thought failed. The fuller word was never found.
+
+---
+
+## Chapter 13 — THE FREEZE
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. Eli's device output all lowercase, italicized, punctuated. The investigation and Soren sections run in the clipped procedural register. The freeze scene is slowed down and expanded — the longest, most deliberate prose in the chapter. The aftermath (sensorium moment) runs in her internal register, sparse, no interiority she could prevent.
+
+- **STRUCTURAL LANDMARK — "She did not sleep" #2**: Final line of the chapter, identical phrasing to Ch. 8: *She did not sleep.* Three words. Simple past, declarative. Do not vary this phrasing in its final appearance (Ch. 20). All three appearances now placed: Ch. 8 ✓, Ch. 13 ✓, Ch. 20 (remaining).
+
+- **STRUCTURAL LANDMARK — "Sensorium" appearance #2**: Placed in the aftermath, on her walk home — she reaches for language to describe what she just watched, and Harlan's word arrives unbidden. She notices she is using his framework. *The sensorium.* The word sits in her like something that doesn't fit the space. This is the first time it costs something. The connection to Harlan's briefing is made through her own recognition, not through any external prompt. Do not make this connection explicit again; let it remain in her processing.
+
+- **SOREN ACT TWO APPEARANCE #2 placed**: Mid-afternoon, he comes to her desk with a question about a gap in her log. Specific: her presence in the eastern district on the Wednesday afternoon is unlogged. She gives him a partial truth — she went back to the canal contact, got a name she already had, didn't log it because it hadn't connected yet. She offers the name as the redirect. He confirms and moves on. He says one dry line about the overdue report. He leaves. The dynamic: two professionals, nothing accused, nothing fully believed. He noticed. He let it go. **Neither says what they understand.** This plants the seed for Ch. 17 — Soren has already measured the gap; the mirror scene names what this one leaves implicit.
+
+- **Beat 17 — decision not to log**: Placed at chapter's opening. She receives the location from the contact (not dramatized — handled in brief summary) and writes it in her notebook, not her log. The chapter does not dramatize the choice explicitly — it is present in the action (notebook, not log) and in one sentence of her recognition: she does not ask herself when she decided; she knows the decision was made before she understood it as a decision. Do not revisit or over-explain this in future chapters.
+
+- **The room — new space established**: By Ch. 13, Eli is in a building-based communication room, distinct from the Institute's transition room in Ch. 8/Ch. 10. This room: third floor of a program-affiliated building, board-approved rat-accessible addition three years ago, seam in the ceiling panel where original room meets the addition, water finding the line in heavy rain, a slow irregular drip into a catch pan. Floor-level terminal at the far wall, width of her palm, mounted in a correctly installed bracket, surface maintained carefully. A folding chair slightly too large for the space, kept here — she brought her own the first time. She sits forward, elbows on her knees, to see the screen. This spatial setup is now canonical for visits going forward. Do not upgrade or revise the room.
+
+- **The corner slot — established**: The baseboard gap in the far left corner, a gap in the trim darker than the wall around it — the rat-access passage through which Eli leaves during the freeze. This detail is now established. If the room is revisited in future chapters, honor this specific exit point.
+
+- **Eli's mid-sentence content**: He was working through how thought feels different now — the intervals, the space "like a room with the furniture moved out." He had been reaching for a word from one of the old languages he taught — something that names the quality of a held note's resonance after the note ends, the room holding the shape of the sound. He does not finish the sentence. The content is: this is *precisely what he does* — find the right old word — and it is this work that gets interrupted. When he returns: *I don't have the word.* The word left with him. It was never finished.
+
+- **The freeze — physical sequence** (now canonical for any future reference):
+  1. The screen holds the incomplete phrase: *one of the old—*
+  2. His body shifts: a fraction, then more — a slow rotation
+  3. His head angles toward the wall (east wall, the corner where baseboard meets it)
+  4. His sides stop moving at the rate they had been moving
+  5. The screen goes dark
+  6. She says his name (once, quiet)
+  7. Nothing — the room, the rain, the three-second drip
+  8. She stays seated — the instinct not to stand, not to move
+  9. She says his name again (once, into the empty room, not because she expected anything)
+  10. Footsteps: small and fast, barely audible, already receding
+  11. Past the terminal, along the baseboard, into the corner slot
+  12. Gone
+
+- **The wait — duration**: The visit log says "approximately 34 minutes." She was not counting. She does not know where 34 came from. She does not change it. This establishes a canonical duration — do not revise in any future reference to this scene.
+
+- **The return message — verbatim**: *sorry. came back. something — I don't have the word. a pressure. it needed following.* This is canonical. If referenced in future chapters, honor these exact words.
+
+- **The visit log entry — verbatim**: *Subject demonstrated expected sensory response during visit 7. Communication resumption: approximately 34 minutes. No distress noted.* This is visit 7. The log entry is in clinical language. She is the only one who will read this report — stated in plan, rendered implicit in the chapter (she does not file it in the formal OA log).
+
+- **"She said goodnight to the terminal"**: Established here. The terminal shows nothing when she leaves. He has gone again, or settled. This is now a habit — she says goodnight. Available for later use as a callback if useful; not required.
+
+- **The sensorium moment — mechanics**: On her walk home, she needs a word for what she watched. Harlan's word is waiting. She does not choose it; it arrives. She recognizes that she is using his framework. The connection is made through: (1) her need for language, (2) the word's clinical precision making it the only available term, (3) her awareness of whose word it is and what that man has done. She carries it home. She does not resolve it. The word "sits in her like something that doesn't fit the space it was in."
+
+- **Physical details confirmed/established**:
+  - Her hands open in her lap during the freeze — confirmed, she keeps them open without remarking on it
+  - She does not adjust her collar in the rain walking home — a new detail, now established. Do not force a repeat but available.
+  - She does not turn the light on when she gets home — she sits by the window in the dark. This is new.
+
+- **The "old word" thread**: He was reaching for a word from one of the old languages — something that names what a held note leaves in a room after the sound is gone. This word was never finished and is explicitly not retrievable (*I don't have the word*). Do not invent what it might have been or recover it in any future chapter. Its absence is the point. If Eli's language loss is referenced in Ch. 15 or beyond, "the word from the old language he never finished" is available as a specific, unnamed reference.
+
+- **Deviations from plan**: None. All three beat elements delivered as specified. Soren appearance #2, Beat 17 decision, Beat 18 freeze — all placed. Both structural landmarks placed ("She did not sleep" #2, "Sensorium" #2).
+
+- **What future chapters must honor**:
+  - The freeze is now the chapter's canonical form. When referenced in later chapters (Ch. 17 Soren mirror, Ch. 19 Eli's plea, Ch. 20 the choice), honor the specific sequence: not absent, *oriented*; the screen dark; the small footsteps; the corner slot; the return message.
+  - "I don't have the word" — these are now the most important words in the story after the freeze. When the cure research and Nadia's question and Eli's plea come together in Act Three, this specific loss (the word he was reaching for, that left with him) is available as the concrete instance of everything that is being asked of Maren.
+  - The room is established: third floor, building-based, seam and drip, folding chair, corner slot. Future visits (there are none dramatized in the chapter map, but referenced scenes) must match this space.
+  - Soren has now noticed a gap twice (Ch. 9: room four thread; Ch. 13: unlogged eastern district afternoon). He has let it go twice. Ch. 17 is where this arc lands — he asks directly and she gives enough. That scene must honor that this is the third measurement, not the first.
+  - The sensorium appearance #2 is now placed. Its weight in Ch. 20 (appearance #3) depends on what was established here: the word belongs to Harlan, it is contaminated by his suppression, she cannot escape it. When it surfaces again in the final chapter, the reader will know it has been costing her since this night.
