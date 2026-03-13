@@ -44,7 +44,7 @@ She caught Soren at the exit. Rain had started, coming in sideways off the easte
 
 "Yes." She had written it down three weeks ago. The same material signature. The same hands.
 
-Soren said: "The Council is going to want someone in a room by the end of the week."
+"The Council is going to want someone in a room by the end of the week," Soren said.
 
 "I know."
 
@@ -70,7 +70,7 @@ She waited.
 
 "I've scheduled the consultation. The assessment and the procedure planning. I have a date."
 
-She said: "When."
+"When," she said.
 
 "Three weeks."
 
@@ -82,7 +82,7 @@ She tried to find the answer. She could feel the shape of what she wanted to say
 
 She couldn't say it. To say it required believing it, and believing it meant believing it was going to happen to him, and she was not ready — had not been ready for three years — and now there was no more time and she was still not ready.
 
-She heard herself say: "Okay."
+"Okay," she heard herself say.
 
 He looked at her. He knew the difference between her agreement and her surrender. He didn't push.
 

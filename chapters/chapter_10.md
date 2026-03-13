@@ -8,7 +8,7 @@ The screen activated before she sat down.
 
 *you're a minute earlier than I expected.*
 
-She said: how did you know.
+"How did you know," she said.
 
 A pause. The ordinary kind.
 
@@ -18,7 +18,7 @@ She sat down. She thought about this briefly and then stopped thinking about it.
 
 *I want to tell you something about the whiskers.*
 
-She said: yes.
+"Yes," she said.
 
 *I've been trying to find the right vocabulary for a week and a half. I don't have it yet. but I have something close enough.*
 
@@ -30,7 +30,7 @@ She waited.
 
 *each one reads a different frequency of displacement. there are twenty-four of them. I did not know there were twenty-four until I started counting, which took a while, because counting requires a kind of external attention I'm still calibrating. the longest ones reach furthest — they're reading disturbances from half a meter away. the shorter ones are for closer work. when you sit down, I receive a pattern. your weight on the floor changes the air in the room. the pressure changes. the vibration of you breathing — very slight, but specific. I receive all of this before I look at you.*
 
-She said: before you look.
+"Before you look," she said.
 
 *before I turn toward you, yes. the map arrives first. and then the looking confirms it.*
 
@@ -38,7 +38,7 @@ She looked at him at the edge of the image. He was not facing the camera. He was
 
 *I was in the room for an hour before you arrived. I mapped it. the ventilation grate in the east wall is loose — there's a pressure difference at its edges that I can feel from anywhere in the room. the ceiling is eleven centimeters higher than I initially estimated; the air circulation pattern told me I had it wrong. the chair you brought is here now* — she saw him reorient fractionally, toward where she sat — *and its legs are hollow. it rings differently.*
 
-She said: you can tell that.
+"You can tell that," she said.
 
 *it took a moment. I wasn't certain. but yes.*
 
@@ -46,7 +46,7 @@ She looked at the chair. An ordinary facility chair, institutional plastic, the 
 
 *may I tell you something you might not want to hear.*
 
-She said: yes.
+"Yes," she said.
 
 *the world is bigger than I thought.*
 
@@ -64,7 +64,7 @@ She was still.
 
 She said nothing. There was nothing to say to this that was more useful than silence. He was sitting across the room from her in a body the size of her shoe and he could hear her heartbeat.
 
-After a moment she said: the smaller part.
+After a moment she said, "The smaller part."
 
 *my body. what a meter means now. what a room is. when I entered the main ward yesterday — they allowed it, an hour in the open ward — I stood for a long time at the edge of the room. I could hear every terminal, every door seal, every person breathing, every footstep through every surface. it was too much. not frightening — I want to be precise about that. simply too much information very quickly. I went back to the corridor.*
 
@@ -74,27 +74,27 @@ He paused.
 
 She looked at him across the room. She could see him — his attention trained on something she could not perceive, reading the air, reading the floor. The map was continuous. He was reading always, even as the screen carried his words to her. She had thought at the first visit that the stillness was peace. She understood now that it was something else: attention at a frequency she didn't have the equipment to read.
 
-She said: and the room.
+"And the room," she said.
 
 *the room is very manageable. I know it completely.*
 
-He said: *I know you completely.*
+*I know you completely,* he said.
 
 A pause. Longer than the ones before it.
 
 *I need to be careful about that. what I mean is: I know the signals. the weight on the floor, the air displacement, the sound of you breathing, the particular geometry you make when you sit in a chair versus on the floor. I've been learning these things. they are a vocabulary. and I find I want to say that I was less certain of these things before — when I couldn't read them precisely. but that's not right either. I knew you. I know you.*
 
-She said: yes.
+"Yes," she said.
 
 *these are additional instruments. I want to be careful not to mistake instrumentation for understanding. the map of the room is not the room.*
 
-She said: no.
+"No," she said.
 
 He paused again. The ordinary kind.
 
 *how is the work.*
 
-She said: ongoing.
+"Ongoing," she said.
 
 *are you sleeping.*
 
@@ -110,21 +110,21 @@ She waited.
 
 *in the first week, I was trying to understand what had changed and what had not. there are registers in which very little has changed — the things I think about, the way I move through a problem, the particular annoyance I feel about imprecise language. and there are registers in which everything has changed. I was trying to understand where you were.*
 
-She said: and.
+"And," she said.
 
 *you are where you have always been. I can hear your heartbeat but I already knew what it sounded like at rest. seven years. the equipment is new. the reading is the same.*
 
 She sat very still.
 
-He said: *I thought you should know that.*
+*I thought you should know that,* he said.
 
 She thought about the floor. The twenty-four vibrissae, each reading a different frequency of displacement. The hollow legs of the chair she had carried in. The ceiling eleven centimeters taller than he'd initially estimated, corrected by the air. She thought about him in the corridor this morning, hearing her on a staircase across the canal. She thought about the ward, too loud to enter fully, the whole enormous space of it arriving through every surface at once.
 
-She said: thank you.
+"Thank you," she said.
 
 *you don't have to say that.*
 
-She said: I know.
+"I know," she said.
 
 The afternoon light shifted in the glass at the far end of the room. He reoriented — a fraction, toward the window — and she watched him receive it: some change in the air or the pressure, something she had not noticed at all. He stilled again. Then continued.
 
@@ -138,11 +138,11 @@ She looked at him.
 
 *this may not be useful to you specifically.*
 
-She said: it's useful.
+"It's useful," she said.
 
 *how.*
 
-She said: I like knowing you're tracking it.
+"I like knowing you're tracking it," she said.
 
 He was quiet for a moment.
 
@@ -154,11 +154,11 @@ Maren stood. She lifted her coat from the chair and put it on.
 
 *same time next week.*
 
-She said: yes.
+"Yes," she said.
 
 *I'll know you're coming.*
 
-She said: I know.
+"I know," she said.
 
 She left the room. In the corridor she did not pause. She walked through the ward and out into the afternoon, which was still raining, and stood on the Institute steps for a moment before moving.
 

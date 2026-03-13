@@ -36,7 +36,7 @@ She could see him. She had not prepared herself for this — for the ordinary fa
 
 *I want to say first that I am not in distress. the experience is extraordinary. I understand that word is insufficient. I'm working on a better one.*
 
-She said: tell me.
+"Tell me," she said.
 
 The pause that followed was the ordinary kind — the kind she had been listening to for seven years while he assembled what he meant, while he found the right order.
 
@@ -46,7 +46,7 @@ She waited.
 
 *I want you to understand that this is not a simple thing to describe. I'm going to try to be accurate rather than reassuring.*
 
-She said: please.
+"Please," she said.
 
 *you smell of the building. our building, specifically — the mineral quality of the water in the pipes. the particular composition of dust in the north stairwell. the way the third-floor landing holds air differently from the rest. you carry all of this with you, layered. and above that: rain. you carry a great deal of rain.*
 
@@ -58,7 +58,7 @@ She was quiet.
 
 *I knew you were in the corridor before you knocked. I knew before the door opened that it was you opening it. I wanted you to know that.*
 
-She said: are you frightened?
+"Are you frightened?" she said.
 
 The pause this time was longer.
 
@@ -68,7 +68,7 @@ He had been awake before she had. She had left the apartment when the hall light
 
 *the whiskers — may I tell you about the whiskers? I've been trying to find the right way.*
 
-She said: yes.
+"Yes," she said.
 
 *each one reads the displacement of air. your breathing — I can feel the rhythm of it as movement before I hear the sound. the heat your body puts into the room. what I can only describe as the acoustic geometry of you: the specific shape you make in the space. you're sitting against the east wall with your knees up. that is not a guess. I can feel the shape of it. it's as if your sense of your own body extended outward into the room around you — as if you could feel the space the way you feel your hands. this isn't accurate but it's the nearest I have.*
 

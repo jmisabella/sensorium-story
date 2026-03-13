@@ -64,7 +64,7 @@ She handed him the supply chain diagram she'd made. He studied it — thoroughly
 
 He handed the diagram back. She noticed what he did with it: he looked at what she had and returned it to her hands, rather than copying it to his own files. Four years of working together had established this rhythm — she kept her threads, he kept his, they brought them together when they were ready. It was efficient. It worked. She felt something she did not name when he handed the diagram back.
 
-He said: "We're close to enough to give the Council a structure." Not a question.
+"We're close to enough to give the Council a structure," he said. Not a question.
 
 "Close," she said. "Not yet."
 
@@ -102,7 +102,7 @@ Maren made no move. She had learned when not to.
 
 "I never met her," the woman said. "Nobody I know has. But everybody knows the same story." She looked at her hands briefly, then at the middle distance. "She was at the Institute. One of the research staff. She found something — something that would have changed what the whole program meant, if it was true. And then one day she wasn't there anymore." A pause. "Harlan moved her off her work. This was about twelve years ago. And whatever she'd found went somewhere it couldn't be found anymore."
 
-Maren said: why did she leave.
+"Why did she leave," Maren said.
 
 "He reassigned her," the woman said. "She left after that." Another pause, shorter. "The story also says she didn't leave empty-handed. But nobody can verify that part."
 
@@ -110,7 +110,7 @@ Somewhere in the covered yard, water was finding a gap in the roof — she could
 
 She wrote it in her notebook: *She left the Institute. Twelve years ago. Harlan reassigned her.*
 
-She said: do you know her name.
+"Do you know her name," she said.
 
 "No," the woman said. "Nobody does. That's half the reason people believe it."
 

@@ -44,11 +44,11 @@ She recognized something in this framing. It came from somewhere she had written
 
 "I've read what the early transplants say," he continued. "I've been reading carefully. The adjustment period is real. The early stage is disorienting — I understand that, I'm not minimizing it. But the people who come through it, what they say about what persists — the mind is there, Maren. The specific way of thinking. The particular way of looking at things. It persists."
 
-She said: "The program has capacity constraints. The waiting list for early-stage candidates is—"
+She said, "The program has capacity constraints. The waiting list for early-stage candidates is—"
 
 "I know the waiting list," he said. Gentle. Patient. "That's not what I'm asking about."
 
-She said: "The methodology is still being refined. The early transfer period, the adjustment, there's uncertainty about the—"
+She said, "The methodology is still being refined. The early transfer period, the adjustment, there's uncertainty about the—"
 
 "There's always uncertainty," he said. "That's not a reason."
 
@@ -56,7 +56,7 @@ She could feel the real argument. It had been right there for three years, sitti
 
 She couldn't say it.
 
-She said: "The program. The timing. There are things that aren't resolved—"
+She said, "The program. The timing. There are things that aren't resolved—"
 
 "Maren."
 
@@ -74,7 +74,7 @@ She could not answer this.
 
 Not because she had nothing. Because the answer she had was the one she couldn't say.
 
-She said: "I hear you."
+"I hear you," she said.
 
 He nodded. He did not take this as agreement and did not push. He sat with it the way he'd been sitting with the assessment since Tuesday, she understood — he had been carrying this all week and had brought it to her when he was ready to bring it — and then he rose and went back to the stove and turned off what needed turning off, and they ate.
 
