@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/jeffrey/Documents/Git/sensorium-story/chapters/CONTINUITY_LOG.md:*)"
+    ]
+  }
+}

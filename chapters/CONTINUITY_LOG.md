@@ -601,3 +601,63 @@ Each entry records decisions made in prose that are not derivable from planning 
   - Nadia's argument is now on the table. When Maren confronts Harlan in Ch. 18, she will be holding both frameworks simultaneously — and neither will be dismissable. The confrontation scene must honor that Maren has heard Nadia's argument first.
   - Maren knows she will return to Nadia. Beat 22 (Ch. 16) is that return — when she brings the archive data. The meeting in Ch. 14 ends with "she would need to come back," which is the setup for Ch. 16's second meeting.
   - The non-arrest choice is now made. Soren's Ch. 17 mirror scene must honor that this is a decision already taken — not a decision Soren forces her to make, but a decision he confirms she has made.
+
+---
+
+## Chapter 15 — SHORT SENTENCES
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. Eli's device output all lowercase, italicized. His output is now fully degraded to short, plain sentences — no subordinate clauses, no qualifications, no reach into old languages or precise hedging vocabulary. He is still himself in attention and care; the structure of his speech is gone, not the substance of it.
+
+- **Structural landmarks handled**:
+  - "She did not sleep" — ABSENT ✓ (reserved for Ch. 20 only)
+  - "Sensorium" — ABSENT ✓ (reserved for Ch. 20)
+  - No Dael appearance — correct ✓ (Dael final state is Ch. 18)
+  - No Soren appearance — correct ✓ (Soren mirror scene is Ch. 17)
+  - **Central image placed near-verbatim**: *She read each word carefully, the way you read something you know is getting harder to read.* Placed mid-chapter, while reading his response. Do not repeat in any future chapter.
+
+- **The one explicit contrast with First Contact**: He says *rain* — a single word — where in the first session he described her scent for six lines. The contrast is delivered via Maren's brief internal recall: *"the mineral quality of the water in the pipes... And rain. you carry a great deal of rain... You have always had these names. I simply did not have the equipment to read them."* She thinks: *she had been right. she still was.* This is the chapter's only explicit before/after comparison. Do not make this comparison again.
+
+- **The naming of what's gone — placed once**: One paragraph, mid-chapter, after his response: "There had been a time when he would have found the frame — the reach into whatever the right language was..." This names the degradation directly once and does not return to it. The naming is from Maren's interiority, not editorial. Do not repeat this accounting in a later chapter.
+
+- **The Beat 20 dialogue — canonical verbatim**:
+  - He: *what are you working on.*
+  - She: the investigation. The resistance network.
+  - He: *does it help to say it out loud.*
+  - She: yes.
+  - He: *then say it.*
+  - (She does.)
+  - After pause — He: *it's not solvable.*
+  - She: I know.
+  - He: *you're asking the right things.*
+  - He: *the woman's question. about me.* [pause] *I can't answer it for you. I know that's not—* [pause] *I know.*
+  - He: *but I'm here. that part I'm sure of.*
+  - She: thank you.
+  - He: *good. come back.*
+
+- **"I'm here. that part I'm sure of."** — This is his answer to the substrate question. He does not claim continuity. He does not say "I am Eli." He claims presence. That is the most he can say truthfully, and it is what he says. This is now canonical. If referenced in later chapters, honor this distinction: not a claim of identity, a claim of presence.
+
+- **"The woman's question. about me."** — He isolates the heart of what she told him. He picks the most important thing and names it plainly. Before, he would have found the frame that addressed everything. Now he picks the center and says it directly. This demonstrates the degradation via the method of response, not the content.
+
+- **The apologies — absent**: Correct. In Ch. 12, the losses were mid-sentence and he caught them; he apologized. By Ch. 15, the sentences are simply shorter — he no longer catches the losses because they've been absorbed into his new baseline. No apologies in this chapter. Do not have him apologize for short sentences in any future chapter.
+
+- **What she told him**: She described the investigation (the network's shape, the philosophical center, the fringe violence), the woman she met (not named, not located), the argument (substrate question, copy argument, the watching cities), what she couldn't dismiss. He was told about Nadia's question without Nadia being identified. This is consistent with Ch. 14's non-arrest choice — she does not log or name the contact.
+
+- **The notebook detail**: She brought a notebook with investigation threads, in case she needed specifics in front of her. She never took it out. This is the chapter's closing image. Do not reference the notebook again unless necessary.
+
+- **Room details — unchanged**: Ceiling panel seam, catch pan (inch of water from previous night), folding chair, floor-level terminal at far wall. Consistent with Ch. 13. She says goodnight to the terminal on leaving; screen holds his last lines. ✓
+
+- **Visit number**: Not specified in prose. Ch. 13 established "visit 7" for the Freeze. This chapter is post-Freeze; exact visit number not tracked here. Do not invent a specific number in future reference.
+
+- **Physical details**:
+  - She stands on the steps after leaving without adjusting her collar — consistent with Ch. 13 and Ch. 14's closing images.
+  - His signal steadiness during her talking — she can tell he is present because the signal holds. Available for later use if signal degradation becomes a plot point, but not required.
+
+- **Deviations from plan**: None. Beat 20 delivered as specified. Central image placed near-verbatim. The investigation content (including Nadia's question) conveyed to him in this session. "Does it help / yes / then say it" placed verbatim.
+
+- **What future chapters must honor**:
+  - His speech baseline is now established for this chapter. Ch. 19 (Eli's Plea — "I don't want you to become this") must show further degradation from this baseline — or at minimum be consistent with it.
+  - "I'm here. that part I'm sure of." — canonical. If Maren thinks about this in Ch. 20 (the choice), the distinction between presence and identity should be honored.
+  - He knows about Nadia's question, though not who asked it. His framing: *the woman's question. about me.* This is available for resonance in the plea scene and the final chapter.
+  - Central image (*the way you read something you know is getting harder to read*) is placed. Do not echo it in Ch. 16, 17, 18, or beyond. Let it sit.
+  - The notebook is a one-time detail. Do not carry it forward.
+  - "good. come back." — his final line in this session. Plain, direct, still his. The care is in the plainness.
