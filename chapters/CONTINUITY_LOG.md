@@ -717,3 +717,45 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The ambiguity is real and Maren holds it: she does not know if the research would have worked. Harlan's argument (Ch. 18) must land against this — he will say the data was preliminary, which Maren already knows. She cannot dismiss this.
   - Maren's health suspicion ("she was, this time, less successful") has been touched once in this chapter. Ch. 20 (The Choice) is where this becomes explicit. Do not accelerate it.
   - Act Three (Ch. 17 — SOREN) follows directly. There is no time-jump indicated in the chapter; Ch. 17 can open the next day or shortly after.
+
+---
+
+## Chapter 17 — SOREN
+
+- **Act break placed**: Roman numeral *III* appears on the line before the chapter header, marking the Act Three break. This is the manuscript convention — a blank page with the numeral precedes the chapter.
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. The dialogue pattern is deliberately varied away from the "Name said:" attribution — action beats, implied turns, and minimal attribution used throughout. The mirror paragraph (Maren's post-scene reflection) runs slightly longer than the exchange itself; this is intentional — the chapter's weight is in what she thinks after he leaves, not in what is said.
+
+- **Structural landmarks handled**:
+  - "She did not sleep" — ABSENT ✓ (reserved for Ch. 20 only)
+  - "Sensorium" — ABSENT ✓ (reserved for Ch. 20)
+  - No Dael appearance — correct ✓ (Dael final state is Ch. 18)
+  - No Eli scene — correct ✓ (no visit in this chapter; his presence is implicit only)
+  - *SOREN MIRROR SCENE placed* ✓ — third and final Soren measurement
+
+- **The operational gap — what Soren asks about**: He noticed the Institute records query (bioscience division, twelve-year-old sealed collection under Harlan's administrative hold). Three hours unaccounted for in her log after the query. This is specific and plausible — the query would leave a system record both could access, and the gap afterward is the kind of thing a careful partner would notice. This is consistent with Ch. 13's Soren appearance (unlogged eastern district afternoon) and Ch. 9 (room four thread withheld).
+
+- **Maren's redirect — verbatim**: She says: bioscience division, twelve-year-old sealed collection under Harlan's administrative hold; the researcher thread since spring; wanted to understand what she'd been doing before she left. Then (after he says "And"): methodological dead end, research files, nothing operational. Then (after he notes the three unlogged hours): I walked. All three components are partial truths. Do not vary these if referenced in future chapters.
+
+- **Soren's established detail — new**: He has a habit of rotating his cup clockwise, both hands around it, when in this mode. Catalogued here; do not repeat or over-reference, but available.
+
+- **He gives her the exit**: He says "all right" without pressing. The prose frames this explicitly as the third exit he has given her (the unlogged afternoon in eastern district / Ch. 13; the canal contact deflection / Ch. 13; and now this). He does not require explanation. This is a form of professional courtesy that is also, the prose notes, "not a small thing."
+
+- **The Council summary deadline established**: He reminds her — "the Council summary. End of week." She says yes. This is a live operational item; if referenced in Ch. 18, honor it.
+
+- **The mirror moment — how it was rendered**: In her post-scene reflection, she identifies what Soren is: the version of herself who has always done the work without residue. The specific formulation: she remembers filing the report three years ago that said *expected sensory adjustment period*, going home, not sleeping, telling herself it was fine. She cannot locate the point of divergence — "there had been too many exits, each one small, that she had taken without naming them as exits." She does not name the early transfer explicitly by scene but by its consequence (the report, the not-sleeping). Do not revisit this accounting in Ch. 18 or 19; let it sit here.
+
+- **"He is her past" — not named directly**: The prose does not use this phrase. It is rendered through the specific contrast: what he does (surface efficiency, case-shaped questions, what falls outside the case belongs outside the case) against what she has been doing. The distance is measured, not dramatized or stated.
+
+- **The rat**: A rat crosses the drainage channel in the street below — fast, purposeful, not pausing — and is gone. Present but not annotated. Consistent with the story's atmospheric rat presence throughout.
+
+- **Chapter length**: Short, per instruction. Two scenes effectively: the exchange at her desk, and her reflection afterward. Clean section break between them.
+
+- **Deviations from plan**: None. Beat 22.5 delivered as specified. The operational gap (Institute archive query) was chosen as more plausible than a location-based gap, given the archive was logged (as "standard records inquiry," per Ch. 16) and the subsequent three hours were not. The "partial truth, redirect, he lets it go" sequence executed as planned.
+
+- **What future chapters must honor**:
+  - This is the third Soren measurement (Ch. 9, Ch. 13, Ch. 17). He will not appear again as a speaking character — the arc is complete. Future references to him (if any) should honor that he noticed and chose not to press.
+  - The Council summary deadline (end of week) is live. If Maren's timeline matters in Ch. 18 or 19, this is a pending professional obligation.
+  - The redirect is now in her log implicitly — she told him the archive query was a dead end. If the archive contents ever become a professional matter (Council inquiry, OA review), she has logged it as methodological dead end/nothing operational. She has not lied to him in writing, only in conversation.
+  - The three-exit pattern is now complete (Ch. 9, Ch. 13, Ch. 17). The reader has the full shape of Soren's professional generosity without it being named. No further tracking needed.
+  - Maren's reflection ends with her going back to work — forward motion. Ch. 18 (HARLAN) follows.
