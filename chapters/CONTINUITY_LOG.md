@@ -661,3 +661,59 @@ Each entry records decisions made in prose that are not derivable from planning 
   - Central image (*the way you read something you know is getting harder to read*) is placed. Do not echo it in Ch. 16, 17, 18, or beyond. Let it sit.
   - The notebook is a one-time detail. Do not carry it forward.
   - "good. come back." — his final line in this session. Plain, direct, still his. The care is in the plainness.
+
+---
+
+## Chapter 16 — THE ARCHIVE
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. The chapter runs in two tones: archive/investigation mode (clipped, methodical, sparse) and the second meeting with Nadia (slower, more deliberate, the weight of what they're both looking at filling the room). Nadia's dialogue rendered in the same format as Ch. 14: colon-introduced, no quotation marks, precise and load-bearing. No excess.
+
+- **Structural landmarks handled**:
+  - "She did not sleep" — ABSENT ✓ (reserved for Ch. 20 only)
+  - "Sensorium" — ABSENT ✓ (reserved for Ch. 20)
+  - No Dael appearance — correct ✓ (Dael final state is Ch. 18)
+  - No Soren appearance — correct ✓ (Soren mirror scene is Ch. 17)
+  - **END OF ACT TWO placed** ✓ — chapter closes in suspension, not in resolution
+
+- **The archive scene — how it was handled**:
+  - Voss: referenced but not dramatized — she is efficient and apologetic, gives the archive location without understanding the question. She does not appear in person in this chapter; her role is delivered in one summary sentence. Do not reintroduce her.
+  - The principal researcher listed as: *N. Vasquez, bioscience division.* Maren notes it, copies it to her log, and reads the file before connecting it — the connection is made mid-chapter ("the data and the person were the same thing") through her recognition of the "researcher" thread she has been following for three months.
+  - Harlan's note rendered verbatim: *REVIEWED — REASSIGNED — ARCHIVE.* Date-stamped twelve years ago. This is now canonical; do not vary the phrasing.
+  - She sits with the note for a long time — rendered as "she sat with this one" (the investigator's discipline of holding a shape without hurrying).
+  - She makes herself not think about herself — rendered twice, with the second instance failing: "She was, this time, less successful." This is the chapter's only acknowledgment of the health suspicion thread. Do not dramatize it further in this chapter; it sits in the reader.
+
+- **Nadia's "describe before reading" moment — how it landed**:
+  - Nadia says: *I want to tell you what's in it first.* She then describes: (1) the inhibitor pathway targeting the CDFS cascade at second stage, (2) the early-stage patient population of thirteen individuals, (3) the next-stage requirements — 60 participants, 4-year monitored collection, controlled environment, (4) the internal designation "CDFS-7" — not in the literature when named, a specific unverifiable detail that functions as proof of authorship.
+  - She says: *that's what's in the file.* Then: *read it.*
+  - After reading: *everything I remember is there.* This is her confirmation line. Canonical; do not vary.
+
+- **Nadia's response to the ambiguity**:
+  - Maren says it may not have led anywhere — "I'm not defending it. I'm saying the data is preliminary."
+  - Nadia: *I know. I designed the study. I know exactly how preliminary it was.* She then says she cannot prove it would have worked — "That was always the problem." Then: *but it was buried. That I can prove now.*
+  - This is the chapter's pivot line. The confirmation is not of a cure but of a deliberate act. Do not vary this framing in future chapters.
+
+- **What Nadia sees vs. what Maren sees**:
+  - Nadia sees confirmation of what she has claimed for twelve years. No surprise — the expression of someone recognizing a room from the other side of a locked door.
+  - Maren sees ambiguity: the data looks real, but she cannot read the gap between what it was and what it might have become. She says this aloud. Both positions are rendered without resolution.
+
+- **Nadia's closing line**: *I've been there.* — in response to Maren saying she doesn't know yet what she'll do with the data. Not an invitation, not advice. A recognition. This is her final line in this chapter. Do not use it again.
+
+- **The building — details honored**: Man at door (looks at face then hands, steps aside, not present when she leaves). Two flights, water-stain on landing wall. Room: two salvage lamps, table at center, boarded windows, interior shaft. Nadia in same chair, hands still on table. Consistent with Ch. 14. ✓
+
+- **The chapter's closing image**: Maren in the doorway of Nadia's building, rain coming down, drainage channel running fast. "She had the data. She had known what she was going to do with it before she came up the stairs. She didn't know yet. Both things were true." This suspended contradiction is the Act Two ending — not a resolution but a held impossibility. Do not resolve it in memory or reference; let it be unresolved going into Act Three.
+
+- **"Come back" echo — deliberate, noted**: Nadia's closing line (*I've been there*) was chosen specifically to avoid echoing Eli's *good. come back.* from Ch. 15. The two scenes have different registers and purposes; the echo was avoided.
+
+- **The cure's irreversibility for Eli — placed**: In the archive section, rendered plainly: "The cure, if it had ever become a cure, worked only pre-transplant. Eli's appointment had been months ago. There was no version of these two facts in which one undid the other." This is stated once, without dramatization. Do not re-state it in Act Three as new information — it is already in the reader.
+
+- **Maren's interiority in Nadia's room — what she thought about**: She thought about Harlan's note, the man three years ago going still mid-sentence, the screen going dark, Eli's return from the freeze ("I don't have the word. A pressure. It needed following."), and the four-year timeline in the file. She connected these without editorial. She did not think about the cure and herself directly — only the failure to not think about herself is noted.
+
+- **Deviations from plan**: None. Beats 21 and 22 delivered as specified. Voss is present as summary context rather than dramatized scene (this is appropriate — her role is purely functional). The "she did not sleep" phrase from the sketch was correctly replaced with different language. Act Two ends in suspension, not resolution.
+
+- **What future chapters must honor**:
+  - Harlan's note (*REVIEWED — REASSIGNED — ARCHIVE.*, twelve years ago) is now established verbatim.
+  - "Everything I remember is there." — Nadia's confirmation. If referenced, use this phrasing.
+  - "But it was buried. That I can prove now." — the pivot line. Honor this when Maren confronts Harlan in Ch. 18: she is not bringing a proven cure; she is bringing proof of a deliberate act.
+  - The ambiguity is real and Maren holds it: she does not know if the research would have worked. Harlan's argument (Ch. 18) must land against this — he will say the data was preliminary, which Maren already knows. She cannot dismiss this.
+  - Maren's health suspicion ("she was, this time, less successful") has been touched once in this chapter. Ch. 20 (The Choice) is where this becomes explicit. Do not accelerate it.
+  - Act Three (Ch. 17 — SOREN) follows directly. There is no time-jump indicated in the chapter; Ch. 17 can open the next day or shortly after.
