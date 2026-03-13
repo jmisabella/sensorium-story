@@ -35,3 +35,29 @@ Each entry records decisions made in prose that are not derivable from planning 
   - Her hands open: this physical detail is meaningful and should recur in scenes where she is with him or thinking of him. Do not explain it.
   - The city's drainage channels: she knows the specific crossing point, two blocks from the apartment. She times them.
   - Eli's voice in BEFORE is distinct from his voice on the device (Act Two). Future sessions should honor the contrast: full sentences, texture, warmth — what is being lost is specifically this.
+
+---
+
+## Chapter 2 — HOME
+
+- **Physical details continued**: Table cleared / bag set down (from Ch. 1, confirmed in present tense). Lamp on his side, her side in lower light (confirmed). Hands open in her lap (confirmed, end of chapter).
+
+- **The cough (first present-tense appearance)**: Established in one beat — he turns toward the wall at the stove, brief, hand on counter, back to the pot. Unremarked by either. "They had had fourteen months to make this adjustment." Do not repeat this exact formulation in future chapters.
+
+- **The food**: Fennel — she mentioned it six or seven weeks ago, offhand, not as a request. He found it. She notices in the eating (the smell coming through clean in the broth). She says nothing. He says nothing about having found it. This is their economy confirmed in the present tense.
+
+- **Reading aloud (this chapter)**: A student's sentence: *"the idea that there was a better time is doing a lot of work for a lot of people."* Third-year student, female, working through anger at historical nostalgia. Maren responds: "That's too bad." Eli laughs — short, genuine. Do not reuse this student or this register in future reading-aloud moments.
+
+- **The full presence moment**: She puts the report down and watches him write in the margins — "not managing anything at all." He looks up, sees her, holds it a second or two, looks back down. No remark from either. This is the chapter's emotional center. Do not call back to it explicitly.
+
+- **Dael (first present-tense appearance)**: Eli mentions casually that Dael had a good session — six or seven full sentences. Dael told him about the ventilation runs in the east corridor; the sound travels through the building structure in unexpected ways. Eli: "He seems interested in it." Four months post-transplant, still engaged, exploring. Foreshadowing entirely implicit — the reader takes it as ordinary neighbor news.
+
+- **Voice/style**: Same register as Ch. 1. Short declaratives, functional precision. Eli's humor is warm and brief. The exchange about the student establishes their dry shorthand in the present tense.
+
+- **Structural markers NOT placed here**: "She did not sleep" does not appear. "Sensorium" does not appear. Correct.
+
+- **What future chapters must honor**:
+  - The "fourteen months" places Eli in late early stage: cough managed and present, functional, not yet at the middle stage.
+  - The fennel detail is not referenced again unless there is a strong reason.
+  - The full presence moment remains unremarked upon — any future echo should stay implicit.
+  - Dael's interest in the ventilation/sound-travel seeds his eventual drift toward the building's infrastructure. Future Dael beats should honor this direction.
