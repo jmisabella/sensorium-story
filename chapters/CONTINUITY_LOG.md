@@ -208,3 +208,51 @@ Each entry records decisions made in prose that are not derivable from planning 
   - The real argument she cannot say (the man three years ago, "adjustment") is active in this chapter but unspoken. It remains unspoken through Beat 9. It is first fully articulated — to herself, in her own thinking — after the Freeze (Beat 18 aftermath).
   - The not-touching in bed is explicitly marked as consideration, not distance. If this physical arrangement recurs, honor the distinction.
   - The ink stain under his left thumb: established here. Available for later use.
+
+---
+
+## Chapter 7 — THE PROCEDURE
+
+- **Voice/style decisions**: Continuous with prior chapters — short declaratives, functional precision, Maren's observational mode. The sabotage scene (Beat 8) runs in the clipped procedural register of Ch. 3 and Ch. 5. Beat 9 (Eli's decision) is rendered largely in dialogue and physical observation, Maren's interior rendered as a felt shape she cannot articulate rather than as extended prose — same mechanism as the real argument she couldn't say in Ch. 6. Beat 10 (transplant day) returns to the procedural register to heighten the emotional weight of what is not said; the love-grief passage (the craft note) is placed mid-section, not at the chapter's end, so it doesn't function as a sentimental conclusion.
+
+- **Structural landmarks placed**:
+  - "She did not sleep" — ABSENT ✓ (reserved for Ch. 8, 13, 20)
+  - "Sensorium" — ABSENT ✓ (reserved for Ch. 4 — already placed — Ch. 13, Ch. 20)
+  - *End of Act One* — falls at the chapter's final image
+
+- **Beat 8 — three things established**:
+  1. **Supply chain signature**: timing components and couplings — confirmed as matching the canal service road signature from Ch. 5 (Peret). Same hands. Soren confirms.
+  2. **Unusual access pattern**: delivery corridor (0112) + main entry (0109) — two points, suggesting three people (two through delivery, one through the front with standard facility clearance). The three operational signatures in the equipment damage (array taken vs. structural damage) confirm the third person.
+  3. **Small detail that doesn't fit — pocketed**: The emergency override on room four's internal lock was activated from inside before the team arrived. The unharmed candidate in that room had known they were coming. Maren notes it, does not pursue it yet. This is the unresolved thread she carries forward. **Future chapters must pick this up** — it seeds the inside-knowledge investigation thread that leads toward the network's shape.
+
+- **The Council pressure**: Present through Soren's "the Council is going to want someone in a room by the end of the week." Not dramatized through a Council scene. Sufficient.
+
+- **Beat 9 — key line placed**:
+  - *"I know what it costs. I'd rather pay it."* — delivered in the apartment. Near-verbatim as specified.
+  - The version from Ch. 6 was "I know what it costs. I'm not going in without knowing." This chapter's version has the finality of decision, not argument. The escalation is intentional.
+  - He uses "I need you to hear something" — asking her to hear him, not asking permission. Consistent with the beat specification.
+  - The real argument she cannot say: rendered as interior prose with the mechanism explicit — she cannot say it without believing it, cannot believe it without believing it about him. The word "adjustment" surfaces again, as the door she has kept closed for three years. Does NOT become "sensorium" here — that escalation is reserved for Ch. 13 aftermath.
+  - Her response: "Okay." — rendered as surrender, not agreement. He sees the difference.
+
+- **Beat 9 — table not cleared**: He does not clear the table before this conversation. His papers are still spread. This is a deliberate break from the established gesture — the gesture belongs to the ordinary arrangement of their life, and this is not that. The bag goes beside the table, not in the space. Future sessions should honor this: when the table is not cleared, something is off.
+
+- **The fragment**: He asks her to keep the pre-war fragment he has been working on. She says yes. The fragment is not further described — it belongs to the gesture, not its content. Available for later reference if needed; not required.
+
+- **Beat 10 — notification wording**: *"Procedure complete. Remains cremated. Recovery commenced."* — administrative language. She reads it twice. This phrasing is now established; if referenced in Act Two, honor it.
+
+- **Beat 10 — craft note delivered**: The love-grief passage is three sentences placed mid-section (after she reads the message, before she returns to work): he knew she wouldn't be there / seven years taught him the shape / he made room without naming it / the kind of love that doesn't announce itself / the kind that costs more to hold than to have given. This is the only extended interiority in the section. Do not revisit this specific passage or paraphrase it too closely in future chapters — let it stand as the beat's center, not a refrain.
+
+- **Health suspicion**: NOT placed in Ch. 7. The chapter carries too much structural weight already; forcing a health moment would dilute it. The thread resumes in Act Two as specified. This absence is intentional and not a gap.
+
+- **Physical details established or confirmed**:
+  - Ink stain under his left thumb: confirmed in Beat 9
+  - The table-clearing gesture: *inverted* in Beat 9 — he hasn't cleared it. This inversion is significant and should be felt against the established pattern.
+  - The space he made: the chapter ends on the open space on the table where his clearing always made room for her. She stands in the doorway looking at it. This is the chapter's final image. Do not call it forward explicitly; let it sit.
+  - The facility notification goes to "designated family" — Maren is his designated family contact. Established here.
+
+- **What future chapters must honor**:
+  - The inside-access detail (room four's emergency override, activated from inside) is the planted unresolved thread from Beat 8. Ch. 9 (Beat 12 — network shape) or Ch. 13 (Beat 17) should pick it up as the investigation deepens. It implies someone in the pre-procedure wing had advance knowledge of the attack — which changes the moral calculus of the resistance's actions.
+  - The table not cleared in Beat 9: this break from the established gesture is meaningful. If the table-clearing gesture recurs in Act Two (in memory, in the rat-visits to the terminal space, in the apartment), the Ch. 7 inversion is available as contrast.
+  - "Recovery commenced" in the notification establishes the Act Two timeline's starting point — the recovery period before the communication device is calibrated. Ch. 8 (First Contact) follows from this.
+  - The fragment Eli asked her to keep has not been described. If it appears in Act Two (possible: she finds it on the table, brings it to a visit), its content should be consistent with his teaching and the themes of the story — incomplete, half-lost, worth preserving.
+  - Act One is complete. Ch. 8 opens Act Two with the act break.
