@@ -54,7 +54,7 @@ Soren had moved on to the logistics documentation — the supply access points, 
 
 "Any pattern in the eight?"
 
-He looked. He hadn't looked at that specifically. After a moment: "Early-stage. All eight were in early-stage intake."
+He looked. He hadn't looked at that specifically. After a moment, he said, "Early-stage. All eight were in early-stage intake."
 
 "So not people who were about to go under."
 

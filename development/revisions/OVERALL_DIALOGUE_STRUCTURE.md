@@ -22,11 +22,14 @@ Specific rules:
 - Output ONLY the revised text. No explanations, no comments, no before/after comparison.
 
 ## SESSION 1
-In chapters/ directory, update chapters 1 - 7 to revise all dialogues as described in this document. 
+In chapters/ directory, update chapters 1 - 5 to revise all dialogues as described in this document. 
 
 ## SESSION 2
-In chapters/ directory, update chapters 8 - 14 to revise all dialogues as described in this document. 
+In chapters/ directory, update chapters 6 - 10 to revise all dialogues as described in this document. 
 
 ## SESSION 3
-In chapters/ directory, update chapters 15 - 20 as well as epilogue to revise all dialogues as described in this document. 
+In chapters/ directory, update chapters 11 - 15 to revise all dialogues as described in this document. 
+
+## SESSION 4
+In chapters/ directory, update chapters 16 - 20 as well as epilogue to revise all dialogues as described in this document. 
 
