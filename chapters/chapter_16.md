@@ -118,7 +118,7 @@ Read it, Maren said.
 
 ---
 
-Nadia picked up the device. She read.
+Nadia picked up the device and read.
 
 It was not a long file. She read it slowly anyway. Maren watched her face, which did not change much — not in the way of someone suppressing feeling, in the way of someone who has been living with a thing for twelve years and no longer has a version of themselves who would be surprised. The expression she made was the expression of someone recognizing a room they had last seen from the other side of a locked door.
 

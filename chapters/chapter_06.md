@@ -36,7 +36,7 @@ She was quiet.
 
 "I know this isn't the first time. But I've been reading. I've been thinking about it the way I should have been thinking about it. I wanted to say what I actually think, not what I think will be least difficult for you to hear."
 
-She put her hands in her lap. They were open.
+She put her hands in her lap, open.
 
 "The mind is what I am," he said. "I believe this. I've believed it a long time — not as a comfortable thing, as a working conclusion. I've examined it." He paused, selecting. "The mind is the thing that teaches. The thing that finds the word. The thing that looks at a student's sentence and knows whether it's doing what it should be doing. That is the irreducible thing. The rest—" A brief gesture. "The rest is substrate."
 

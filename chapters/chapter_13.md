@@ -172,6 +172,6 @@ She could not find another word. She had been in the room when the word was almo
 
 *The sensorium.* The word sat in her like something that didn't fit the space it was in.
 
-She walked home. She went in. She did not turn the light on. She sat by the window in the dark and looked at the street below, which was wet and empty and looked the way it always looked. She sat there for a long time.
+She walked home. Inside, she did not turn the light on. She sat by the window in the dark and looked at the street below, which was wet and empty and looked the way it always looked, for a long time.
 
 She did not sleep.

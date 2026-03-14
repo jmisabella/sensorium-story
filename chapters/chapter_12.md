@@ -102,6 +102,6 @@ She had withheld things from him, across seven years. She had softened things. S
 
 She went down the steps.
 
-In the apartment she did not turn the light on for a long time. The drainage channel across the street was running high — she could hear it through the window glass — and she sat by the window and looked at the street below, which was wet and empty and looked the way it always looked. A rat moved along the base of the far building, purposeful, gone before she had fully registered it.
+In the apartment she did not turn the light on for a long time. The drainage channel across the street was running high — she could hear it through the window glass — and she sat by the window and looked at the street below, which was wet and empty and looked the way it always looked. A rat moved along the base of the far building and was gone.
 
 She thought about the word he'd been reaching for. She did not know what it was. She had heard the shape of the absence, not the word itself — whatever he had been assembling, in the four days he'd been listening to the building's frequencies and thinking about what accumulated and stayed, had not come through. It had gotten partway and then the thread had broken and he had found another thread and followed that one instead, and she had said what she had said, and he had believed her.

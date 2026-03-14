@@ -2,7 +2,7 @@
 
 The drive was on the table.
 
-She had taken it from her coat pocket when she came in and set it there, and she had not touched it since. Two hours, or close to it. The window ran with rain. The drainage channel below the street ran fast and dark, the color of what the eastern district was putting in.
+She had taken it from her coat pocket when she came in and set it there, and she had not touched it since. Two hours, or close to it. Rain moved down the window in thin lines. The drainage channel below the street ran fast and dark, the color of what the eastern district was putting in.
 
 She sat in the chair facing the window. The room was the same room it had always been. She had not turned on the lamp.
 

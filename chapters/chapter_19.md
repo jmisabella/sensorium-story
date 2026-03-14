@@ -12,9 +12,7 @@ The room: the seam in the ceiling panel where the addition met the original cons
 
 Yes, she said.
 
-He was still across the room — not passive, not waiting. That active stillness she had learned to read. The continuous reading of the space. His attention on her.
-
-She looked at her hands. Open in her lap.
+He was still across the room — not passive, not waiting. That active stillness she had learned to read, the continuous reading of the space. His attention on her.
 
 ---
 

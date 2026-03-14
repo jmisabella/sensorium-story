@@ -96,7 +96,7 @@ He reached across the table — not reaching for her, just settling a paper that
 
 "I'll keep it."
 
-They sat with it for a while. Outside the window, rain ran down the glass in slow tracks that branched and went dark.
+They sat with it for a while. Outside the window, rain ran down the glass and went dark.
 
 ---
 

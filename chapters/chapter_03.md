@@ -28,7 +28,7 @@ Soren looked at the map. "Philosophical core, violent fringe drawing from it."
 
 "Yes."
 
-He said it the way you note an operational complication — an additional variable, a constraint to account for. Then he moved on, which was the right thing to do.
+He said it the way you note an operational complication — an additional variable, a constraint to account for — and moved on, which was the right thing to do.
 
 He pulled up the detention files from the first incident: two people picked up in the adjacent building the night of the records attack, held for questioning, released when they came up clean. She had read these already. One of them had given a statement before her advocate arrived — technically inadmissible, not pursued.
 

@@ -52,7 +52,7 @@ During those five to eight years, he continued, voluntary participation in the t
 
 Might not have, she said.
 
-Preliminary research has a well-documented yield, he said. Between eight and fifteen percent of promising early-stage work produces clinically viable results, under ideal conditions. These were not ideal conditions. He said it the way you state a rate. I weighed the certainty of continued deaths against the contingency of a treatment that might not materialize. The archive decision followed from that calculation.
+Preliminary research has a well-documented yield, he said — between eight and fifteen percent of promising early-stage work produces clinically viable results, under ideal conditions. These were not ideal conditions. He said it the way you state a rate. I weighed the certainty of continued deaths against the contingency of a treatment that might not materialize. The archive decision followed from that calculation.
 
 She looked at him. She had been in rooms like this before — the organized defense, the argument that held its seams. She was trained to find where it didn't hold. She sat with the shape of what he had said and looked for the place.
 

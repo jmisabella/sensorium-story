@@ -60,7 +60,7 @@ Much later he put down his papers and stretched and said he was going to sleep, 
 
 She sat in the remaining light.
 
-The rain was the same as it always was. The city outside the window was doing what the city did: draining, cycling, persisting in the particular way of something that had been persisting a very long time and had stopped noticing it was tired.
+The city outside the window was doing what the city did: draining, cycling, persisting in the particular way of something that had been persisting a very long time and had stopped noticing it was tired.
 
 She closed the report.
 

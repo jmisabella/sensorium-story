@@ -48,7 +48,7 @@ The procurement thread she had been building since Monday had three junctions an
 
 The junctions were useful. The north-end attack had required components: modified timing relays, a specific coupling stripped from decommissioned processing equipment and reconditioned. She had traced these through two salvage brokers, one registered and one not, to a distribution node in the mid-district that had never appeared in any OA file she could locate. The node was not a person but a warehouse: unit twelve in a row of eight along the canal service road, registered to a holding company that had changed names three times in four years.
 
-She had gone there twice. The second time she found someone.
+The second time she went, she found someone.
 
 His name was Peret. He was approximately fifty, with the look of someone who had been working with his hands since before it was interesting and would still be doing it after everyone else had stopped. He was not afraid of her. He was also not talking, which was its own information.
 
@@ -84,11 +84,11 @@ She wrote it in her notebook. *the researcher.* Lowercase, the way she wrote a p
 
 She took the rest of what he had — two broker names, a routing pattern along the canal service road, a date she had not known. She thanked him. She left.
 
-Outside, it was raining the way it had been raining all day — not heavily, just present, the kind that came in layers and never quite resolved. The canal was running with color from the outer district runoff. She stopped at the railing.
+Outside, the rain came in layers, steady and unresolved. The canal was running with color from the outer district runoff. She stopped at the railing.
 
 *The researcher figured it out.*
 
-She didn't know who this was yet. Below, in the canal, something moved along the far bank at the waterline — fast, purposeful, gone before she had fully registered it.
+She didn't know who this was yet. Below, in the canal, something moved along the far bank at the waterline — fast, gone before she turned toward it.
 
 She wrote a second note beneath the first: *Institute. Former. Left under circumstances Harlan would describe carefully.*
 

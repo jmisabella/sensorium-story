@@ -4,7 +4,7 @@ She came home to fennel.
 
 He had found it somewhere — she had no idea where — because she had said something about it six weeks ago, or seven: the supply had been intermittent for months, she had stopped expecting it. She hadn't been asking for anything.
 
-He had cleared the table. She set her bag in the space.
+He had cleared the table again. She set her bag in the space.
 
 "Ten minutes," he said, not turning from the stove.
 

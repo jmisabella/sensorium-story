@@ -116,7 +116,7 @@ She wrote it in her notebook: *She left the Institute. Twelve years ago. Harlan 
 
 ---
 
-She walked back to the car in the rain.
+She walked back to the car.
 
 The phrase had been circulating for eight or nine months, according to Peret. Long enough to have grown past its origin. Long enough to have become the kind of story that moved through a network without needing to be verified — an explanation that fit the shape of what people knew and filled the gaps they couldn't account for.
 

@@ -10,7 +10,7 @@ The room was small and clean and purposeful: a cot against the north wall for ea
 
 She sat on the floor in front of it. She had not thought to bring a chair.
 
-Through the window the rain came in at an angle. The room was the kind of clean that required effort to maintain and nobody would remark on. She sat with her back against the wall and her knees up and looked at the space. The room was approximately three meters across. She registered this without fully understanding why she was registering it.
+Through the window the rain came in at an angle. She sat with her back against the wall and her knees up and looked at the space — approximately three meters across — and registered this without fully understanding why she was registering it.
 
 She waited.
 

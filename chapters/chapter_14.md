@@ -38,7 +38,7 @@ Maren waited.
 
 She looked at Maren for a moment. Not assessing — she had already assessed. The quality of someone who has asked a question so many times that asking it once more is not an effort, just an act.
 
-"I want to ask you something," she said. "About Eli."
+"I want to ask you something. About Eli."
 
 Maren said nothing.
 
@@ -84,7 +84,7 @@ Maren looked at her hands on the table.
 
 They sat with that. The rain worked at the boarded windows.
 
-"I want to tell you something one of my people said, coming back from an expedition to the northern city," she said. "Three years ago. We sent four people overland — the route had been passable, once. We wanted to know if there was anyone left to reach."
+"One of my people said something, coming back from an expedition to the northern city. Three years ago. We sent four people overland — the route had been passable, once. We wanted to know if there was anyone left to reach."
 
 "They found the city intact. Structurally. Buildings standing, streets navigable, the infrastructure running on its own logic, the way infrastructure does when no one has been maintaining it for long enough. No people. The team spent three days."
 
@@ -112,7 +112,7 @@ They talked for another hour. Maren put her counter-arguments and put them hones
 
 It did not feel like a compliment. It felt like an accurate description of where things were.
 
-"I'm not asking you to agree with me," she said. "I'm not asking for conversion. I'm asking you to keep looking at what you're already looking at."
+"I'm not asking you to agree with me. I'm not asking for conversion. I'm asking you to keep looking at what you're already looking at."
 
 "That I'm doing," Maren said.
 
