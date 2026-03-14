@@ -1,17 +1,25 @@
 > complete_story.txt
 pbcopy < chapters/chapter_01.md
 pbpaste >> complete_story.txt
+pbcopy < poems/post-chapter-1-poem.txt
+pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_02.md
 pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_03.md
 pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_04.md
 pbpaste >> complete_story.txt
+pbcopy < poems/post-chapter-4-poem.txt
+pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_05.md
 pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_06.md
 pbpaste >> complete_story.txt
+pbcopy < poems/post-chapter-6-poem.txt
+pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_07.md
+pbpaste >> complete_story.txt
+pbcopy < poems/post-chapter-7-poem.txt
 pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_08.md
 pbpaste >> complete_story.txt
@@ -35,10 +43,16 @@ pbcopy < chapters/chapter_17.md
 pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_18.md
 pbpaste >> complete_story.txt
+pbcopy < poems/post-chapter-18-poem.txt
+pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_19.md
 pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_20.md
 pbpaste >> complete_story.txt
+pbcopy < poems/post-chapter-20-poem.txt
+pbpaste >> complete_story.txt
 pbcopy < chapters/epilogue.md
+pbpaste >> complete_story.txt
+pbcopy < poems/post-epilogue-poem.txt
 pbpaste >> complete_story.txt
 
