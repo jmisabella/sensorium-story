@@ -69,3 +69,4 @@ On the steps outside she stopped. The rain was steady. She stood without adjusti
 The notebook was still in her bag. She had brought it in case she needed the specifics in front of her — the threads, the names, something to organize around. She had said it all without them. He had not needed her to point. He had listened and said the right things.
 
 She walked home.
+

@@ -71,3 +71,4 @@ She thought about the progression chart from last month — the appointment she 
 She stopped thinking about it.
 
 She crossed the bridge and went to work.
+

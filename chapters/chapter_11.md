@@ -61,3 +61,4 @@ She wrote in her investigation log: *subject accessible. passage terminal, groun
 At the top of the stairwell, a door opened and closed. She did not hear steps on the stairs coming down.
 
 She went out into the rain.
+

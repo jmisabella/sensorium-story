@@ -195,3 +195,4 @@ She stood for a moment in the doorway.
 She had the data. She had known what she was going to do with it before she came up the stairs. She didn't know yet. Both things were true, standing in the doorway with the rain coming down in front of her and the lamplight from the street barely reaching the channel where the water was running fast and dark.
 
 She walked.
+

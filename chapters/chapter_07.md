@@ -131,3 +131,4 @@ She went home to the apartment.
 He had cleared the table before he left. Her side was open. She stood in the doorway for a moment, looking at the space he had made.
 
 She was very still for a while.
+

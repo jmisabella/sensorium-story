@@ -5,6 +5,10 @@
 All chapters are in the chapters/ directory:
 chapters 1-20 and then the epilogue. Please ignore CONTINUITY_LOG.md which was used when developing the chapters.
 
+Do NOT rewrite large sections. Suggest, do not impose.
+
+Do NOT ever DELETE any of the chapter files in chapters/. Do NOT edit complete_story.txt.
+
 ##### SESSION 1
 ────────────────────────────────────────
 PASS 1 – Arc & Structure + Early Pacing + Maren’s Voice
