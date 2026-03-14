@@ -40,7 +40,7 @@ She put her hands in her lap. They were open.
 
 "The mind is what I am," he said. "I believe this. I've believed it a long time — not as a comfortable thing, as a working conclusion. I've examined it." He paused, selecting. "The mind is the thing that teaches. The thing that finds the word. The thing that looks at a student's sentence and knows whether it's doing what it should be doing. That is the irreducible thing. The rest—" A brief gesture. "The rest is substrate."
 
-She recognized something in this framing. It came from somewhere she had written down.
+She recognized the framing. It was Harlan's. She had written it down in the briefing room three weeks ago — *the mind is not the brain, the mind is what the brain does* — and had told herself it cost her nothing. Now she heard it in Eli's mouth and found that it still cost her something she had not named.
 
 "I've read what the early transplants say," he continued. "I've been reading carefully. The adjustment period is real. The early stage is disorienting — I understand that, I'm not minimizing it. But the people who come through it, what they say about what persists — the mind is there, Maren. The specific way of thinking. The particular way of looking at things. It persists."
 

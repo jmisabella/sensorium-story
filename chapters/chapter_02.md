@@ -50,6 +50,4 @@ The weight that had been sitting at the base of her sternum since morning had re
 
 She finished the section. Not well, but adequately. She could revise it in the morning.
 
-At some point she became aware that her hands had settled open in her lap, loose, not braced against anything. She had not arranged them that way.
-
-She left them where they were.
+She left the report where it was. She did not return to it.

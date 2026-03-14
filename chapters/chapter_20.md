@@ -52,11 +52,7 @@ She had not said that to Harlan. She had looked at him and not said it.
 
 *I don't want you to become this.*
 
-Five words, said with what he had left. He had used what remained for this.
-
-She understood him. Not the floor, the cold, the dark. He meant the word that left with him mid-sentence. He meant *a pressure. it needed following.* He meant the four months of watching her try to find him in the shorter sentences and finding him — still finding him, still there in some irreducible way — and knowing that the reaching was becoming harder for both of them.
-
-He was still there enough to see her clearly. That was the thing she had to hold at the same time.
+Five words, said with what he had left. He was still there enough to see her clearly. That was the thing she had to hold at the same time.
 
 ---
 

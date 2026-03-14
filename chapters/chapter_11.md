@@ -52,7 +52,9 @@ She waited.
 
 *different.*
 
-The screen went dark. She stayed in the passage for several minutes. The air was still. She could hear the ventilation, the building's slow working. The terminal did not activate again.
+The screen went dark. She stayed in the passage. The air was still. She could hear the ventilation, the building's slow working. The terminal did not activate again.
+
+*Well. Different.* Two words, full stop, and nothing. In the autumn he had given her the building in full — the east corridor, the south wall, the thermal infrastructure chapter by chapter, the voice and the logic entirely intact. That was four months ago.
 
 She wrote in her investigation log: *subject accessible. passage terminal, ground level, building 44 canal service road. proximity to eastern canal infrastructure approx. two hundred meters. eastern district operations cluster: within documented range.* She noted the time. She backed out of the passage and stood.
 
