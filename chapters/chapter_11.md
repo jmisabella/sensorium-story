@@ -62,3 +62,5 @@ At the top of the stairwell, a door opened and closed. She did not hear steps on
 
 Rain found the collar seam again. She did not adjust it. Above her the building continued its slow work — the east corridor with its sealed panel, the thermal gap he couldn't reach, the warmth at the utility corner that he had mapped with such patience. She had written it down: *thirty-four distinct thermal variations.* She had not understood what that much careful attention was for. She thought she was beginning to.
 
+--------
+

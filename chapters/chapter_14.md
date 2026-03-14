@@ -128,3 +128,5 @@ She had been building a case for six weeks, methodically, the way she built case
 
 She was not going to turn Nadia in. She knew this the way she knew the decision had already been made when she wrote the address in her notebook instead of her log. She noted it as a fact, without commentary, without justification, and then she walked. The word she had waited for had not arrived. The drainage channel along the canal-side street was running high and dark from the outer district runoff. She crossed it. Beneath her coat the notebook was where she had put it, the address still in the wrong place, and she walked with that weight and did not try to redistribute it.
 
+--------
+

@@ -47,6 +47,8 @@ pbcopy < poems/post-chapter-18-poem.txt
 pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_19.md
 pbpaste >> complete_story.txt
+pbcopy < poems/post-chapter-19-poem.txt
+pbpaste >> complete_story.txt
 pbcopy < chapters/chapter_20.md
 pbpaste >> complete_story.txt
 pbcopy < poems/post-chapter-20-poem.txt

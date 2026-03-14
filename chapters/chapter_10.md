@@ -168,3 +168,5 @@ She had not known he was there.
 
 The rain fell at the same pitch it had always fallen. She had no equipment to read it differently. She walked through it with her hands at her sides, open in the way they sometimes were when she was not managing anything, and did not notice this until she was already home.
 
+--------
+

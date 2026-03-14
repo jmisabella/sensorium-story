@@ -70,3 +70,5 @@ The notebook was still in her bag. She had brought it in case she needed the spe
 
 She did not open the notebook. She walked home, the terminal behind her still holding his last lines — she knew this without looking back.
 
+--------
+

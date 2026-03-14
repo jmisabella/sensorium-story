@@ -104,3 +104,5 @@ She made tea. She let it go cold.
 
 She lay in the dark and listened to the rain move against the glass. She thought about the mineral smell of the pipes — the north stairwell, the third-floor landing — the particular quality she had been carrying all these years without knowing she carried it.
 
+--------
+

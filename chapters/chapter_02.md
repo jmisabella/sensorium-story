@@ -52,3 +52,5 @@ She finished the section. Not well, but adequately. She could revise it in the m
 
 She left the report where it was. His lamp was still on — on his side of the table, where he had placed it years ago without ceremony, and where it would stay.
 
+--------
+

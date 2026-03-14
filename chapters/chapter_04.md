@@ -72,3 +72,5 @@ She stopped thinking about it.
 
 She crossed the bridge. Below, the drainage channel moved east, carrying what it had been carrying all week. She walked with Harlan's line still in the sequence she had written it — *the pattern adapts; the sensorium is merely the interface* — and found that the words had a different weight outside the briefing room than they had in it.
 
+--------
+
