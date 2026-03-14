@@ -50,7 +50,7 @@ He said:
 
 She sat with it. The room sat with it. The catch pan took its next drop.
 
-She understood him. Not the body — not the floor, the cold, the dark. He meant the word that had left with him mid-sentence. He meant the 34 minutes in the empty room. He meant *a pressure. it needed following.* He meant whatever it was that had taken him from the room that day and had not fully returned.
+She understood him.
 
 He was still there enough to see her clearly. He had used what remained for this.
 

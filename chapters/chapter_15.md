@@ -12,7 +12,7 @@ She sat down. "Hello, Eli," she said.
 
 She had walked from the eastern district — an hour, maybe more, the rain starting midway through and not letting up. "Yes," she said.
 
-That was all. She remembered a session more than a year ago when she had walked through rain and he had described it for six lines — the mineral seep from the building's pipes, the stairwell dust, and then the rain itself, its specific weight and what it meant that she carried that much of it. *You have always had these names. I simply did not have the equipment to read them.* She had thought: that is exactly him. She had been right. She still was.
+That was all. She remembered a session more than a year ago when she had walked through rain and he had described it for six lines — the mineral seep from the building's pipes, the stairwell dust, and then the rain itself, its specific weight and what it meant that she carried that much of it. *You have always had these names. I simply did not have the equipment to read them.* She had thought: that is exactly him.
 
 *what are you working on.*
 

@@ -108,7 +108,7 @@ Neither of them said anything for a while. The room held its particular quiet �
 
 She waited.
 
-*in the first week, I was trying to understand what had changed and what had not. there are registers in which very little has changed — the things I think about, the way I move through a problem, the particular annoyance I feel about imprecise language. and there are registers in which everything has changed. I was trying to understand where you were.*
+*in the first week, I was trying to understand what had changed and what had not. there are registers in which very little has changed — the things I think about, the way I move through a problem, the particular annoyance I feel about imprecise language. I still want to read things into the room. the room is different now. the wanting is the same. and there are registers in which everything has changed. I was trying to understand where you were.*
 
 "And," she said.
 

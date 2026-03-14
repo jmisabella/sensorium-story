@@ -32,6 +32,8 @@ The screen activated.
 
 She did not say: that isn't what you were reaching for. She heard the shape of it before the screen went dark, felt it in the architecture of the sentence — a word with more load in it, something he'd been building toward for weeks probably, testing in his thinking, not yet ready to put down. *Context* was accurate. It was not the word.
 
+She had watched him look for the word before. The pen going still. The room waiting while he found it. He had always found it.
+
 He continued.
 
 ---
