@@ -92,8 +92,6 @@ She turned off the light in the kitchen. He turned off the lamp at the table. Th
 
 In bed she lay on her side and he lay on his. The distance between them was not large. It was a considered distance — she knew, in the specific way she knew things about him without examining them, that he was awake. She knew that he knew she was awake. Neither of them said anything about it. The weight they were each carrying was not something to put down on the other. That was not what you did, not when the other person was already holding the same weight from the other side.
 
-The rain came at the window.
-
 She thought about what he'd said — *the mind is what I am* — and she thought about Dael in the east corridor, learning the building's warmth, his humor intact, his sentences full. She thought about the man three years ago who had sat on the observation table and come back to her from wherever he'd gone with the screen saying *sorry. smell. it was very strong.* She thought about the word she'd written in the report.
 
 *Adjustment.*

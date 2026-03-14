@@ -74,7 +74,5 @@ She sat until the nurse tapped the corridor glass. She stood. She looked at the 
 
 The screen held his last lines.
 
-Outside on the steps she stood in the rain without moving. The drive was in her pocket. The drainage channel ran fast beneath the forecourt bridge, dark, carrying color from the outer district runoff.
-
-She walked toward home.
+Outside on the steps she stood in the rain without moving. The drive was in her pocket. She held five words and did not try to put them down. She moved when she was ready, and not before.
 

@@ -80,5 +80,5 @@ She looked at the space between the pins on the map. The records destruction at 
 
 She wrote it in her log.
 
-Someone at the center of this was thinking carefully. She was going to have to think carefully too.
+Someone at the center of this was thinking carefully. She looked at the space between the pins and did not give it more shape than it had yet earned.
 

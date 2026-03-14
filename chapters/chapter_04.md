@@ -62,7 +62,7 @@ Harlan passed her in the corridor as the Council members dispersed toward the el
 
 She went down the stairs to the street.
 
-It was raining, the way it was always raining here. She put her collar up and went east toward the Oversight offices. Two streets out, the bridge over the drainage channel: the water running fast today, carrying color from the outer district runoff. She crossed it and paused briefly at the rail.
+It was raining, the way it was always raining here. She put her collar up and went east toward the Oversight offices. Two streets out, the bridge over the drainage channel: the water running fast today, carrying color from the outer district runoff. She paused at the rail.
 
 She thought about Eli.
 
@@ -70,5 +70,5 @@ She thought about the progression chart from last month — the appointment she 
 
 She stopped thinking about it.
 
-She crossed the bridge and went to work.
+She crossed the bridge. Below, the drainage channel moved east, carrying what it had been carrying all week. She walked with Harlan's line still in the sequence she had written it — *the pattern adapts; the sensorium is merely the interface* — and found that the words had a different weight outside the briefing room than they had in it.
 

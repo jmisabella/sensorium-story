@@ -84,7 +84,7 @@ She didn't answer.
 
 ---
 
-He turned toward the window. The drainage channel was running fast below, color in it from the outer district runoff, the rain still coming.
+He turned toward the window. Below, the city went about its ordinary work in the rain.
 
 The people who were transferred in the program's early years, he said. You know what the Institute's records show about their communication patterns. About the withdrawal from common spaces.
 

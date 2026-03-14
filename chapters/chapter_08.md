@@ -46,7 +46,7 @@ She waited.
 
 *I want you to understand that this is not a simple thing to describe. I'm going to try to be accurate rather than reassuring.*
 
-"Please," she said.
+"Please."
 
 *you smell of the building. our building, specifically — the mineral quality of the water in the pipes. the particular composition of dust in the north stairwell. the way the third-floor landing holds air differently from the rest. you carry all of this with you, layered. and above that: rain. you carry a great deal of rain.*
 
@@ -58,7 +58,7 @@ She was quiet.
 
 *I knew you were in the corridor before you knocked. I knew before the door opened that it was you opening it. I wanted you to know that.*
 
-"Are you frightened?" she said.
+"Are you frightened?"
 
 The pause this time was longer.
 
@@ -68,7 +68,7 @@ He had been awake before she had. She had left the apartment when the hall light
 
 *the whiskers — may I tell you about the whiskers? I've been trying to find the right way.*
 
-"Yes," she said.
+"Yes."
 
 *each one reads the displacement of air. your breathing — I can feel the rhythm of it as movement before I hear the sound. the heat your body puts into the room. what I can only describe as the acoustic geometry of you: the specific shape you make in the space. you're sitting against the east wall with your knees up. that is not a guess. I can feel the shape of it. it's as if your sense of your own body extended outward into the room around you — as if you could feel the space the way you feel your hands. this isn't accurate but it's the nearest I have.*
 
@@ -98,9 +98,9 @@ She walked home through the rain.
 
 In the afternoon she went to the Oversight Authority offices and worked for several hours on the supply chain section she had been deferring. She filed two reports. She ate at her desk. In the evening she came home to the apartment and sat by the window and watched the drainage channel run fast in the street below.
 
-She thought about the way he had said *I'd been wondering whether I'd know* — the specific quality of that uncertainty, the precision of it, the fact that he had been lying there in the dark before the light changed and wondering whether the first signal from the device would be recognizable as him. And it had been. And she had heard it. She thought about the smell of the north stairwell and the third-floor landing and what it would mean to carry those with you everywhere. She thought about the way his stillness across the room had not been stillness at all.
+She thought about the way he had said *I'd been wondering whether I'd know* — the specific quality of that uncertainty, the precision of it, the fact that he had been lying there in the dark before the light changed and wondering whether the first signal from the device would be recognizable as him. And it had been. And she had heard it. She thought about what it would mean to carry a building with you everywhere — the whole structure of where you had lived, in the air of every room you entered. She thought about the way his stillness across the room had not been stillness at all.
 
 She made tea. She let it go cold.
 
-She did not sleep.
+She lay in the dark and listened to the rain move against the glass. She thought about the mineral smell of the pipes — the north stairwell, the third-floor landing — the particular quality she had been carrying all these years without knowing she carried it.
 

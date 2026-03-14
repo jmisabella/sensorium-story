@@ -18,7 +18,7 @@ She sat down. She thought about this briefly and then stopped thinking about it.
 
 *I want to tell you something about the whiskers.*
 
-"Yes," she said.
+"Yes."
 
 *I've been trying to find the right vocabulary for a week and a half. I don't have it yet. but I have something close enough.*
 
@@ -38,7 +38,7 @@ She looked at him at the edge of the image. He was not facing the camera. He was
 
 *I was in the room for an hour before you arrived. I mapped it. the ventilation grate in the east wall is loose — there's a pressure difference at its edges that I can feel from anywhere in the room. the ceiling is eleven centimeters higher than I initially estimated; the air circulation pattern told me I had it wrong. the chair you brought is here now* — she saw him reorient fractionally, toward where she sat — *and its legs are hollow. it rings differently.*
 
-"You can tell that," she said.
+"You can tell that."
 
 *it took a moment. I wasn't certain. but yes.*
 
@@ -46,7 +46,7 @@ She looked at the chair. An ordinary facility chair, institutional plastic, the 
 
 *may I tell you something you might not want to hear.*
 
-"Yes," she said.
+"Yes."
 
 *the world is bigger than I thought.*
 
@@ -74,7 +74,7 @@ He paused.
 
 She looked at him across the room. She could see him — his attention trained on something she could not perceive, reading the air, reading the floor. The map was continuous. He was reading always, even as the screen carried his words to her. She had thought at the first visit that the stillness was peace. She understood now that it was something else: attention at a frequency she didn't have the equipment to read.
 
-"And the room," she said.
+"And the room."
 
 *the room is very manageable. I know it completely.*
 
@@ -84,17 +84,17 @@ A pause. Longer than the ones before it.
 
 *I need to be careful about that. what I mean is: I know the signals. the weight on the floor, the air displacement, the sound of you breathing, the particular geometry you make when you sit in a chair versus on the floor. I've been learning these things. they are a vocabulary. and I find I want to say that I was less certain of these things before — when I couldn't read them precisely. but that's not right either. I knew you. I know you.*
 
-"Yes," she said.
+"Yes."
 
 *these are additional instruments. I want to be careful not to mistake instrumentation for understanding. the map of the room is not the room.*
 
-"No," she said.
+"No."
 
 He paused again. The ordinary kind.
 
 *how is the work.*
 
-"Ongoing," she said.
+"Ongoing."
 
 *are you sleeping.*
 
@@ -116,15 +116,15 @@ She waited.
 
 She sat very still.
 
-*I thought you should know that,* he said.
+*I thought you should know that.*
 
 She thought about the floor. The twenty-four vibrissae, each reading a different frequency of displacement. The hollow legs of the chair she had carried in. The ceiling eleven centimeters taller than he'd initially estimated, corrected by the air. She thought about him in the corridor this morning, hearing her on a staircase across the canal. She thought about the ward, too loud to enter fully, the whole enormous space of it arriving through every surface at once.
 
-"Thank you," she said.
+"Thank you."
 
 *you don't have to say that.*
 
-"I know," she said.
+"I know."
 
 The afternoon light shifted in the glass at the far end of the room. He reoriented — a fraction, toward the window — and she watched him receive it: some change in the air or the pressure, something she had not noticed at all. He stilled again. Then continued.
 
@@ -138,11 +138,11 @@ She looked at him.
 
 *this may not be useful to you specifically.*
 
-"It's useful," she said.
+"It's useful."
 
 *how.*
 
-"I like knowing you're tracking it," she said.
+"I like knowing you're tracking it."
 
 He was quiet for a moment.
 
@@ -154,11 +154,11 @@ Maren stood. She lifted her coat from the chair and put it on.
 
 *same time next week.*
 
-"Yes," she said.
+"Yes."
 
 *I'll know you're coming.*
 
-"I know," she said.
+"I know."
 
 She left the room. In the corridor she did not pause. She walked through the ward and out into the afternoon, which was still raining, and stood on the Institute steps for a moment before moving.
 
@@ -166,5 +166,5 @@ He had been in the corridor that morning. He had heard her on the stairs across 
 
 She had not known he was there.
 
-She walked home through it.
+The rain fell at the same pitch it had always fallen. She had no equipment to read it differently. She walked through it with her hands at her sides, open in the way they sometimes were when she was not managing anything, and did not notice this until she was already home.
 

@@ -6,17 +6,17 @@ He was at the screen when she came in. She noticed this differently than she had
 
 *you smell like the canal today.*
 
-"I came past the main bridge," she said.
+"I came past the main bridge."
 
 *the runoff changes after the heavy rain. something in the eastern filtration. I've been tracking it by day.*
 
-"Of course you have," she said.
+"Of course you have."
 
 A thinking pause — the kind she knew, the ordinary gathering kind. Then:
 
 *I want to tell you something I've been trying to find language for.*
 
-"Tell me," she said.
+"Tell me."
 
 *it's a timing question. words used to arrive with what I can only call*
 
@@ -28,7 +28,7 @@ The screen activated.
 
 *context. words used to arrive with context already assembled. that's — yes.*
 
-"I understand," she said.
+"I understand."
 
 She did not say: that isn't what you were reaching for. She heard the shape of it before the screen went dark, felt it in the architecture of the sentence — a word with more load in it, something he'd been building toward for weeks probably, testing in his thinking, not yet ready to put down. *Context* was accurate. It was not the word.
 
@@ -56,11 +56,11 @@ She said nothing. She had heard the sentence before it paused: *when the baromet
 
 *I'm sorry.* A pause. *I know that wasn't — I know I lost something there. I could feel where it was and then it wasn't there.*
 
-"Don't apologize," she said.
+"Don't apologize."
 
 *I want to. it's important that I say so when I notice.*
 
-"All right," she said.
+"All right."
 
 She kept her face in the register she had developed for this room: present, steady, nothing loaded into it that he would have to manage from across the space. He could read her heartbeat. She could not control her heartbeat. She could control her face, and she did.
 
@@ -74,7 +74,7 @@ Then he said:
 
 *I want to tell you something I left out. when I described your smell in the first week.*
 
-"What did you leave out," she said.
+"What did you leave out."
 
 *there's a quality I didn't have language for. I still don't. it isn't location or weather or anything compound — those are easier, I have better instruments for those. this is something underneath. something that has accumulated over a long time. I've been thinking about the right word for — for the way it's both fixed and specific to*
 

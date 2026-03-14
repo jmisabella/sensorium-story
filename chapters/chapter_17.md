@@ -56,5 +56,5 @@ That was not a small thing. She had not thanked him for it and would not.
 
 Outside, the rain worked its way down the window. A rat crossed the drainage channel in the street below and was gone before she had looked up.
 
-She went back to work.
+She turned back to the logistics file. What had crossed the drainage channel was already gone. The work remained.
 

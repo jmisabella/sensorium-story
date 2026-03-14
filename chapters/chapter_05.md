@@ -84,7 +84,7 @@ She wrote it in her notebook. *the researcher.* Lowercase, the way she wrote a p
 
 She took the rest of what he had — two broker names, a routing pattern along the canal service road, a date she had not known. She thanked him. She left.
 
-Outside, the rain came in layers, steady and unresolved. The canal was running with color from the outer district runoff. She stopped at the railing.
+Outside, the rain came in layers, steady and unresolved. She stopped at the canal railing.
 
 *The researcher figured it out.*
 
@@ -92,5 +92,5 @@ She didn't know who this was yet. Below, in the canal, something moved along the
 
 She wrote a second note beneath the first: *Institute. Former. Left under circumstances Harlan would describe carefully.*
 
-She put the notebook away and went back to the road.
+She put the notebook away. Below, in the canal, the water moved east, keeping nothing.
 

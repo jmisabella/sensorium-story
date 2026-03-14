@@ -96,7 +96,7 @@ He reached across the table — not reaching for her, just settling a paper that
 
 "I'll keep it."
 
-They sat with it for a while. Outside the window, rain ran down the glass and went dark.
+They sat with it for a while. Outside the window, the rain. His lamp threw its light toward his side of the table, and her side was in the lower register, and this had always been the arrangement.
 
 ---
 
@@ -130,5 +130,5 @@ She went home to the apartment.
 
 He had cleared the table before he left. Her side was open. She stood in the doorway for a moment, looking at the space he had made.
 
-She was very still for a while.
+The lamp on his side of the table was off. She did not turn on another.
 

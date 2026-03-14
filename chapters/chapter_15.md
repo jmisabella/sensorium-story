@@ -6,7 +6,7 @@ The terminal activated.
 
 *there you are.*
 
-She sat down. "Hello, Eli," she said.
+She sat down. "Hello, Eli."
 
 *hello.* A pause. *rain.*
 
@@ -18,13 +18,13 @@ That was all. She remembered a session more than a year ago when she had walked 
 
 Not: has it been a difficult week, not: how are you holding the thing you've been holding. Just: *what are you working on.* The directness was always under the other parts. It was what remained.
 
-"The investigation," she said. "The resistance network."
+"The investigation. The resistance network."
 
-He said, "*does it help to say it out loud.*"
+*does it help to say it out loud.*
 
-"Yes," she said.
+"Yes."
 
-He said, "*then say it.*"
+*then say it.*
 
 ---
 
@@ -64,9 +64,9 @@ A pause.
 
 She left when the building's corridor light clicked on. She said goodnight to the terminal. The screen was still showing his last lines; it sometimes did that, held them past the signal's close.
 
-On the steps outside she stopped. The rain was steady. She stood without adjusting her collar.
+On the steps outside she stopped. The rain was steady. She stood with her hands at her sides.
 
 The notebook was still in her bag. She had brought it in case she needed the specifics in front of her — the threads, the names, something to organize around. She had said it all without them. He had not needed her to point. He had listened and said the right things.
 
-She walked home.
+She did not open the notebook. She walked home, the terminal behind her still holding his last lines — she knew this without looking back.
 

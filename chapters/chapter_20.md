@@ -100,7 +100,7 @@ She was leaning toward no.
 
 She had known this for some time. She had been staying in the question because the question felt more honest than the answer — because she had owed herself the full weight of it, owed Eli the full weight of it, before she let herself arrive. Harlan's argument. Nadia's question. The five words. The data about herself she had been not-looking at for eight months. She had stayed with all of it. She had tried to answer what she could.
 
-The research might lead somewhere. That was real. She was not setting it aside. She was letting it be part of the weight — not a resolution, not a reason, but present. If the inhibitor pathway was what the early data suggested, if the methodology existed to follow it, if the years of work could be done: there might come a time when the choice she was facing now was not the only choice. She did not know this. She was allowing herself to not-know it while leaning, still, toward no.
+The research might lead somewhere. That was real. She was not setting it aside. She was letting it be part of the weight — not a resolution, not a reason, but present. If the inhibitor pathway was what the early data suggested, if the methodology existed to follow it, if the years of work could be done: there might come a time when the choice she was facing now was not the only choice. She did not know this. She was allowing herself to not-know it while leaning toward no.
 
 This did not feel like a decision. It felt like something that had already happened, completed in some earlier moment she had not noticed, and she was only now looking at the place where it had occurred.
 
